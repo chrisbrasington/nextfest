@@ -1,4 +1,6 @@
 # Talos Principle 2
+Verdict: Love love love 👍
+
 I skipped the demo for the actual game is how much I love this series. :)
 
 [https://store.steampowered.com/app/835960/The_Talos_Principle_2/](https://store.steampowered.com/app/835960/The_Talos_Principle_2/)
