@@ -1,6 +1,8 @@
 # Talos Principle 2
 I skipped the demo for the actual game is how much I love this series. :)
 
+[https://store.steampowered.com/app/835960/The_Talos_Principle_2/](https://store.steampowered.com/app/835960/The_Talos_Principle_2/)
+
 [![Thumbnail](img/thumbnails/talos2.png)](img/demos/talos2.png)
 
 # Empty Shell V 
