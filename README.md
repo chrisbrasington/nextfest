@@ -257,6 +257,7 @@ Reminds me of those mario maker levels that are just near impossible. Sure some 
 Verdict: 👍 (30 minutes - 1 hour) 
 Two highschool anime ~~dweebs~~ girls get ~~isekai'd~~ persona-fied into a merging of their school and the demon realm. Look it's just Castlevania with anime girls. It's fun cause one has a gun (like azure striker) and the other a sythe and you can swap between the two with independent health bars and they can reach different things. Demo went 2x as long as I thought too, I'm not yet done.
 https://store.steampowered.com/app/2081400/Gal_Guardians_Demon_Purge/
+
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104211958.png)](img/demos/Pasted%20image%2020231104211958.png)
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104212002.png)](img/demos/Pasted%20image%2020231104212002.png)
 
