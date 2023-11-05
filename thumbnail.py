@@ -2,7 +2,7 @@ import os
 from PIL import Image
 import re
 
-# Step 1: Create thumbnails for images in img/demos
+# Step 1: Create thumbnails for images in img/demos if they don't already exist
 input_dir = "img/demos"
 output_dir = "img/thumbnails"
 
@@ -13,12 +13,16 @@ for root, dirs, files in os.walk(input_dir):
     for filename in files:
         if filename.lower().endswith(('.png', '.jpg', '.jpeg', '.gif')):
             img_path = os.path.join(root, filename)
-            img = Image.open(img_path)
-            thumbnail = img.copy()
-            thumbnail.thumbnail((400, 400))  # You can adjust the size of the thumbnail as needed.
-            thumbnail.save(os.path.join(output_dir, filename))
+            thumbnail_path = os.path.join(output_dir, filename)
+            
+            # Only create the thumbnail if it doesn't already exist
+            if not os.path.exists(thumbnail_path):
+                img = Image.open(img_path)
+                thumbnail = img.copy()
+                thumbnail.thumbnail((100, 100))  # You can adjust the size of the thumbnail as needed.
+                thumbnail.save(thumbnail_path)
 
-# Step 2: Read README.md and replace image links with thumbnails
+# Step 2: Read README.md and replace image links with thumbnails and full-size hyperlinks
 readme_path = "README.md"
 
 with open(readme_path, 'r') as f:
@@ -27,8 +31,8 @@ with open(readme_path, 'r') as f:
 def replace_image_links(match):
     img_path = match.group(1)
     thumbnail_path = os.path.join("img/thumbnails", os.path.basename(img_path))
-    full_size_link = f'![{img_path}]({thumbnail_path})'
-    return full_size_link
+    replaced_link = f'[![Thumbnail]({thumbnail_path})]({img_path})'
+    return replaced_link
 
 pattern = r'\!\[.*\]\((img/demos/[^)]+)\)'
 updated_readme_content = re.sub(pattern, replace_image_links, readme_content)
