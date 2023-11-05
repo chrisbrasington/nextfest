@@ -1,7 +1,7 @@
 # Talos Principle 2
 I skipped the demo for the actual game is how much I love this series. :)
 
-[[[![Thumbnail](img/thumbnails/talos2.png)](img/demos/talos2.png)
+[![Thumbnail](img/thumbnails/talos2.png)](img/demos/talos2.png)
 
 # Empty Shell V 
 Verdict: Liked 👍 
