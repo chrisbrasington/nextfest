@@ -449,7 +449,14 @@ Verdict: Purchased (on sale)
 https://store.steampowered.com/app/775500/SCARLET_NEXUS/
 # God Eater 3
 Verdict: Purchased
+
 https://store.steampowered.com/app/899440/GOD_EATER_3/
+
+[![Thumbnail](img/thumbnails/godeater3_1.jpeg)](img/demos/godeater3_1.jpeg)
+[![Thumbnail](img/thumbnails/godeater3_2.jpeg)](img/demos/godeater3_2.jpeg)
+[![Thumbnail](img/thumbnails/godeater3_3.jpeg)](img/demos/godeater3_3.jpeg)
+
+
 # Balan Wonderworld 👎
 Verdict: Oh god - I experienced something and it was terrible.
 https://store.steampowered.com/app/1341050/BALAN_WONDERWORLD/
