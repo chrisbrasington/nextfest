@@ -17,7 +17,9 @@ And like... I don't get it because this game is violent but I liked it. Maybe it
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104204423.png)](img/demos/Pasted%20image%2020231104204423.png)
 
 # Laika 👎
-Verdict: MIXED - mostly 👎 I wanted to like this, it's basically line rider on a motorcycle with guns, but I found its violence off-putting. Which is bizzarre cause it's not like I don't play violent games, but something about cartoon dogs and violence is the CENTRAL plot that actually made me not want to play it more. Which it's fairly fun and unique in movement - but I didn't want to play more [https://store.steampowered.com/app/1796220/Laika_Aged_Through_Blood/](https://store.steampowered.com/app/1796220/Laika_Aged_Through_Blood/ "https://store.steampowered.com/app/1796220/Laika_Aged_Through_Blood/") 
+Verdict: MIXED - mostly 👎 I wanted to like this, it's basically line rider on a motorcycle with guns, but I found its violence off-putting. Which is bizzarre cause it's not like I don't play violent games, but something about cartoon dogs and violence is the CENTRAL plot that actually made me not want to play it more. Which it's fairly fun and unique in movement - but I didn't want to play more 
+
+[https://store.steampowered.com/app/1796220/Laika_Aged_Through_Blood/](https://store.steampowered.com/app/1796220/Laika_Aged_Through_Blood/ "https://store.steampowered.com/app/1796220/Laika_Aged_Through_Blood/") 
 
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104204514.png)](img/demos/Pasted%20image%2020231104204514.png)
 
@@ -31,12 +33,14 @@ oh. my. god. I am blown away by **The Thaumaturge** demo. I had no idea what thi
 # Deep Rock Galactic Survivor 
 
 I really good demo I already played if you like vampire survivors or deep rock 
+
 [https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/](https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/ "https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/")
 
 [![Thumbnail](img/thumbnails/deeprocksurvivor.jpg)](img/demos/deeprocksurvivor.jpg)
 
 # Star Ocean: The Second Story R
 VERDICT: Too pretty WHERE IS MY XENOGEARS SQUARE.
+
 [https://store.steampowered.com/app/2238900/STAR_OCEAN_THE_SECOND_STORY_R/](https://store.steampowered.com/app/2238900/STAR_OCEAN_THE_SECOND_STORY_R/)
 
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104204738.png)](img/demos/Pasted%20image%2020231104204738.png)
@@ -75,6 +79,8 @@ https://store.steampowered.com/app/1893820/Jumplight_Odyssey/
 Verdict: 👎
 Uhh.. so I picked the mage who kin
 da looks like a rich asshole and must be because everyone HATED me. Like literally "my day was going great then you showed up". I'm supposed to study for an exam tomorrow. I just ran away from the town into a dense forest unit I ran out of mana and died. Maybe that's a little too much freedom or just wasn't... fun to play this character trope? Combat was fine. Graphics were fine. I dunno
+
+https://store.steampowered.com/app/1586990/Alterium_Shift/
 
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104205155.png)](img/demos/Pasted%20image%2020231104205155.png)
 # Reverse Collapse: Codename Bakery 
@@ -482,8 +488,11 @@ https://store.steampowered.com/app/1283220/Devolverland_Expo/
 # Final Fantasy VII Remake
 (note: demo only on.. PS4, really?)
 Verdict: Purchased
+
 https://store.playstation.com/en-us/product/UP0082-CUSA07237_00-FFVIIREMAKETRIAL
+
 https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/
+
 # Resident Evil 3
 Verdict: Mixed
 At the time, it was a VERY buggy demo. I recommend RE2 remake, but actually do not like RE3.
