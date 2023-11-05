@@ -1,10 +1,7 @@
 # Talos Principle 2
 I skipped the demo for the actual game is how much I love this series. :)
 
-![img/demos/Pasted%20image%2020231104205810.png](img/thumbnails/Pasted%20image%2020231104205810.png)
-
-![img/thumbnails/Pasted%20image%2020231104205810.png](img/demos/Pasted%20image%2020231104205810.png)
-
+![img/demos/talos2.png](img/thumbnails/talos2.png)
 
 # Empty Shell V 
 Verdict: Liked 👍 
