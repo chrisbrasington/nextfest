@@ -27,7 +27,7 @@ with open(readme_path, 'r') as f:
 def replace_image_links(match):
     img_path = match.group(1)
     thumbnail_path = os.path.join("img/thumbnails", os.path.basename(img_path))
-    full_size_link = f'![{thumbnail_path}]({img_path})'
+    full_size_link = f'![{img_path}]({thumbnail_path})'
     return full_size_link
 
 pattern = r'\!\[.*\]\((img/demos/[^)]+)\)'

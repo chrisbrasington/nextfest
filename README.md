@@ -1,6 +1,6 @@
 # Talos Principle 2
 I skipped the demo for the actual game is how much I love this series. 
-![img/thumbnails/Pasted%20image%2020231104205810.png](img/demos/Pasted%20image%2020231104205810.png)
+![img/demos/Pasted%20image%2020231104205810.png](img/thumbnails/Pasted%20image%2020231104205810.png)
 # Empty Shell V 
 Verdict: Liked 👍 
 
@@ -8,25 +8,25 @@ And like... I don't get it because this game is violent but I liked it. Maybe it
 
 [https://store.steampowered.com/app/2224850/EMPTY_SHELL_PROLOGUE/](https://store.steampowered.com/app/2224850/EMPTY_SHELL_PROLOGUE/ "https://store.steampowered.com/app/2224850/EMPTY_SHELL_PROLOGUE/")
 
-![img/thumbnails/Pasted%20image%2020231104204423.png](img/demos/Pasted%20image%2020231104204423.png)
+![img/demos/Pasted%20image%2020231104204423.png](img/thumbnails/Pasted%20image%2020231104204423.png)
 
 # Laika 👎
 Verdict: MIXED - mostly 👎 I wanted to like this, it's basically line rider on a motorcycle with guns, but I found its violence off-putting. Which is bizzarre cause it's not like I don't play violent games, but something about cartoon dogs and violence is the CENTRAL plot that actually made me not want to play it more. Which it's fairly fun and unique in movement - but I didn't want to play more [https://store.steampowered.com/app/1796220/Laika_Aged_Through_Blood/](https://store.steampowered.com/app/1796220/Laika_Aged_Through_Blood/ "https://store.steampowered.com/app/1796220/Laika_Aged_Through_Blood/") 
 
-![img/thumbnails/Pasted%20image%2020231104204514.png](img/demos/Pasted%20image%2020231104204514.png)
+![img/demos/Pasted%20image%2020231104204514.png](img/thumbnails/Pasted%20image%2020231104204514.png)
 
 # The Thaumaturge 
 oh. my. god. I am blown away by **The Thaumaturge** demo. I had no idea what this was going in, didn't even look into it other than it looked spooky. You're some sort of cursed, dying mystic in early 1900s haunted by some sort of grim reaper dude. You use perception abilities to force-memory objects and investigate situations, but you're trying to mostly cure yourself while your undead-ghost-spirit friend is... I'm sure not the most helpful. Combat is turn-based and very tight, like dodge and punch and win. Mr Ghosty is almost like a persona doing death-blows to enemies that can't see him. I image the story-aspects are like Disco Elysium. I'm getting some Sherlock Holmes vibes but better gameplay polish. Also the graphicsare crazy good. I've tracked down Rasputin who is unsure he can help me as I'm way more f-ed up than is within his healing abilities. This game is fucking dope.
 
 [https://store.steampowered.com/app/1684350/The_Thaumaturge/](https://store.steampowered.com/app/1684350/The_Thaumaturge/ "https://store.steampowered.com/app/1684350/The_Thaumaturge/")
-![img/thumbnails/Pasted%20image%2020231104204559.png](img/demos/Pasted%20image%2020231104204559.png)
-![img/thumbnails/Pasted%20image%2020231104204602.png](img/demos/Pasted%20image%2020231104204602.png)
+![img/demos/Pasted%20image%2020231104204559.png](img/thumbnails/Pasted%20image%2020231104204559.png)
+![img/demos/Pasted%20image%2020231104204602.png](img/thumbnails/Pasted%20image%2020231104204602.png)
 # Deep Rock Galactic Survivor 
 
 I really good demo I already played if you like vampire survivors or deep rock [https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/](https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/ "https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/")
 # Star Ocean: The Second Story R
 VERDICT: Too pretty WHERE IS MY XENOGEARS SQUARE.
-![img/thumbnails/Pasted%20image%2020231104204738.png](img/demos/Pasted%20image%2020231104204738.png)
+![img/demos/Pasted%20image%2020231104204738.png](img/thumbnails/Pasted%20image%2020231104204738.png)
 
 # ANOTHER CRAB'S TREASURE 
 VERDICT: The best demo I've ever played. I died in the tutorial a lot. I mean look at this. This is the TUTORIAL: [https://youtu.be/rWDyIRahXYc?si=jUS7kIv1eX2UW4i_](https://youtu.be/rWDyIRahXYc?si=jUS7kIv1eX2UW4i_ "https://youtu.be/rWDyIRahXYc?si=jUS7kIv1eX2UW4i_")
@@ -47,27 +47,27 @@ VERDICT: The best demo I've ever played. I died in the tutorial a lot. I mean lo
 Cee feels 😪 _—_ 10/09/2023 6:55 PM
 "@Geddy FISHING is a freaking grappling hook for movement and attacks. It's like Sekiro, to be honest."
 
-![img/thumbnails/Pasted%20image%2020231104205019.png](img/demos/Pasted%20image%2020231104205019.png)
+![img/demos/Pasted%20image%2020231104205019.png](img/thumbnails/Pasted%20image%2020231104205019.png)
 
 # Jumplight Odyssey
 
 Oh. My. God. This is FTL combined with the Sims or Sim City. This is FTL but the fucking-enterprise and a cew of 100 people are simulted in real-time. You can pause - you have to build power supplies, and starlight (fuel) harvestors, and fix the med-bay that got shot up so people can rest and heal... all while being persued by an alien armada on your heels. There are scientists, engineers (builders), combat, supply (move around goods). You can manage individuals and re-assign and say who leads what. YOU CAN BUILD ENTIRE ROOMS and what's in them and where they go. The build/pause menu has sims-like elevator music. There's a random pig and robot on board. The cutscenes are 80s anime. I love this.
 https://store.steampowered.com/app/1893820/Jumplight_Odyssey/
-![img/thumbnails/Pasted%20image%2020231104205129.png](img/demos/Pasted%20image%2020231104205129.png)
-![img/thumbnails/Pasted%20image%2020231104205133.png](img/demos/Pasted%20image%2020231104205133.png)
-![img/thumbnails/Pasted%20image%2020231104205136.png](img/demos/Pasted%20image%2020231104205136.png)
+![img/demos/Pasted%20image%2020231104205129.png](img/thumbnails/Pasted%20image%2020231104205129.png)
+![img/demos/Pasted%20image%2020231104205133.png](img/thumbnails/Pasted%20image%2020231104205133.png)
+![img/demos/Pasted%20image%2020231104205136.png](img/thumbnails/Pasted%20image%2020231104205136.png)
 # Alterium Shift 👎
 Verdict: 👎
 Uhh.. so I picked the mage who kin
 da looks like a rich asshole and must be because everyone HATED me. Like literally "my day was going great then you showed up". I'm supposed to study for an exam tomorrow. I just ran away from the town into a dense forest unit I ran out of mana and died. Maybe that's a little too much freedom or just wasn't... fun to play this character trope? Combat was fine. Graphics were fine. I dunno
-![img/thumbnails/Pasted%20image%2020231104205155.png](img/demos/Pasted%20image%2020231104205155.png)
+![img/demos/Pasted%20image%2020231104205155.png](img/thumbnails/Pasted%20image%2020231104205155.png)
 # Reverse Collapse: Codename Bakery 
 I like this one if not a little mixed. It's tactics, somewhere between fire emblem and xcom. What I like is that you can do multiple actions/movements so long as you use AP points in a limited meter. I also like how stealth is an actual mechanic, where enemies in standby will not see you unless you get within visual range and weather, trees, crawling can affect this. Second mission is get-out undetected no fighting. Snipers can take out long distances. 
 
 I think it's part of `girls frontline` which is a mobile dev, so I'm a little learly about this being a microtransaction hell. But it has an interesting second cold war story because humanity figured out how to collapse materials into particles and rebuild anything.... so they terraformed and colonized Antartica or something? not too sure. I'm a bit mixed on the visuals too being both realistic and gritty and anime and chibi and mobile game-y. it's just both?
-![img/thumbnails/Pasted%20image%2020231104205258.png](img/demos/Pasted%20image%2020231104205258.png)
-![img/thumbnails/Pasted%20image%2020231104205302.png](img/demos/Pasted%20image%2020231104205302.png)
-![img/thumbnails/Pasted%20image%2020231104205306.png](img/demos/Pasted%20image%2020231104205306.png)
+![img/demos/Pasted%20image%2020231104205258.png](img/thumbnails/Pasted%20image%2020231104205258.png)
+![img/demos/Pasted%20image%2020231104205302.png](img/thumbnails/Pasted%20image%2020231104205302.png)
+![img/demos/Pasted%20image%2020231104205306.png](img/thumbnails/Pasted%20image%2020231104205306.png)
 # Wizard with a gun
 OH this is excellent. And it's funny I never got into `Don't Starve` (maybe I should revisit), but this is fun. 
 
@@ -77,7 +77,7 @@ It's very crafting focused but has a straightforward progression research tree a
 
 Aiming is a little more difficult with analog sticks (this would play better with mouse) but it works.
 https://store.steampowered.com/app/1150530/Wizard_with_a_Gun/
-![img/thumbnails/Pasted%20image%2020231104205356.png](img/demos/Pasted%20image%2020231104205356.png)
+![img/demos/Pasted%20image%2020231104205356.png](img/thumbnails/Pasted%20image%2020231104205356.png)
 # Viewfinder 
 If you like and puzzle games at all go play this demo now. You take polaroid images and they become the environment for navigation. Not quite like Superliminal* but similar
 https://store.steampowered.com/app/1382070/Viewfinder/
@@ -107,7 +107,7 @@ https://store.steampowered.com/app/1938800/Alone_in_the_Dark_Prologue/
 # Resident Evil 4 (Remake)
 Excellent demo, excellent remake.
 https://store.steampowered.com/app/2050650/Resident_Evil_4/
-![img/thumbnails/Pasted%20image%2020231104210116.png](img/demos/Pasted%20image%2020231104210116.png)
+![img/demos/Pasted%20image%2020231104210116.png](img/thumbnails/Pasted%20image%2020231104210116.png)
 # Fall of Porcupine
 Unplayed
 https://store.steampowered.com/app/1710540/Fall_of_Porcupine/
@@ -118,9 +118,9 @@ https://store.steampowered.com/app/762940/Minekos_Night_Market/
 Verdict 👍
 I did whatever this metalpunk future robot girl is doing with sword and guns. It's fun. Nier 2D.
 https://store.steampowered.com/app/1053900/Radio_the_Universe/
-![img/thumbnails/Pasted%20image%2020231104210241.png](img/demos/Pasted%20image%2020231104210241.png)
-![img/thumbnails/Pasted%20image%2020231104210252.png](img/demos/Pasted%20image%2020231104210252.png)
-![img/thumbnails/Pasted%20image%2020231104210257.png](img/demos/Pasted%20image%2020231104210257.png)
+![img/demos/Pasted%20image%2020231104210241.png](img/thumbnails/Pasted%20image%2020231104210241.png)
+![img/demos/Pasted%20image%2020231104210252.png](img/thumbnails/Pasted%20image%2020231104210252.png)
+![img/demos/Pasted%20image%2020231104210257.png](img/thumbnails/Pasted%20image%2020231104210257.png)
 # Dungeons of Aether
 Verdict: 👍
 Liked better than the one above. Ok so you know how in strategy games you compare your stats to the enemy? Ok but what if like you roll dice and you and the enemy pick dice to change the stats every turn? It's pretty clever.
@@ -130,26 +130,26 @@ https://store.steampowered.com/app/1668290/Dungeons_of_Aether/
 Verdict: 👍
 You move on a grid and play cards to fight. You have a turn and enemies have a turn. Simple fun, seems to have many classes.
 https://store.steampowered.com/app/1824580/Dungeon_Drafters/
-![img/thumbnails/Pasted%20image%2020231104210602.png](img/demos/Pasted%20image%2020231104210602.png)
+![img/demos/Pasted%20image%2020231104210602.png](img/thumbnails/Pasted%20image%2020231104210602.png)
 # AfterImage
 Verdict - Meh 
 It's a hollow knight clone. Not "inspired" copies the map look/feel and gem dropping exactly.
 https://store.steampowered.com/app/1701520/Afterimage/
-![img/thumbnails/Pasted%20image%2020231104210647.png](img/demos/Pasted%20image%2020231104210647.png)
+![img/demos/Pasted%20image%2020231104210647.png](img/thumbnails/Pasted%20image%2020231104210647.png)
 # 1000xRESIST
 Verdict - Mixed, Kinda good in an experimental storytelling way - did hook me tho
 I almost closed this game immediately with its cryptic nonsense. But it has a bizarre somewhat intriguing sens of abstract storytelling. And somewhere in the BS it started to form some sort of cohesion in plot.
 You seem to be a clone and like thousands of years in the future. You seem to be jumping into memories (ala Assassin's Creed) before an alien nearly wiped out humanity with a virus. You can flip between past and future with the triggers which is fairly unique. The gameplay and plot is confusing, but actually simple.
-![img/thumbnails/Pasted%20image%2020231104210750.png](img/demos/Pasted%20image%2020231104210750.png)
-![img/thumbnails/Pasted%20image%2020231104210754.png](img/demos/Pasted%20image%2020231104210754.png)
-![img/thumbnails/Pasted%20image%2020231104210757.png](img/demos/Pasted%20image%2020231104210757.png)
-![img/thumbnails/Pasted%20image%2020231104210801.png](img/demos/Pasted%20image%2020231104210801.png)
-![img/thumbnails/Pasted%20image%2020231104210805.png](img/demos/Pasted%20image%2020231104210805.png)
+![img/demos/Pasted%20image%2020231104210750.png](img/thumbnails/Pasted%20image%2020231104210750.png)
+![img/demos/Pasted%20image%2020231104210754.png](img/thumbnails/Pasted%20image%2020231104210754.png)
+![img/demos/Pasted%20image%2020231104210757.png](img/thumbnails/Pasted%20image%2020231104210757.png)
+![img/demos/Pasted%20image%2020231104210801.png](img/thumbnails/Pasted%20image%2020231104210801.png)
+![img/demos/Pasted%20image%2020231104210805.png](img/thumbnails/Pasted%20image%2020231104210805.png)
 
 # Sons of Valhalla
 Verdict - Not for me You're a viking, you die on a boat when your girl is taken. Odin let's you go back. This is a 2d sidescroller action game with building mechanics and commanding troops. I wasn't feeling it.
 https://store.steampowered.com/app/1409830/Sons_of_Valhalla/
-![img/thumbnails/Pasted%20image%2020231104210848.png](img/demos/Pasted%20image%2020231104210848.png)
+![img/demos/Pasted%20image%2020231104210848.png](img/thumbnails/Pasted%20image%2020231104210848.png)
 # Shadows of Doubt
 Verdit - 👍Surprisingly Good 
 Set aside the minecraft/voxel graphics a moment, this game is a simulated city randomly generated with a murder for you to solve. You can talk to everyone, pin any bit of information on your board, and do a lot of illegal things.
@@ -158,16 +158,16 @@ I woke up to a letter that said find "Craig Bernasconi". Looking him up in the p
 
 Now tbh, I didn't have enough time to actually solve the crime. Only one name tied to the scene isn't really evidence. I didn't know the motive, the murder weapon, a bunch of details you'll want to fill out for more points. It's a dystopian game with corrupt police, so it just kinda works out for the puzzle.
 https://store.steampowered.com/app/986130/Shadows_of_Doubt/
-![img/thumbnails/Pasted%20image%2020231104211004.png](img/demos/Pasted%20image%2020231104211004.png)
-![img/thumbnails/Pasted%20image%2020231104211009.png](img/demos/Pasted%20image%2020231104211009.png)
-![img/thumbnails/Pasted%20image%2020231104211013.png](img/demos/Pasted%20image%2020231104211013.png)
-![img/thumbnails/Pasted%20image%2020231104211017.png](img/demos/Pasted%20image%2020231104211017.png)
-![img/thumbnails/Pasted%20image%2020231104211020.png](img/demos/Pasted%20image%2020231104211020.png)
-![img/thumbnails/Pasted%20image%2020231104211023.png](img/demos/Pasted%20image%2020231104211023.png)
+![img/demos/Pasted%20image%2020231104211004.png](img/thumbnails/Pasted%20image%2020231104211004.png)
+![img/demos/Pasted%20image%2020231104211009.png](img/thumbnails/Pasted%20image%2020231104211009.png)
+![img/demos/Pasted%20image%2020231104211013.png](img/thumbnails/Pasted%20image%2020231104211013.png)
+![img/demos/Pasted%20image%2020231104211017.png](img/thumbnails/Pasted%20image%2020231104211017.png)
+![img/demos/Pasted%20image%2020231104211020.png](img/thumbnails/Pasted%20image%2020231104211020.png)
+![img/demos/Pasted%20image%2020231104211023.png](img/thumbnails/Pasted%20image%2020231104211023.png)
 # Blasphemous 
 Verdict: @Christian Server Moderator Approved A̴̗͂v̸͎͝e̷͈͝ ̶̜̓M̷͂͂a̸͍̍r̴̒̚i̶̼͑a̵͖̽,̷̼̾ ̷̈͂ġ̸͠r̶̂̇ȃ̶͛t̸͒͘i̴͑̔a̵̒̑ ̵̰̊p̷͐̈l̶̅̃e̷̍̐n̶̂̏a̶̺̓,̵̀̒ ̴͇̎D̶̈́̊o̴͌͐m̴̦̕ỉ̷̄n̷̂̋ṷ̸̂s̶͆̐ ̴͈̎t̶͎́e̷̛͗c̸̐ͅu̷̺͒m̴̈̾.̵̀͊ ̴̞͑B̴̒͝é̶̕ǹ̸̪e̸̘͐d̵̨̕i̶̱͐c̴̊̕t̵̤̚a̷̼͝ ̸̒tu in mulieribus, et benedictus fructus ventris tui, Iesus. Sancta Maria, Mater Dei, ora pro nobis peccatoribus, nunc et in hora mortis nostrae. Amen.
 https://store.steampowered.com/app/2114740/Blasphemous_2/
-![img/thumbnails/Pasted%20image%2020231104211051.png](img/demos/Pasted%20image%2020231104211051.png)
+![img/demos/Pasted%20image%2020231104211051.png](img/thumbnails/Pasted%20image%2020231104211051.png)
 # Snow Plow Simulator 👎 
 Verdict: 👎 
 Didn't let me plow with the truck, only let me shovel. lol. Ran at 40fps at low settings. I'll give it props though, it's a "simulation" that's pretty accurate with the snow. You gotta manage your temp, you can catch a cold, buy medicine, buy eat food/coffee. Wait on amazon packages...
@@ -176,9 +176,9 @@ Though I was bothered that I had one shovel in the garage but had to buy one to 
 
 Hilariously I think it convinced me to buy a new type of standing shovel I didn't know existed and is non-electric
 https://store.steampowered.com/app/2096030/Snow_Plowing_Simulator/
-![img/thumbnails/Pasted%20image%2020231104211143.png](img/demos/Pasted%20image%2020231104211143.png)
-![img/thumbnails/Pasted%20image%2020231104211147.png](img/demos/Pasted%20image%2020231104211147.png)
-![img/thumbnails/Pasted%20image%2020231104211151.png](img/demos/Pasted%20image%2020231104211151.png)
+![img/demos/Pasted%20image%2020231104211143.png](img/thumbnails/Pasted%20image%2020231104211143.png)
+![img/demos/Pasted%20image%2020231104211147.png](img/thumbnails/Pasted%20image%2020231104211147.png)
+![img/demos/Pasted%20image%2020231104211151.png](img/thumbnails/Pasted%20image%2020231104211151.png)
 
 # Void Train
 Verdict 👍  
@@ -186,25 +186,25 @@ You accidentally find a teleport into "the void". You land on a railcar on a see
 
 I wanted to keep playing this wen the demo ended, more than others.
 https://store.steampowered.com/app/1159690/Voidtrain/
-![img/thumbnails/Pasted%20image%2020231104211236.png](img/demos/Pasted%20image%2020231104211236.png)
-![img/thumbnails/Pasted%20image%2020231104211240.png](img/demos/Pasted%20image%2020231104211240.png)
-![img/thumbnails/Pasted%20image%2020231104211243.png](img/demos/Pasted%20image%2020231104211243.png)
+![img/demos/Pasted%20image%2020231104211236.png](img/thumbnails/Pasted%20image%2020231104211236.png)
+![img/demos/Pasted%20image%2020231104211240.png](img/thumbnails/Pasted%20image%2020231104211240.png)
+![img/demos/Pasted%20image%2020231104211243.png](img/thumbnails/Pasted%20image%2020231104211243.png)
 
 # Suffer the Night
 Verdict: 👍  
 When you're staying alone in a cabin during a sever thunderstorm and a floppy disk gets dropped in through your mail-slot, I mean of course you're going to immediately play it. No that wasn't a window breaking you heard. No there's not the babadook running around your house. No you don't have to manage a creepy ZORK computer game on-top of phasmaphobia-don't-die-during-a-haunt mechanics.
 [https://store.steampowered.com/app/2176850/Suffer_The_Night/](https://store.steampowered.com/app/2176850/Suffer_The_Night/ "https://store.steampowered.com/app/2176850/Suffer_The_Night/")
-![img/thumbnails/Pasted%20image%2020231104211325.png](img/demos/Pasted%20image%2020231104211325.png)
-![img/thumbnails/Pasted%20image%2020231104211329.png](img/demos/Pasted%20image%2020231104211329.png)
-![img/thumbnails/Pasted%20image%2020231104211332.png](img/demos/Pasted%20image%2020231104211332.png)
+![img/demos/Pasted%20image%2020231104211325.png](img/thumbnails/Pasted%20image%2020231104211325.png)
+![img/demos/Pasted%20image%2020231104211329.png](img/thumbnails/Pasted%20image%2020231104211329.png)
+![img/demos/Pasted%20image%2020231104211332.png](img/thumbnails/Pasted%20image%2020231104211332.png)
 # Affogato
 Verdict - 👍 10/10 
 You run a coffee shop. As a witch. Occasionally you fight people's demons by jumping into their mindscape and fighting their inner demons in a card-based reversed-tower-defense. You make coffee. Sometimes people like it. You probably sold your soul for the coffee shop and rent is hard.
 https://store.steampowered.com/app/1983970/Affogato/
-![img/thumbnails/Pasted%20image%2020231104211359.png](img/demos/Pasted%20image%2020231104211359.png)
-![img/thumbnails/Pasted%20image%2020231104211403.png](img/demos/Pasted%20image%2020231104211403.png)
-![img/thumbnails/Pasted%20image%2020231104211406.png](img/demos/Pasted%20image%2020231104211406.png)
-![img/thumbnails/Pasted%20image%2020231104211411.png](img/demos/Pasted%20image%2020231104211411.png)
+![img/demos/Pasted%20image%2020231104211359.png](img/thumbnails/Pasted%20image%2020231104211359.png)
+![img/demos/Pasted%20image%2020231104211403.png](img/thumbnails/Pasted%20image%2020231104211403.png)
+![img/demos/Pasted%20image%2020231104211406.png](img/thumbnails/Pasted%20image%2020231104211406.png)
+![img/demos/Pasted%20image%2020231104211411.png](img/thumbnails/Pasted%20image%2020231104211411.png)
 
 # Dragon Quest XI 
 Demo Honorable Mention: **Dragon Quest XI** This demo is the first 6 hours of the game and let's you continue into the purchased game and it's pretty fantastic.
@@ -213,26 +213,26 @@ https://store.steampowered.com/app/1295510/DRAGON_QUEST_XI_S_Echoes_of_an_Elusiv
 Verdict: 👍 
 Resource management factory builder. You start with 2 roombas and can instruct them to gather, collect, smelt, fabricate. You build circuit boards and things and antennas for research. You explore but can lose power on battery. You can carry a turret to defend from bugs. I actually dig this one, it was pretty chill and slow and exploration focused. lot of I need X for Y. Wait I thought i wanted Z
 https://store.steampowered.com/app/1450900/Desynced/
-![img/thumbnails/Pasted%20image%2020231104211528.png](img/demos/Pasted%20image%2020231104211528.png)
-![img/thumbnails/Pasted%20image%2020231104211532.png](img/demos/Pasted%20image%2020231104211532.png)
-![img/thumbnails/Pasted%20image%2020231104211542.png](img/demos/Pasted%20image%2020231104211542.png)
+![img/demos/Pasted%20image%2020231104211528.png](img/thumbnails/Pasted%20image%2020231104211528.png)
+![img/demos/Pasted%20image%2020231104211532.png](img/thumbnails/Pasted%20image%2020231104211532.png)
+![img/demos/Pasted%20image%2020231104211542.png](img/thumbnails/Pasted%20image%2020231104211542.png)
 # Wall World 
 Verdict: 👍 
 Spider bot crawls infinite wall. you hop out to mine for resources sorta like STEAMWORLD DIG. You upgrade yourself, your mine laser/vacuum and repair and survive as long as you can. Rougelike Probably favorite demo so far actually
 https://store.steampowered.com/app/2187290/Wall_World/
-![img/thumbnails/Pasted%20image%2020231104211612.png](img/demos/Pasted%20image%2020231104211612.png)
-![img/thumbnails/Pasted%20image%2020231104211616.png](img/demos/Pasted%20image%2020231104211616.png)
-![img/thumbnails/Pasted%20image%2020231104211619.png](img/demos/Pasted%20image%2020231104211619.png)
+![img/demos/Pasted%20image%2020231104211612.png](img/thumbnails/Pasted%20image%2020231104211612.png)
+![img/demos/Pasted%20image%2020231104211616.png](img/thumbnails/Pasted%20image%2020231104211616.png)
+![img/demos/Pasted%20image%2020231104211619.png](img/thumbnails/Pasted%20image%2020231104211619.png)
 # Cynthia: Hidden in the Moonshadow 👎 
 Rail gun arrows 🏹. Got bored
 https://store.steampowered.com/app/1685730/Cynthia_Hidden_in_the_Moonshadow/?curator_clanid=35402408
-![img/thumbnails/Pasted%20image%2020231104211729.png](img/demos/Pasted%20image%2020231104211729.png)
+![img/demos/Pasted%20image%2020231104211729.png](img/thumbnails/Pasted%20image%2020231104211729.png)
 # Gripper 👎
 Verdict: 👎 (polished, stylish - just not for me) 
 Half tunnel rider, half top-down boss fight. You're on an akira motorcycle and can pick up and yeet items into enemies. There's a spider boss you can pick up barrels and shoot into him and rip off his legs. The splash explosion of random spiders kept getting me. The vehicle goes forward with left stick, you aim with right stick is a bit hard.
 https://store.steampowered.com/app/1336380/Gripper/
-![img/thumbnails/Pasted%20image%2020231104211843.png](img/demos/Pasted%20image%2020231104211843.png)
-![img/thumbnails/Pasted%20image%2020231104211847.png](img/demos/Pasted%20image%2020231104211847.png)
+![img/demos/Pasted%20image%2020231104211843.png](img/thumbnails/Pasted%20image%2020231104211843.png)
+![img/demos/Pasted%20image%2020231104211847.png](img/thumbnails/Pasted%20image%2020231104211847.png)
 # Meet your Maker 👎
 Verdict: Not for me 
 People design death traps for you to run in and out. You have 2 arrows/bullets to shoot and retrieve. Brutally hard. I don't think I have the patience for this game, but it's clever. I gave up on second raid. 
@@ -244,28 +244,29 @@ Reminds me of those mario maker levels that are just near impossible. Sure some 
 Verdict: 👍 (30 minutes - 1 hour) 
 Two highschool anime ~~dweebs~~ girls get ~~isekai'd~~ persona-fied into a merging of their school and the demon realm. Look it's just Castlevania with anime girls. It's fun cause one has a gun (like azure striker) and the other a sythe and you can swap between the two with independent health bars and they can reach different things. Demo went 2x as long as I thought too, I'm not yet done.
 https://store.steampowered.com/app/2081400/Gal_Guardians_Demon_Purge/
-![img/thumbnails/Pasted%20image%2020231104211958.png](img/demos/Pasted%20image%2020231104211958.png)
-![img/thumbnails/Pasted%20image%2020231104212002.png](img/demos/Pasted%20image%2020231104212002.png)
+![img/demos/Pasted%20image%2020231104211958.png](img/thumbnails/Pasted%20image%2020231104211958.png)
+![img/demos/Pasted%20image%2020231104212002.png](img/thumbnails/Pasted%20image%2020231104212002.png)
 
 # Planet of Lana 
 Verdict: 👍 
 Side-scoller puzzle game. You control a little human and a void cat. The cat will follow you and follow commands like sit on switches, grab rope. Alien robots show up and you and the cat have to work together to distract or destroy the robots without being detected. Game looks like a watercolor painting. Will buy. [https://store.steampowered.com/app/1608230/Planet_of_Lana/](https://store.steampowered.com/app/1608230/Planet_of_Lana/ "https://store.steampowered.com/app/1608230/Planet_of_Lana/")
-![img/thumbnails/Pasted%20image%2020231104212418.png](img/demos/Pasted%20image%2020231104212418.png)
+![img/demos/Pasted%20image%2020231104212418.png](img/thumbnails/Pasted%20image%2020231104212418.png)
 
 # Dark and Darker (delisted!)
 Verdict: Not my thing, creative I dropped into to the underground dungeon labyrinth of -checks notes- West Virginia server. And died over and over and over. This is a multiplayer game and I could see it being fun with just friends, but online, no one would trust me enough not just to kill me. The level 1 can't hurt anything. I was decent as an archer. Could kill enemies. Could survive. Would usually get killed by the other people. Some 2 people were teamed u p, but not I. It's got some sort of Fortnite, the level radius gets smaller. Collect loot and get out. I never got out. [https://store.steampowered.com/app/2016590/Dark_and_Darker/](https://store.steampowered.com/app/2016590/Dark_and_Darker/ "https://store.steampowered.com/app/2016590/Dark_and_Darker/")
-![img/thumbnails/Pasted%20image%2020231104212450.png](img/demos/Pasted%20image%2020231104212450.png)
+![img/demos/Pasted%20image%2020231104212450.png](img/thumbnails/Pasted%20image%2020231104212450.png)
 # Backpack Hero
 Verdict: 👍 
 Simple Rogue-like but you can only carry what fits in your backpack so you try to break items and after every fight you can pick 3 out of 6+ items. IT'S GREAT. YOU ARE A MOUSE
 https://store.steampowered.com/app/1970580/Backpack_Hero/
-![img/thumbnails/Pasted%20image%2020231104212536.png](img/demos/Pasted%20image%2020231104212536.png)
+![img/demos/Pasted%20image%2020231104212536.png](img/thumbnails/Pasted%20image%2020231104212536.png)
 
 # Sherlock Holmes - The Awakened 
 Verdict: 👍  👎 Good story but mixed gameplay
 Demo: 2 hours 90% Sherlock 10% lovecraft makes for some interesting surprises to the twists of investigations involving Eldritch reasoning. @Mothman played a number of these game. She says the gameplay is a bit jank and the eyes look a bit funny, but the stories are very good. Graphics are... good for 360 era. I wish their CGI budget went into character models instead. Yeah I felt like I was fumbling through the investigation mechanics, realizing there wasn't backtracking until there was, confused why I couldn't open non-evidence on the floor that clearly had a latch.. well it was still generally good. Half the time of "well I don't know what the game wants me to do now". But then the creepy doll `******* *******`  which was a banger ending to tease what comes next
 https://store.steampowered.com/app/1949030/Sherlock_Holmes_The_Awakened/
-![img/thumbnails/Pasted%20image%2020231104212723.png](img/demos/Pasted%20image%2020231104212723.png)
+
+![img/demos/Pasted%20image%2020231104212723.png](img/thumbnails/Pasted%20image%2020231104212723.png)
 # The Last Case of Benedict Fox
 Verdict: 🎉 God-like 🎉  Play this demo 
 Time: 40 minutes
@@ -275,17 +276,18 @@ I had some issues running this, but probably shader-cache stutter + not optimize
 
 Game looks gorgeous. Gameplay is solid though I never had any bullets. It feels clunkier than say Metroid Dread or Hollow Knight. I had a hard time telling if I was harming the boss cause it took so many of my knife swings and didn't really glow or anything. but again that just feels like a demo and I got the boss on the 3rd attempt. Props to a demo killing me multiple times.
 https://store.steampowered.com/app/2023360/The_Last_Case_of_Benedict_Fox/
-![img/thumbnails/Pasted%20image%2020231104212856.png](img/demos/Pasted%20image%2020231104212856.png)
-![img/thumbnails/Pasted%20image%2020231104212901.png](img/demos/Pasted%20image%2020231104212901.png)
-![img/thumbnails/Pasted%20image%2020231104212904.png](img/demos/Pasted%20image%2020231104212904.png)
-![img/thumbnails/Pasted%20image%2020231104212907.png](img/demos/Pasted%20image%2020231104212907.png)
-![img/thumbnails/Pasted%20image%2020231104212909.png](img/demos/Pasted%20image%2020231104212909.png)
+
+![img/demos/Pasted%20image%2020231104212856.png](img/thumbnails/Pasted%20image%2020231104212856.png)
+![img/demos/Pasted%20image%2020231104212901.png](img/thumbnails/Pasted%20image%2020231104212901.png)
+![img/demos/Pasted%20image%2020231104212904.png](img/thumbnails/Pasted%20image%2020231104212904.png)
+![img/demos/Pasted%20image%2020231104212907.png](img/thumbnails/Pasted%20image%2020231104212907.png)
+![img/demos/Pasted%20image%2020231104212909.png](img/thumbnails/Pasted%20image%2020231104212909.png)
 
 # Flame Keeper 👎
 Verdict: 👎 
 Kinda cute art. You're a little flame spirit running around .. punching bugs? And collecting fire from hitting (burning?) things to make more fire. I dunno you run back and forth to charge an altar and it is old immediately.
 https://store.steampowered.com/app/1374230/Flame_Keeper/
-![img/thumbnails/Pasted%20image%2020231104212945.png](img/demos/Pasted%20image%2020231104212945.png)
+![img/demos/Pasted%20image%2020231104212945.png](img/thumbnails/Pasted%20image%2020231104212945.png)
 # Darkest Dungeon 2
 Verdict: Must-buy, great demo 👍  
 Length: Re-playable, but no saves. Had a 50 minute run
@@ -299,11 +301,12 @@ I got annihilated after my first guy died, pretty typical. Since the demo has no
 > [!info]
 The torch is now on your carriage. Keep it lit.
 https://store.steampowered.com/app/1940340/Darkest_Dungeon_II/
-![img/thumbnails/Pasted%20image%2020231104213122.png](img/demos/Pasted%20image%2020231104213122.png)
-![img/thumbnails/Pasted%20image%2020231104213125.png](img/demos/Pasted%20image%2020231104213125.png)
-![img/thumbnails/Pasted%20image%2020231104213131.png](img/demos/Pasted%20image%2020231104213131.png)
-![img/thumbnails/Pasted%20image%2020231104213134.png](img/demos/Pasted%20image%2020231104213134.png)
-![img/thumbnails/Pasted%20image%2020231104213137.png](img/demos/Pasted%20image%2020231104213137.png)
+
+![img/demos/Pasted%20image%2020231104213122.png](img/thumbnails/Pasted%20image%2020231104213122.png)
+![img/demos/Pasted%20image%2020231104213125.png](img/thumbnails/Pasted%20image%2020231104213125.png)
+![img/demos/Pasted%20image%2020231104213131.png](img/thumbnails/Pasted%20image%2020231104213131.png)
+![img/demos/Pasted%20image%2020231104213134.png](img/thumbnails/Pasted%20image%2020231104213134.png)
+![img/demos/Pasted%20image%2020231104213137.png](img/thumbnails/Pasted%20image%2020231104213137.png)
 
 # Death Relives👎
 Verdict: uhhhh 👎
@@ -314,8 +317,8 @@ I also take a blood sample from a dead guy and respond to crazy notes of insane 
 
 Maybe.... maybe I'm over this type of gameplay, but I think more-so this game is just mid. Aztec spooky mansion, neat idea. Execution - lacking
 https://store.steampowered.com/app/1987400/Death_Relives/
-![img/thumbnails/Pasted%20image%2020231104213224.png](img/demos/Pasted%20image%2020231104213224.png)
-![img/thumbnails/Pasted%20image%2020231104213228.png](img/demos/Pasted%20image%2020231104213228.png)
+![img/demos/Pasted%20image%2020231104213224.png](img/thumbnails/Pasted%20image%2020231104213224.png)
+![img/demos/Pasted%20image%2020231104213228.png](img/thumbnails/Pasted%20image%2020231104213228.png)
 
 # Wandering Sword 👎
 Verdict: Skip 👎  
@@ -327,8 +330,8 @@ This exists to look like Octopath or Triangle Strategy. I'd rather play those or
 The idea of a wandering sell-sword is decent.
 https://store.steampowered.com/app/1876890/Wandering_Sword/
 
-![img/thumbnails/Pasted%20image%2020231104213314.png](img/demos/Pasted%20image%2020231104213314.png)
-![img/thumbnails/Pasted%20image%2020231104213319.png](img/demos/Pasted%20image%2020231104213319.png)
+![img/demos/Pasted%20image%2020231104213314.png](img/thumbnails/Pasted%20image%2020231104213314.png)
+![img/demos/Pasted%20image%2020231104213319.png](img/thumbnails/Pasted%20image%2020231104213319.png)
 # DioField Chronicles
 Verdict: Mixed - I will probably buy on sale because the story does seem to go places even if it's a bit bland. 
 
@@ -337,11 +340,12 @@ The pretty game I do not recommend. But hey here's screenshots from the demo I g
 Alright, I played 3ish hours of **The DioField Chronicle** and holy cow what a plain game. Do not recommend - I cannot believe they are selling this for $60. I will probably buy it at $10... but it is so mundane. There's a nation expanding territory. You're mercenaries, but joined up to defent the homeland. That's it. Zombies one chapter? Wonder why. Not addressed. The characters are flat. Voice acting flat. And it has potentially interesting story-elements and it's just... "shouldn't you feel a LITTLE sad your entire family was killed? no? not a little?" The graphics are fantastic, you zoom out and see little stands like you're playing a game of risk. The character portraits are great. The tactics is real-ish time, so like there's a mission where you follow and protect a carriage and it's pretty good. But you mostly spam specials, don't have to care much about positioning. You don't move on a grid, but it kinda hurts it in you just stay in or out of circles. This is clearly one of those on-a-budget games. Get Fire Emblem or Triangle Strategy instead. Hey the demo is 1/7 of the entire game so you can check that out...
 Get Tactics Ogre Reborn instead. It's wild that 3 of these are square-enix so I guess they win anyway.
 This game was SO FLAT, I now don't trust any RPG that square-enix makes without a demo or watching someone play the start.
-![img/thumbnails/Pasted%20image%2020231104213532.png](img/demos/Pasted%20image%2020231104213532.png)
-![img/thumbnails/Pasted%20image%2020231104213535.png](img/demos/Pasted%20image%2020231104213535.png)
-![img/thumbnails/Pasted%20image%2020231104213539.png](img/demos/Pasted%20image%2020231104213539.png)
-![img/thumbnails/Pasted%20image%2020231104213541.png](img/demos/Pasted%20image%2020231104213541.png)
-![img/thumbnails/Pasted%20image%2020231104213544.png](img/demos/Pasted%20image%2020231104213544.png)
+
+![img/demos/Pasted%20image%2020231104213532.png](img/thumbnails/Pasted%20image%2020231104213532.png)
+![img/demos/Pasted%20image%2020231104213535.png](img/thumbnails/Pasted%20image%2020231104213535.png)
+![img/demos/Pasted%20image%2020231104213539.png](img/thumbnails/Pasted%20image%2020231104213539.png)
+![img/demos/Pasted%20image%2020231104213541.png](img/thumbnails/Pasted%20image%2020231104213541.png)
+![img/demos/Pasted%20image%2020231104213544.png](img/thumbnails/Pasted%20image%2020231104213544.png)
 # SteamWorld Build
 Verdict: Not my thing (city builder) but love steamworld
 https://store.steampowered.com/app/2134770/SteamWorld_Build/
@@ -405,6 +409,6 @@ https://store.steampowered.com/app/952060/Resident_Evil_3/
 Verdict: Purchased
 To date, the best demo I've ever played. You can play all 6 character prologues and the first chapter. 
 https://store.steampowered.com/app/924980/Trials_of_Mana/
-![img/thumbnails/b_pc.jpg](img/demos/b_pc.jpg)
-![img/thumbnails/a_pc.jpg](img/demos/a_pc.jpg)
+![img/demos/b_pc.jpg](img/thumbnails/b_pc.jpg)
+![img/demos/a_pc.jpg](img/thumbnails/a_pc.jpg)
 
