@@ -137,11 +137,13 @@ https://store.steampowered.com/app/1824580/Dungeon_Drafters/
 Verdict - Meh 
 It's a hollow knight clone. Not "inspired" copies the map look/feel and gem dropping exactly.
 https://store.steampowered.com/app/1701520/Afterimage/
+
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104210647.png)](img/demos/Pasted%20image%2020231104210647.png)
 # 1000xRESIST
 Verdict - Mixed, Kinda good in an experimental storytelling way - did hook me tho
 I almost closed this game immediately with its cryptic nonsense. But it has a bizarre somewhat intriguing sens of abstract storytelling. And somewhere in the BS it started to form some sort of cohesion in plot.
 You seem to be a clone and like thousands of years in the future. You seem to be jumping into memories (ala Assassin's Creed) before an alien nearly wiped out humanity with a virus. You can flip between past and future with the triggers which is fairly unique. The gameplay and plot is confusing, but actually simple.
+
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104210750.png)](img/demos/Pasted%20image%2020231104210750.png)
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104210754.png)](img/demos/Pasted%20image%2020231104210754.png)
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104210757.png)](img/demos/Pasted%20image%2020231104210757.png)
@@ -160,6 +162,7 @@ I woke up to a letter that said find "Craig Bernasconi". Looking him up in the p
 
 Now tbh, I didn't have enough time to actually solve the crime. Only one name tied to the scene isn't really evidence. I didn't know the motive, the murder weapon, a bunch of details you'll want to fill out for more points. It's a dystopian game with corrupt police, so it just kinda works out for the puzzle.
 https://store.steampowered.com/app/986130/Shadows_of_Doubt/
+
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104211004.png)](img/demos/Pasted%20image%2020231104211004.png)
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104211009.png)](img/demos/Pasted%20image%2020231104211009.png)
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104211013.png)](img/demos/Pasted%20image%2020231104211013.png)
@@ -187,7 +190,9 @@ Verdict 👍
 You accidentally find a teleport into "the void". You land on a railcar on a seemingly infinite track that materializes before you. You can go as fast or slow as you want. You can do research, collect raw materials (you can "swim" in space with a rope that lets you out like 30 feet from the car. the train can be moving), craft things, build up your train. The mystery of this game is what is this place, have others been here, and what's up with the abandoned train stops and weird technology.
 
 I wanted to keep playing this wen the demo ended, more than others.
+
 https://store.steampowered.com/app/1159690/Voidtrain/
+
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104211236.png)](img/demos/Pasted%20image%2020231104211236.png)
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104211240.png)](img/demos/Pasted%20image%2020231104211240.png)
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104211243.png)](img/demos/Pasted%20image%2020231104211243.png)
@@ -196,6 +201,7 @@ https://store.steampowered.com/app/1159690/Voidtrain/
 Verdict: 👍  
 When you're staying alone in a cabin during a sever thunderstorm and a floppy disk gets dropped in through your mail-slot, I mean of course you're going to immediately play it. No that wasn't a window breaking you heard. No there's not the babadook running around your house. No you don't have to manage a creepy ZORK computer game on-top of phasmaphobia-don't-die-during-a-haunt mechanics.
 [https://store.steampowered.com/app/2176850/Suffer_The_Night/](https://store.steampowered.com/app/2176850/Suffer_The_Night/ "https://store.steampowered.com/app/2176850/Suffer_The_Night/")
+
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104211325.png)](img/demos/Pasted%20image%2020231104211325.png)
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104211329.png)](img/demos/Pasted%20image%2020231104211329.png)
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104211332.png)](img/demos/Pasted%20image%2020231104211332.png)
@@ -203,6 +209,7 @@ When you're staying alone in a cabin during a sever thunderstorm and a floppy di
 Verdict - 👍 10/10 
 You run a coffee shop. As a witch. Occasionally you fight people's demons by jumping into their mindscape and fighting their inner demons in a card-based reversed-tower-defense. You make coffee. Sometimes people like it. You probably sold your soul for the coffee shop and rent is hard.
 https://store.steampowered.com/app/1983970/Affogato/
+
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104211359.png)](img/demos/Pasted%20image%2020231104211359.png)
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104211403.png)](img/demos/Pasted%20image%2020231104211403.png)
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104211406.png)](img/demos/Pasted%20image%2020231104211406.png)
@@ -215,6 +222,7 @@ https://store.steampowered.com/app/1295510/DRAGON_QUEST_XI_S_Echoes_of_an_Elusiv
 Verdict: 👍 
 Resource management factory builder. You start with 2 roombas and can instruct them to gather, collect, smelt, fabricate. You build circuit boards and things and antennas for research. You explore but can lose power on battery. You can carry a turret to defend from bugs. I actually dig this one, it was pretty chill and slow and exploration focused. lot of I need X for Y. Wait I thought i wanted Z
 https://store.steampowered.com/app/1450900/Desynced/
+
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104211528.png)](img/demos/Pasted%20image%2020231104211528.png)
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104211532.png)](img/demos/Pasted%20image%2020231104211532.png)
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104211542.png)](img/demos/Pasted%20image%2020231104211542.png)
@@ -222,17 +230,20 @@ https://store.steampowered.com/app/1450900/Desynced/
 Verdict: 👍 
 Spider bot crawls infinite wall. you hop out to mine for resources sorta like STEAMWORLD DIG. You upgrade yourself, your mine laser/vacuum and repair and survive as long as you can. Rougelike Probably favorite demo so far actually
 https://store.steampowered.com/app/2187290/Wall_World/
+
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104211612.png)](img/demos/Pasted%20image%2020231104211612.png)
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104211616.png)](img/demos/Pasted%20image%2020231104211616.png)
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104211619.png)](img/demos/Pasted%20image%2020231104211619.png)
 # Cynthia: Hidden in the Moonshadow 👎 
 Rail gun arrows 🏹. Got bored
 https://store.steampowered.com/app/1685730/Cynthia_Hidden_in_the_Moonshadow/?curator_clanid=35402408
+
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104211729.png)](img/demos/Pasted%20image%2020231104211729.png)
 # Gripper 👎
 Verdict: 👎 (polished, stylish - just not for me) 
 Half tunnel rider, half top-down boss fight. You're on an akira motorcycle and can pick up and yeet items into enemies. There's a spider boss you can pick up barrels and shoot into him and rip off his legs. The splash explosion of random spiders kept getting me. The vehicle goes forward with left stick, you aim with right stick is a bit hard.
 https://store.steampowered.com/app/1336380/Gripper/
+
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104211843.png)](img/demos/Pasted%20image%2020231104211843.png)
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104211847.png)](img/demos/Pasted%20image%2020231104211847.png)
 # Meet your Maker 👎
@@ -261,6 +272,7 @@ Verdict: Not my thing, creative I dropped into to the underground dungeon labyri
 Verdict: 👍 
 Simple Rogue-like but you can only carry what fits in your backpack so you try to break items and after every fight you can pick 3 out of 6+ items. IT'S GREAT. YOU ARE A MOUSE
 https://store.steampowered.com/app/1970580/Backpack_Hero/
+
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104212536.png)](img/demos/Pasted%20image%2020231104212536.png)
 
 # Sherlock Holmes - The Awakened 
