@@ -2,6 +2,10 @@
 I skipped the demo for the actual game is how much I love this series. :)
 
 ![img/demos/Pasted%20image%2020231104205810.png](img/thumbnails/Pasted%20image%2020231104205810.png)
+
+![img/thumbnails/Pasted%20image%2020231104205810.png](img/demos/Pasted%20image%2020231104205810.png)
+
+
 # Empty Shell V 
 Verdict: Liked 👍 
 
