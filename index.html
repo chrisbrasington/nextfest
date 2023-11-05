@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your GitHub Pages Site</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+  <div id="readme-content"></div>
+
+  <script>
+    const readmeUrl = "https://raw.githubusercontent.com/chrisbrasington/nextfest/main/README.md";
+
+    fetch(readmeUrl)
+      .then(response => response.text())
+      .then(markdown => {
+        const html = marked(markdown);
+        document.getElementById("readme-content").innerHTML = html;
+      })
+      .catch(error => console.error(error));
+  </script>
+</body>
+</html>
