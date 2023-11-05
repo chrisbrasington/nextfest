@@ -1,37 +1,5 @@
 # Favorites
 
-## Purchased
-- [Affagato](#affogato)
-- [Darkest Dungeon 2](#darkest-dungeon-2)
-- [Dragon Quest XI](#dragon-quest-xi)
-- [Final Fantasy VII Remake](#final-fantasy-vii-remake)
-- [God Eater 3](#god-eater-3)
-- [Inscryption](#inscryption)
-- [Monster Hunter Rise](#monster-hunter-rise)
-- [Planet of Lana](#planet-of-lana)
-- [Scarlet Nexus](#scarlet-nexus)
-- [Shadows of Doubt](#shadows-of-doubt)
-- [Talos Principle 2](#talos-principle-2)
-- [Trails of Mana](#trials-of-mana)
-- [Triangle Stategy](#triangle-strategy)
-- [Void Scrappers](#void-scrappers)
-- [Wall World](#wall-world)
-
-## Favorites
-- [Another Crab's Treasure](#another-crabs-treasure)
-- [Deep Rock Galactic Survivor](#deep-rock-galactic-survivor)
-- [Empty Shell Prologue](#empty-shell-prologue)
-- [Jumplight Odyssey](#jumplight-odyssey)
-- [Star Ocean: The Second Story R](#star-ocean-the-second-story-r)
-- [The Thaumaturge](#the-thaumaturge)
-- [Wizard with a gun](#wizard-with-a-gun)
-- [Desynced](#desynced)
-- [Last Case of Benedict Fox](#the-last-case-of-benedict-fox)
-- [Luto](#luto)
-- [Radio The Universe](#radio-the-universe)
-- [Suffer The Night](#suffer-the-night)
-- [Void Train](#void-train)
-
 # Talos Principle 2
 Verdict: Love love love 👍
 
