@@ -1,5 +1,3 @@
-# Favorites
-
 # Talos Principle 2
 Verdict: Love love love 👍
 
