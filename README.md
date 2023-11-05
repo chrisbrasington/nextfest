@@ -59,7 +59,7 @@ VERDICT: The best demo I've ever played. I died in the tutorial a lot. I mean lo
 Cee feels 😪 _—_ 10/09/2023 6:55 PM
 "@Geddy FISHING is a freaking grappling hook for movement and attacks. It's like Sekiro, to be honest."
 
-[![Thumbnail](img/thumbnails/Pasted%20image%2020231104205019.png)](img/demos/Pasted%20image%2020231104205019.png)
+[![Thumbnail](img/thumbnails/crab.jpeg)](img/demos/crab.jpeg) [![Thumbnail](img/thumbnails/Pasted%20image%2020231104205019.png)](img/demos/Pasted%20image%2020231104205019.png)
 
 # Jumplight Odyssey
 
