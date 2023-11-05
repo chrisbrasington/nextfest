@@ -199,9 +199,7 @@ https://store.steampowered.com/app/986130/Shadows_of_Doubt/
 # Blasphemous 
 Verdict: @Christian Server Moderator Approved 
 
-```
 A̴̗͂v̸͎͝e̷͈͝ ̶̜̓M̷͂͂a̸͍̍r̴̒̚i̶̼͑a̵͖̽,̷̼̾ ̷̈͂ġ̸͠r̶̂̇ȃ̶͛t̸͒͘i̴͑̔a̵̒̑ ̵̰̊p̷͐̈l̶̅̃e̷̍̐n̶̂̏a̶̺̓,̵̀̒ ̴͇̎D̶̈́̊o̴͌͐m̴̦̕ỉ̷̄n̷̂̋ṷ̸̂s̶͆̐ ̴͈̎t̶͎́e̷̛͗c̸̐ͅu̷̺͒m̴̈̾.̵̀͊ ̴̞͑B̴̒͝é̶̕ǹ̸̪e̸̘͐d̵̨̕i̶̱͐c̴̊̕t̵̤̚a̷̼͝ ̸̒tu in mulieribus, et benedictus fructus ventris tui, Iesus. Sancta Maria, Mater Dei, ora pro nobis peccatoribus, nunc et in hora mortis nostrae. Amen.
-```
 
 https://store.steampowered.com/app/2114740/Blasphemous_2/
 
