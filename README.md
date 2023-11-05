@@ -25,9 +25,15 @@ oh. my. god. I am blown away by **The Thaumaturge** demo. I had no idea what thi
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104204602.png)](img/demos/Pasted%20image%2020231104204602.png)
 # Deep Rock Galactic Survivor 
 
-I really good demo I already played if you like vampire survivors or deep rock [https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/](https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/ "https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/")
+I really good demo I already played if you like vampire survivors or deep rock 
+[https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/](https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/ "https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/")
+
+[![Thumbnail](img/thumbnails/deeprocksurvivor.jpg)](img/demos/deeprocksurvivor.jpg)
+
 # Star Ocean: The Second Story R
 VERDICT: Too pretty WHERE IS MY XENOGEARS SQUARE.
+[https://store.steampowered.com/app/2238900/STAR_OCEAN_THE_SECOND_STORY_R/](https://store.steampowered.com/app/2238900/STAR_OCEAN_THE_SECOND_STORY_R/)
+
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104204738.png)](img/demos/Pasted%20image%2020231104204738.png)
 
 # ANOTHER CRAB'S TREASURE 
