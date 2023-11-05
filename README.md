@@ -1,3 +1,37 @@
+# Favorites
+
+## Favorites
+- [Another Crab's Treasure](#another-crabs-treasure)
+- [Deep Rock Galactic Survivor](#deep-rock-galactic-survivor)
+- [Empty Shell Prologue](#empty-shell-prologue)
+- [Jumplight Odyssey](#jumplight-odyssey)
+- [Star Ocean: The Second Story R](#star-ocean-the-second-story-r)
+- [The Thaumaturge](#the-thaumaturge)
+- [Wizard with a gun](#wizard-with-a-gun)
+- [Desynced](#desynced)
+- [Last Case of Benedict Fox](#the-last-case-of-benedict-fox)
+- [Luto](#luto)
+- [Radio The Universe](#radio-the-universe)
+- [Suffer The Night](#suffer-the-night)
+- [Void Train](#void-train)
+
+## Purchased
+- [Affagato](#affogato)
+- [Darkest Dungeon 2](#darkest-dungeon-2)
+- [Dragon Quest XI](#dragon-quest-xi)
+- [Final Fantasy VII Remake](#final-fantasy-vii-remake)
+- [God Eater 3](#god-eater-3)
+- [Inscryption](#inscryption)
+- [Monster Hunter Rise](#monster-hunter-rise)
+- [Planet of Lana](#planet-of-lana)
+- [Scarlet Nexus](#scarlet-nexus)
+- [Shadows of Doubt](#shadows-of-doubt)
+- [Talos Principle 2](#talos-principle-2)
+- [Trails of Mana](#trials-of-mana)
+- [Triangle Stategy](#triangle-strategy)
+- [Void Scrappers](#void-scrappers)
+- [Wall World](#wall-world)
+
 # Talos Principle 2
 Verdict: Love love love 👍
 
@@ -7,12 +41,14 @@ I skipped the demo for the actual game is how much I love this series. :)
 
 [![Thumbnail](img/thumbnails/talos2.png)](img/demos/talos2.png)
 
-# Empty Shell V 
+# Empty Shell Prologue
 Verdict: Liked 👍 
 
 And like... I don't get it because this game is violent but I liked it. Maybe it's just shooting alien bugs that's fine. This one is survival rogue-like, weird 1950s story, weird turn on generates and do objectives and escape and you dont' have enough bullets to survive. I got crushed multiple times then one time I just concerved ammo right, set down a turret at the right time and survived. I like the loop and map and aestetic 
 
 [https://store.steampowered.com/app/2224850/EMPTY_SHELL_PROLOGUE/](https://store.steampowered.com/app/2224850/EMPTY_SHELL_PROLOGUE/ "https://store.steampowered.com/app/2224850/EMPTY_SHELL_PROLOGUE/")
+
+https://store.steampowered.com/app/2243110/EMPTY_SHELL/
 
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104204423.png)](img/demos/Pasted%20image%2020231104204423.png)
 
