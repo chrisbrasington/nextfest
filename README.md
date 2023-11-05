@@ -78,9 +78,15 @@ da looks like a rich asshole and must be because everyone HATED me. Like literal
 
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104205155.png)](img/demos/Pasted%20image%2020231104205155.png)
 # Reverse Collapse: Codename Bakery 
+Verdict: Will purchase
+
+This demo was literally hours - I think it might have been the full game and no one noticed.
+
 I like this one if not a little mixed. It's tactics, somewhere between fire emblem and xcom. What I like is that you can do multiple actions/movements so long as you use AP points in a limited meter. I also like how stealth is an actual mechanic, where enemies in standby will not see you unless you get within visual range and weather, trees, crawling can affect this. Second mission is get-out undetected no fighting. Snipers can take out long distances. 
 
 I think it's part of `girls frontline` which is a mobile dev, so I'm a little learly about this being a microtransaction hell. But it has an interesting second cold war story because humanity figured out how to collapse materials into particles and rebuild anything.... so they terraformed and colonized Antartica or something? not too sure. I'm a bit mixed on the visuals too being both realistic and gritty and anime and chibi and mobile game-y. it's just both?
+
+https://store.steampowered.com/app/1127700/Reverse_Collapse_Code_Name_Bakery/
 
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104205258.png)](img/demos/Pasted%20image%2020231104205258.png)
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104205302.png)](img/demos/Pasted%20image%2020231104205302.png)
