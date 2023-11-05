@@ -15,7 +15,7 @@ for root, dirs, files in os.walk(input_dir):
             img_path = os.path.join(root, filename)
             img = Image.open(img_path)
             thumbnail = img.copy()
-            thumbnail.thumbnail((100, 100))  # You can adjust the size of the thumbnail as needed.
+            thumbnail.thumbnail((400, 400))  # You can adjust the size of the thumbnail as needed.
             thumbnail.save(os.path.join(output_dir, filename))
 
 # Step 2: Read README.md and replace image links with thumbnails
