@@ -1,20 +1,5 @@
 # Favorites
 
-## Favorites
-- [Another Crab's Treasure](#another-crabs-treasure)
-- [Deep Rock Galactic Survivor](#deep-rock-galactic-survivor)
-- [Empty Shell Prologue](#empty-shell-prologue)
-- [Jumplight Odyssey](#jumplight-odyssey)
-- [Star Ocean: The Second Story R](#star-ocean-the-second-story-r)
-- [The Thaumaturge](#the-thaumaturge)
-- [Wizard with a gun](#wizard-with-a-gun)
-- [Desynced](#desynced)
-- [Last Case of Benedict Fox](#the-last-case-of-benedict-fox)
-- [Luto](#luto)
-- [Radio The Universe](#radio-the-universe)
-- [Suffer The Night](#suffer-the-night)
-- [Void Train](#void-train)
-
 ## Purchased
 - [Affagato](#affogato)
 - [Darkest Dungeon 2](#darkest-dungeon-2)
@@ -31,6 +16,21 @@
 - [Triangle Stategy](#triangle-strategy)
 - [Void Scrappers](#void-scrappers)
 - [Wall World](#wall-world)
+
+## Favorites
+- [Another Crab's Treasure](#another-crabs-treasure)
+- [Deep Rock Galactic Survivor](#deep-rock-galactic-survivor)
+- [Empty Shell Prologue](#empty-shell-prologue)
+- [Jumplight Odyssey](#jumplight-odyssey)
+- [Star Ocean: The Second Story R](#star-ocean-the-second-story-r)
+- [The Thaumaturge](#the-thaumaturge)
+- [Wizard with a gun](#wizard-with-a-gun)
+- [Desynced](#desynced)
+- [Last Case of Benedict Fox](#the-last-case-of-benedict-fox)
+- [Luto](#luto)
+- [Radio The Universe](#radio-the-universe)
+- [Suffer The Night](#suffer-the-night)
+- [Void Train](#void-train)
 
 # Talos Principle 2
 Verdict: Love love love 👍
