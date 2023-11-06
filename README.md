@@ -430,6 +430,13 @@ https://store.steampowered.com/app/1399080/The_DioField_Chronicle/
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104213539.png)](img/demos/Pasted%20image%2020231104213539.png)
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104213541.png)](img/demos/Pasted%20image%2020231104213541.png)
 [![Thumbnail](img/thumbnails/Pasted%20image%2020231104213544.png)](img/demos/Pasted%20image%2020231104213544.png)
+
+# Mob Factory
+
+Verdict: Liked, was fun
+
+https://store.steampowered.com/app/2182630/Mob_Factory/
+
 # SteamWorld Build
 Verdict: Not my thing (city builder) but love steamworld
 https://store.steampowered.com/app/2134770/SteamWorld_Build/
