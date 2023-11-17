@@ -5,6 +5,10 @@ This feels like a substantial must-play game for its story. Perhaps eye-opening 
 
 And I won't spoil, but the end of the demo is rather.. eventful. 
 
+This is different developer than `Night in the Woods`. The reviews are mixed, but I think people miss the point. I don't expect a mystery or underlying plot. I don't expect a plot or story or ending here - I mean there might be one. That isn't the goal.
+
+The point, I think, is this is someone's life. Or there are a lot of people with lives that look like this. And Finley is just coming to terms with it and figuring out how to settle into it without making any mistakes with large consequences that would affect others. It's tedious, mundane, boring, scary, sad, and hopeful. 
+
 https://store.steampowered.com/app/1710540/Fall_of_Porcupine/
 
 [![Thumbnail](img/thumbnails/fall_of_porcupine.jpeg)](img/2023_cozy/fall_of_porcupine.jpeg)
