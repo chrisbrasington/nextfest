@@ -1,7 +1,7 @@
 # Fall of Porcupine
 Inspired from `Night in the Woods`, you are a new doctor at an understaffed hospital in an unfamiliar town called Porcupine. Exhausted and mostly not seeing the good side of most people, you do what you can day-by-day to take care of your patients and survive yourself.
 
-This feels like a substaintial must-play game for its story. Perhaps eye-opening to the state of health care workers. This is "running ragged" the story - beauty and depression and hope all at once in the mundane. Apprechiation in normalcy.
+This feels like a substantial must-play game for its story. Perhaps eye-opening to the state of health care workers. This is "running ragged" the story - beauty and depression and hope all at once in the mundane. Apprechiation in normalcy.
 
 And I won't spoil, but the end of the demo is rather.. eventful. 
 
