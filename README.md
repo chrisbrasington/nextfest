@@ -8,7 +8,7 @@ Game bugged out on me so I kept not being able to progress or assign spells. See
 
 # Euro Truck Simulator 2 / American Truck Sim
 
-Weirdly, driving and listening to podcasts and audiobooks became a zen thing and I read about people doing this with sim games. And well I've explored all of the UK now. These are massive and great games at $5, lots of DLC for locations
+Unexpectedly, IRL driving and listening to podcasts and audiobooks became a zen thing and I read about people doing this with sim games. And well in this sim I've explored all of the UK now. I've enjoyed this more than racing games tbh. These are massive and great games at $5, lots of DLC for locations
 
 https://store.steampowered.com/bundle/36547/Czech__Slovak_Games_Week_Bundle/
 
