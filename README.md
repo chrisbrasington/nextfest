@@ -1,3 +1,20 @@
+# Grimoir Groves
+
+Game bugged out on me so I kept not being able to progress or assign spells. Seems like a simple rouge-like where you grow plants which become magic. Not my thing.
+
+[https://store.steampowered.com/app/1830430/Grimoire_Groves/](https://store.steampowered.com/app/1830430/Grimoire_Groves/)
+
+[![Thumbnail](img/thumbnails/steamuserimages-a.akamaihd.jpeg)](img/2023_cozy/steamuserimages-a.akamaihd.jpeg)
+
+# Euro Truck Simulator 2 / American Truck Sim
+
+Weirdly, driving and listening to podcasts and audiobooks became a zen thing and I read about people doing this with sim games. And well I've explored all of the UK now. These are massive and great games at $5, lots of DLC for locations
+
+https://store.steampowered.com/bundle/36547/Czech__Slovak_Games_Week_Bundle/
+
+[![Thumbnail](img/thumbnails/Screenshot_20231107_215436.png)](img/2023_cozy/Screenshot_20231107_215436.png)
+
+
 # Talos Principle 2
 Verdict: Love love love 👍
 
