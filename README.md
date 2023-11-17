@@ -1,3 +1,41 @@
+# Fall of Porcupine
+Inspired from `Night in the Woods`, you are a new doctor at an understaffed hospital in an unfamiliar town. Exhausted and mostly not seeing the good side of most people, you do what you can day-by-day to take care of your patients and survive yourself.
+
+This feels like a substaintial must-play game for its story. Perhaps eye-opening to the state of health care workers. This is "running ragged" the story - beauty and depression and hope all at once in the mundane. Apprechiation in normalcy.
+
+And I won't spoil, but the end of the demo is rather.. eventful. 
+
+https://store.steampowered.com/app/1710540/Fall_of_Porcupine/
+
+[![Thumbnail](img/thumbnails/fall_of_porcupine.jpeg)](img/2023_cozy/fall_of_porcupine.jpeg)
+
+
+# Moving Out 2
+
+I see how this game takes cues from Overcooked 1 and 2, and it is fun and charming.. but it's also tedious as a core mechanic? I love the style and humor and it makes for a good couch-co-op party game - it's just not a solo game.
+
+https://store.steampowered.com/app/1641700/Moving_Out_2/
+
+[![Thumbnail](img/thumbnails/movingout2.jpeg)](img/2023_cozy/movingout2.jpeg)
+
+
+# A Little Golf Journey
+
+#Cozy, like a little puzzle ala Captain Toad but golf. What I liked are there are hidden holes or speed challenges that make it worth revisiting courses. 
+
+https://store.steampowered.com/app/1232150
+
+[![Thumbnail](img/thumbnails/golfjourney.jpeg)](img/2023_cozy/golfjourney.jpeg)
+
+# Yoku's Island Express
+
+Pinball metroidvania - already played. High recommendation.
+
+https://store.steampowered.com/app/334940/Yokus_Island_Express/
+
+[![Thumbnail](img/thumbnails/yoku.png)](img/2023_cozy/yoku.png)
+
+
 # Grimoir Groves
 
 Game bugged out on me so I kept not being able to progress or assign spells. Seems like a simple rouge-like where you grow plants which become magic. Not my thing.
