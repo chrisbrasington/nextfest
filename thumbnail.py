@@ -3,7 +3,7 @@ from PIL import Image
 import re
 
 # Step 1: Create thumbnails for images in img/demos if they don't already exist
-input_dir = "img/demos"
+input_dir = "img/2023_cozy"
 output_dir = "img/thumbnails"
 
 if not os.path.exists(output_dir):
