@@ -1,8 +1,7 @@
 
 Kamikaze Lassplanes
 Until Then
-TokyoPsychodemic
-Eclipsium
+
 Awake - Astral Blade
 Backpack Battles
 Duel Corp
