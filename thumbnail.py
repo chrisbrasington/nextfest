@@ -22,7 +22,9 @@ for root, dirs, files in os.walk(input_dir):
                 thumbnail = img.copy()
                 thumbnail.thumbnail((400, 400))  # You can adjust the size of the thumbnail as needed.
                 thumbnail.save(thumbnail_path)
-                print(f"[![Thumbnail]({output_dir}/{filename})]({input_dir}/{filename})")
+                
+                image_folder = os.path.dirname(img_path)
+                print(f"[![Thumbnail]({output_dir}/{filename})]({image_folder}/{filename})")
 
 
 # Step 2: Read README.md and replace image links with thumbnails and full-size hyperlinks
@@ -44,4 +46,4 @@ for root, dirs, files in os.walk(input_dir):
 #     f.write(updated_readme_content)
 
 # print("Thumbnails created and README.md updated.")
-print("Thumbnails created.")
+# print("Thumbnails created.")
