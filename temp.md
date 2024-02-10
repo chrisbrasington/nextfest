@@ -9,7 +9,6 @@ Duel Corp
 
 Deviator
 Emberbane
-Oriental Valley
 Eden's Guardian
 
 Harold Halibut
