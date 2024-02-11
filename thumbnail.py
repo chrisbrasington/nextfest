@@ -11,7 +11,7 @@ if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
 for root, dirs, files in os.walk(input_dir):
-    for filename in files:
+    for filename in sorted(files):
         if filename.lower().endswith(('.png', '.jpg', '.jpeg', '.gif')):
             img_path = os.path.join(root, filename)
             thumbnail_path = os.path.join(output_dir, filename)
