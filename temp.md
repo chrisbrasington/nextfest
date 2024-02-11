@@ -1,4 +1,3 @@
-Kamikaze Lassplanes
 Duel Corp
 Backpack Battles
 Awake - Astral Blade
