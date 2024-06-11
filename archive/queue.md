@@ -1,3 +1,92 @@
+| [Sky Oceans](#sky-oceans-wings-for-hire)           |                 |               | #adventure #simulation                     |
+| [Neko Odyssey](#neko-odyssey)                      |                 |               | #adventure #simulation                     |
+| [Dungeons of Hinterberg](#dungeons-of-hinterberg)  |                 |               | #rpg #adventure                            |
+| [Once Human](#once-human)                          |                 |               | #survival #multiplayer                     |
+| [On Your Tail](#on-your-tail)                      |                 |               | #action #adventure                         |
+| [Beyond Galaxyland Prologue](#beyond-galaxyland)   |                 |               | #adventure #sci-fi                         |
+| [SULFUR](#sulfur)                                  |                 |               | #adventure #action                         |
+| [The Alters](#the-alters)                          |                 |               | #adventure #sci-fi                         |
+| [Tactical Breach Wizards](#tactical-breach-wizards)|                 |               | #strategy #turn-based                      |
+| [Steel Seed](#steel-seed)                          |                 |               | #action #adventure                         |
+| [Metal Slug Tactics](#metal-slug-tactics)          |                 |               | #strategy #tactics                         |
+| [Test Drive Unlimited](#test-drive-unlimited)      |                 |               | #racing #simulation                        |
+| [Tavern Talk](#tavern-talk)                        |                 |               | #simulation #role-playing                  |
+| [Crashlands 2](#crashlands-2)                      |                 |               | #adventure #crafting                       |
+| [Mirthwood](#mirthwood)                            |                 |               | #adventure #role-playing                   |
+| [Goblin Cleanup](#goblin-cleanup)                  |                 |               | #action #adventure                         |
+| [Moon Mystery](#moon-mystery)                      |                 |               | #adventure #sci-fi                         |
+| [Riven](#riven)                                    |                 |               | #adventure #puzzle                         |
+| [Enotria](#enotria)                                |                 |               |                                            |
+| [Afterlove EP](#afterlove-ep)                      |                 |               |                                            |
+| [Trace Hunters](#trace-hunters)                    |                 |               |                                            |
+| [Demonschool](#demonschool)                        |                 |               |                                            |
+| [Honeycomb: The World Beyond](#honeycomb)          |                 |               |                                            |
+| [Mind Over Magnet](#mind-over-magnet)              |                 |               |                                            |
+| [Seafrog](#seafrog)                                |                 |               |                                            |
+| [Tiny Glade](#tiny-glade)                          |                 |               |                                            |
+| [One Btn Bosses](#one-btn-bosses)                  |                 |               |                                            |
+| [The Rise of the Golden Idol](#golden-idol)        |                 |               |                                            |
+| [The Big Catch Tacklebox](#the-big-catch-tacklebox)|                 |               |                                            |
+| [Thank Goodness You're Here](#thank-goodness-youre-here) |                 |               |                                            |
+| [Freaked Fleapit](#freaked-fleapit)                |                 |               |                                            |
+| [Uncle Chop's Rocket Shop](#uncle-chops-rocket-shop) |                 |               |                                            |
+
+
+# Uncle Chop's Rocket Shop
+
+- **Steam Page**: [Uncle Chop's Rocket Shop](https://store.steampowered.com/app/1849790/Uncle_Chops_Rocket_Shop/)
+- **Total Play Time**: 
+- **Will Purchase**: 
+- **Type**: #simulation #casual #indie
+
+> 🕹️ **Description**: 
+>
+> 👍 **Feedback**:
+
+# Freaked Fleapit
+
+- **Steam Page**: [Freaked Fleapit](https://store.steampowered.com/app/1840880/Freaked_Fleapit/)
+- **Total Play Time**: 
+- **Will Purchase**: 
+- **Type**: #horror #adventure #indie
+
+> 🕹️ **Description**: 
+>
+> 👍 **Feedback**:
+
+# Thank Goodness You're Here
+
+- **Steam Page**: [Thank Goodness You're Here](https://store.steampowered.com/app/2366980/Thank_Goodness_Youre_Here/)
+- **Total Play Time**: 
+- **Will Purchase**: 
+- **Type**: #simulation #casual #adventure
+
+> 🕹️ **Description**: 
+>
+> 👍 **Feedback**:
+
+# The Big Catch Tacklebox
+
+- **Steam Page**: [The Big Catch Tacklebox](https://store.steampowered.com/app/2985610/The_Big_Catch_Tacklebox/)
+- **Total Play Time**: 
+- **Will Purchase**: 
+- **Type**: #simulation #fishing #casual
+
+> 🕹️ **Description**: 
+>
+> 👍 **Feedback**:
+
+# The Rise of the Golden Idol
+
+- **Steam Page**: [The Rise of the Golden Idol](https://store.steampowered.com/app/2716400/The_Rise_of_the_Golden_Idol/)
+- **Total Play Time**: 
+- **Will Purchase**: 
+- **Type**: #adventure #puzzle #indie
+
+> 🕹️ **Description**: 
+>
+> 👍 **Feedback**:
+
 # ONE BTN BOSSES
 
 - **Steam Page**: [ONE BTN BOSSES](https://store.steampowered.com/app/1910600/ONE_BTN_BOSSES/)
