@@ -170,18 +170,7 @@
 >
 > 👍 **Feedback**: 
 
-# REKA
 
-[![Thumbnail](img/thumbnails/reka.jpeg)](img/2024/reka.jpeg)
-
-- **Steam Page**: [REKA](https://store.steampowered.com/app/1737870/REKA/)
-- **Total Play Time**: 
-- **Will Purchase**: 
-- **Type**: #adventure #simulation
-
-> 🕹️ **Description**: 
->
-> 👍 **Feedback**: 
 
 # Steel Seed
 
