@@ -1,6 +1,6 @@
 | [Sky Oceans](#sky-oceans-wings-for-hire)           |                 |               | #adventure #simulation                     |
 | [Neko Odyssey](#neko-odyssey)                      |                 |               | #adventure #simulation                     |
-| [Dungeons of Hinterberg](#dungeons-of-hinterberg)  |                 |               | #rpg #adventure                            |
+
 | [Once Human](#once-human)                          |                 |               | #survival #multiplayer                     |
 | [On Your Tail](#on-your-tail)                      |                 |               | #action #adventure                         |
 | [Beyond Galaxyland Prologue](#beyond-galaxyland)   |                 |               | #adventure #sci-fi                         |
@@ -9,7 +9,7 @@
 | [Tactical Breach Wizards](#tactical-breach-wizards)|                 |               | #strategy #turn-based                      |
 | [Steel Seed](#steel-seed)                          |                 |               | #action #adventure                         |
 | [Metal Slug Tactics](#metal-slug-tactics)          |                 |               | #strategy #tactics                         |
-| [Test Drive Unlimited](#test-drive-unlimited)      |                 |               | #racing #simulation                        |
+
 | [Tavern Talk](#tavern-talk)                        |                 |               | #simulation #role-playing                  |
 | [Crashlands 2](#crashlands-2)                      |                 |               | #adventure #crafting                       |
 | [Mirthwood](#mirthwood)                            |                 |               | #adventure #role-playing                   |
@@ -21,7 +21,6 @@
 | [Trace Hunters](#trace-hunters)                    |                 |               |                                            |
 | [Demonschool](#demonschool)                        |                 |               |                                            |
 | [Honeycomb: The World Beyond](#honeycomb)          |                 |               |                                            |
-| [Mind Over Magnet](#mind-over-magnet)              |                 |               |                                            |
 | [Seafrog](#seafrog)                                |                 |               |                                            |
 | [Tiny Glade](#tiny-glade)                          |                 |               |                                            |
 | [One Btn Bosses](#one-btn-bosses)                  |                 |               |                                            |
@@ -120,16 +119,6 @@
 >
 > 👍 **Feedback**:
 
-# Mind Over Magnet
-
-- **Steam Page**: [Mind Over Magnet](https://store.steampowered.com/app/2685900/Mind_Over_Magnet/)
-- **Total Play Time**: 
-- **Will Purchase**: 
-- **Type**: #puzzle #platformer #indie
-
-> 🕹️ **Description**: 
->
-> 👍 **Feedback**:
 
 
 # Honeycomb: The World Beyond
