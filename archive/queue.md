@@ -197,7 +197,7 @@
 - **Type**: #adventure #simulation
 
 > 🕹️ **Description**: 
->
+> 
 > 👍 **Feedback**: 
 
 # Neko Odyssey
@@ -208,30 +208,9 @@
 - **Type**: #adventure #simulation
 
 > 🕹️ **Description**: 
->
+> 
 > 👍 **Feedback**: 
 
-# Dungeons of Hinterberg
-
-- **Steam Page**: [Dungeons of Hinterberg](https://store.steampowered.com/app/1983260/Dungeons_of_Hinterberg/)
-- **Total Play Time**: 
-- **Will Purchase**: 
-- **Type**: #rpg #adventure
-
-> 🕹️ **Description**: 
->
-> 👍 **Feedback**: 
-
-# Hollowbody
-
-- **Steam Page**: [Hollowbody](https://store.steampowered.com/app/2123640/Hollowbody/)
-- **Total Play Time**: 
-- **Will Purchase**: 
-- **Type**: #horror #adventure
-
-> 🕹️ **Description**: 
->
-> 👍 **Feedback**: 
 
 # Once Human
 
@@ -241,7 +220,7 @@
 - **Type**: #survival #multiplayer
 
 > 🕹️ **Description**: 
->
+> 
 > 👍 **Feedback**: 
 
 # On Your Tail
@@ -252,7 +231,7 @@
 - **Type**: #action #adventure
 
 > 🕹️ **Description**: 
->
+> 
 > 👍 **Feedback**: 
 
 # Beyond Galaxyland
@@ -263,7 +242,7 @@
 - **Type**: #adventure #sci-fi
 
 > 🕹️ **Description**: 
->
+> 
 > 👍 **Feedback**: 
 
 
