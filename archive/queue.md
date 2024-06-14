@@ -23,12 +23,17 @@
 | [Honeycomb: The World Beyond](#honeycomb)          |                 |               |                                            |
 | [Seafrog](#seafrog)                                |                 |               |                                            |
 | [Tiny Glade](#tiny-glade)                          |                 |               |                                            |
-| [One Btn Bosses](#one-btn-bosses)                  |                 |               |                                            |
+
 | [The Rise of the Golden Idol](#golden-idol)        |                 |               |                                            |
 | [The Big Catch Tacklebox](#the-big-catch-tacklebox)|                 |               |                                            |
-| [Thank Goodness You're Here](#thank-goodness-youre-here) |                 |               |                                            |
 | [Freaked Fleapit](#freaked-fleapit)                |                 |               |                                            |
 | [Uncle Chop's Rocket Shop](#uncle-chops-rocket-shop) |                 |               |                                            |
+
+[Hitm3](https://store.steampowered.com/app/2709190/HITM3/)
+[Level Zero Extraction](https://store.steampowered.com/app/1456940/Level_Zero_Extraction/)
+Necrophosis https://store.steampowered.com/app/2019760/Necrophosis/
+Keylocker - https://store.steampowered.com/app/1325040/Keylocker__Turn_Based_Cyberpunk_Action/
+
 
 
 # Uncle Chop's Rocket Shop
@@ -53,16 +58,6 @@
 >
 > 👍 **Feedback**:
 
-# Thank Goodness You're Here
-
-- **Steam Page**: [Thank Goodness You're Here](https://store.steampowered.com/app/2366980/Thank_Goodness_Youre_Here/)
-- **Total Play Time**: 
-- **Will Purchase**: 
-- **Type**: #simulation #casual #adventure
-
-> 🕹️ **Description**: 
->
-> 👍 **Feedback**:
 
 # The Big Catch Tacklebox
 
@@ -86,16 +81,7 @@
 >
 > 👍 **Feedback**:
 
-# ONE BTN BOSSES
 
-- **Steam Page**: [ONE BTN BOSSES](https://store.steampowered.com/app/1910600/ONE_BTN_BOSSES/)
-- **Total Play Time**: 
-- **Will Purchase**: 
-- **Type**: #action #arcade #indie
-
-> 🕹️ **Description**: 
->
-> 👍 **Feedback**:
 
 # Tiny Glade
 
