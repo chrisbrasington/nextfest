@@ -1,19 +1,22 @@
 
+https://store.steampowered.com/app/2276980/FACEMINER/
 
-| [Goblin Cleanup](#goblin-cleanup)                  |                 |               | #action #adventure                         |
-| [Neko Odyssey](#neko-odyssey)                      |                 |               | #adventure #simulation                     |
-| [Afterlove EP](#afterlove-ep)                      |                 |               |                                            |
-| [Uncle Chop's Rocket Shop](#uncle-chops-rocket-shop) |                 |               |                                            |
+https://store.steampowered.com/app/2596420/Arranger_A_RolePuzzling_Adventure/
+https://store.steampowered.com/app/2599040/Going_Down/
+https://store.steampowered.com/app/1849790/Uncle_Chops_Rocket_Shop/
+https://store.steampowered.com/app/2748340/Goblin_Cleanup/
+https://store.steampowered.com/app/2476350/Neko_Odyssey/
+https://store.steampowered.com/app/1599780/Afterlove_EP/
 
-Keylocker - https://store.steampowered.com/app/1325040/Keylocker__Turn_Based_Cyberpunk_Action/
-[Hitm3](https://store.steampowered.com/app/2709190/HITM3/)
-Necrophosis https://store.steampowered.com/app/2019760/Necrophosis/
+
+https://store.steampowered.com/app/1325040/Keylocker__Turn_Based_Cyberpunk_Action/
+https://store.steampowered.com/app/2709190/HITM3/
+https://store.steampowered.com/app/2019760/Necrophosis/
 
 | [The Rise of the Golden Idol](#golden-idol)        |                 |               |                                            |
 | [The Big Catch Tacklebox](#the-big-catch-tacklebox)|                 |               |                                            |
 | [Freaked Fleapit](#freaked-fleapit)                |                 |               |                                            |
 | [Tiny Glade](#tiny-glade)                          |                 |               |                                            |
-
 
 | [On Your Tail](#on-your-tail)                      |                 |               | #action #adventure                         |
 
