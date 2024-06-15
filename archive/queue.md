@@ -12,12 +12,12 @@
 | [Crashlands 2](#crashlands-2)                      |                 |               | #adventure #crafting                       |
 | [Mirthwood](#mirthwood)                            |                 |               | #adventure #role-playing                   |
 | [Goblin Cleanup](#goblin-cleanup)                  |                 |               | #action #adventure                         |
-| [Moon Mystery](#moon-mystery)                      |                 |               | #adventure #sci-fi                         |
+
 | [Riven](#riven)                                    |                 |               | #adventure #puzzle                         |
 | [Enotria](#enotria)                                |                 |               |                                            |
 | [Afterlove EP](#afterlove-ep)                      |                 |               |                                            |
 | [Trace Hunters](#trace-hunters)                    |                 |               |                                            |
-| [Demonschool](#demonschool)                        |                 |               |                                            |
+
 | [Honeycomb: The World Beyond](#honeycomb)          |                 |               |                                            |
 | [Seafrog](#seafrog)                                |                 |               |                                            |
 | [Tiny Glade](#tiny-glade)                          |                 |               |                                            |
@@ -116,16 +116,7 @@ Keylocker - https://store.steampowered.com/app/1325040/Keylocker__Turn_Based_Cyb
 >
 > 👍 **Feedback**:
 
-# Demonschool
 
-- **Steam Page**: [Demonschool](https://store.steampowered.com/app/1900250/Demonschool/)
-- **Total Play Time**: 
-- **Will Purchase**: 
-- **Type**: #simulation #strategy #casual
-
-> 🕹️ **Description**: 
->
-> 👍 **Feedback**: 
 
 # Dice & Fold
 
@@ -303,16 +294,7 @@ Keylocker - https://store.steampowered.com/app/1325040/Keylocker__Turn_Based_Cyb
 >
 > 👍 **Feedback**: 
 
-# Moon Mystery
 
-- **Steam Page**: [Moon Mystery](https://store.steampowered.com/app/1933840/Moon_Mystery/)
-- **Total Play Time**: 
-- **Will Purchase**: 
-- **Type**: #adventure #sci-fi
-
-> 🕹️ **Description**: 
->
-> 👍 **Feedback**: 
 
 # Riven
 
