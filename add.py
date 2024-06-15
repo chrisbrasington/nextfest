@@ -17,6 +17,18 @@ def extract_game_title(url):
 def convert_title_to_anchor(title):
     return title.lower().replace(' ', '-').replace('\'', '')
 
+def parse_time(time_str):
+    time_str = time_str.replace('+', '')
+    if 'hours' in time_str:
+        return float(time_str.replace(' hours', ''))
+    elif 'minutes' in time_str:
+        return int(time_str.replace(' minutes', '')) / 60
+    return 0
+
+def compare_times(new_time_str, current_time):
+    new_time = parse_time(new_time_str)
+    return new_time > current_time
+
 def insert_game_into_table(content, title, formatted_time):
     lines = content.split('\n')
     table_start = next((i for i, line in enumerate(lines) if '| Game Title' in line), None) + 2
@@ -38,29 +50,16 @@ def insert_game_into_table(content, title, formatted_time):
         lines.insert(table_end, new_entry)
 
     content = '\n'.join(lines[:table_end + 1])
-    content += append_game_detail(title, formatted_time)
+    content += append_game_detail(title, formatted_time, steam_url)
     content += '\n'.join(lines[table_end + 1:])
 
     return content
 
-def parse_time(time_str):
-    time_str = time_str.replace('+', '')
-    if 'hours' in time_str:
-        return float(time_str.replace(' hours', ''))
-    elif 'minutes' in time_str:
-        return int(time_str.replace(' minutes', '')) / 60
-    return 0
-
-def compare_times(new_time_str, current_time):
-    new_time = parse_time(new_time_str)
-    return new_time > current_time
-
-def append_game_detail(title, formatted_time):
+def append_game_detail(title, formatted_time, steam_url):
     detail_section = f"""
-    
 # {title}
 
-- **Steam Page**: [{title}](https://store.steampowered.com/app/{convert_title_to_anchor(title)}/)
+- **Steam Page**: [{title}]({steam_url})
 - **Total Play Time**: {formatted_time}
 - **Will Purchase**: 
 - **Type**: 
@@ -81,17 +80,20 @@ def main():
     
     formatted_time = format_time_played(time_played)
     title = extract_game_title(steam_url)
+
+    # Set the markdown filename
+    markdown_filename = "2024_June.md"
     
-    if not os.path.exists("2024_June.md"):
-        print("The file 2024_June.md does not exist.")
+    if not os.path.exists(markdown_filename):
+        print(f"The file {markdown_filename} does not exist.")
         return
 
-    with open("2024_June.md", "r") as file:
+    with open(markdown_filename, "r") as file:
         content = file.read()
 
     content = insert_game_into_table(content, title, formatted_time)
     
-    with open("2024_June.md", "w") as file:
+    with open(markdown_filename, "w") as file:
         file.write(content)
 
 if __name__ == "__main__":
