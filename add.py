@@ -23,8 +23,8 @@ def insert_game_into_table(content, title, formatted_time):
     table_end = next((i for i, line in enumerate(lines) if not line.startswith('|') and i > table_start), len(lines))
     
     new_entry = f"| [{title}](#{convert_title_to_anchor(title)})".ljust(60) + \
-                f"| {formatted_time}".ljust(17) + \
-                "|               | #adventure".ljust(43) + "|"
+                f"| {formatted_time}".ljust(18) + \
+                "|               | ".ljust(43) + "|"
     
     inserted = False
     for i in range(table_start, table_end):
@@ -63,11 +63,12 @@ def append_game_detail(title, formatted_time):
 - **Steam Page**: [{title}](https://store.steampowered.com/app/{convert_title_to_anchor(title)}/)
 - **Total Play Time**: {formatted_time}
 - **Will Purchase**: 
-- **Type**: #adventure
+- **Type**: 
 
 > 🕹️ **Description**: 
 >
 > 👍👎  **Feedback**: 
+
 """
     return detail_section
 
