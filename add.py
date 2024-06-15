@@ -30,15 +30,17 @@ def compare_times(new_time_str, current_time):
     new_time = parse_time(new_time_str)
     return new_time > current_time
 
-def insert_game_into_table(content, title, formatted_time, steam_url):
+def insert_game_into_table(content, title, formatted_time, steam_url, tags):
     lines = content.split('\n')
     table_start = next((i for i, line in enumerate(lines) if '| Game Title' in line), None) + 2
     table_end = next((i for i, line in enumerate(lines) if not line.startswith('|') and i > table_start), len(lines))
-    
+
+    # Adjust widths based on observed table format
     new_entry = f"| [{title}](#{convert_title_to_anchor(title)})".ljust(60) + \
                 f"| {formatted_time}".ljust(18) + \
-                "|               | ".ljust(61) + "|"
-    
+                "|               ".ljust(16) + \
+                f"| {tags}".ljust(46) + "|"
+
     inserted = False
     for i in range(table_start, table_end):
         current_time_str = lines[i].split('|')[2].strip()
@@ -51,14 +53,14 @@ def insert_game_into_table(content, title, formatted_time, steam_url):
         lines.insert(table_end, new_entry)
 
     content = '\n'.join(lines[:table_end + 1])
-    content += append_game_detail(title, formatted_time, steam_url)
+    content += append_game_detail(title, formatted_time, steam_url, tags)
     thumbnails = run_thumbnail_script()
     content += f"{thumbnails}\n"
     content += '\n'.join(lines[table_end + 1:])
 
     return content
 
-def append_game_detail(title, formatted_time, steam_url):
+def append_game_detail(title, formatted_time, steam_url, tags):
     detail_section = f"""
 
 # {title}
@@ -66,7 +68,7 @@ def append_game_detail(title, formatted_time, steam_url):
 - **Steam Page**: [{title}]({steam_url})
 - **Total Play Time**: {formatted_time}
 - **Will Purchase**: 
-- **Type**: 
+- **Type**: {tags}
 
 > 🕹️ **Description**: 
 >
@@ -80,13 +82,14 @@ def run_thumbnail_script():
     return result.stdout.strip()
 
 def main():
-    if len(sys.argv) != 3:
-        print("Usage: python add.py <steam_url> <time_played>")
+    if len(sys.argv) < 3 or len(sys.argv) > 4:
+        print("Usage: python add.py <steam_url> <time_played> [tags]")
         return
 
     steam_url = sys.argv[1]
     time_played = sys.argv[2]
-    
+    tags = sys.argv[3] if len(sys.argv) == 4 else ""
+
     formatted_time = format_time_played(time_played)
     title = extract_game_title(steam_url)
 
@@ -100,7 +103,7 @@ def main():
     with open(markdown_filename, "r") as file:
         content = file.read()
 
-    content = insert_game_into_table(content, title, formatted_time, steam_url)
+    content = insert_game_into_table(content, title, formatted_time, steam_url, tags)
     
     with open(markdown_filename, "w") as file:
         file.write(content)
