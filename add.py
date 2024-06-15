@@ -71,6 +71,7 @@ def append_game_detail(title, formatted_time, steam_url):
 > 🕹️ **Description**: 
 >
 > 👍👎  **Feedback**: 
+
 """
     return detail_section
 
