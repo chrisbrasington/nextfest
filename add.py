@@ -29,7 +29,7 @@ def compare_times(new_time_str, current_time):
     new_time = parse_time(new_time_str)
     return new_time > current_time
 
-def insert_game_into_table(content, title, formatted_time):
+def insert_game_into_table(content, title, formatted_time, steam_url):
     lines = content.split('\n')
     table_start = next((i for i, line in enumerate(lines) if '| Game Title' in line), None) + 2
     table_end = next((i for i, line in enumerate(lines) if not line.startswith('|') and i > table_start), len(lines))
@@ -91,7 +91,7 @@ def main():
     with open(markdown_filename, "r") as file:
         content = file.read()
 
-    content = insert_game_into_table(content, title, formatted_time)
+    content = insert_game_into_table(content, title, formatted_time, steam_url)
     
     with open(markdown_filename, "w") as file:
         file.write(content)
