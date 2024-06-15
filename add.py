@@ -1,6 +1,7 @@
 import sys
 import re
 import os
+import subprocess
 
 def format_time_played(time_played):
     if '.' in time_played:
