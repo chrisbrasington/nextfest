@@ -24,7 +24,7 @@ def insert_game_into_table(content, title, formatted_time):
     
     new_entry = f"| [{title}](#{convert_title_to_anchor(title)})".ljust(60) + \
                 f"| {formatted_time}".ljust(18) + \
-                "|               | ".ljust(43) + "|"
+                "|               | ".ljust(61) + "|"
     
     inserted = False
     for i in range(table_start, table_end):
@@ -68,7 +68,6 @@ def append_game_detail(title, formatted_time):
 > 🕹️ **Description**: 
 >
 > 👍👎  **Feedback**: 
-
 """
     return detail_section
 
