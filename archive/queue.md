@@ -1,12 +1,10 @@
-| [Sky Oceans](#sky-oceans-wings-for-hire)           |                 |               | #adventure #simulation                     |
+
 | [Neko Odyssey](#neko-odyssey)                      |                 |               | #adventure #simulation                     |
 
-| [Once Human](#once-human)                          |                 |               | #survival #multiplayer                     |
 | [On Your Tail](#on-your-tail)                      |                 |               | #action #adventure                         |
 | [Beyond Galaxyland Prologue](#beyond-galaxyland)   |                 |               | #adventure #sci-fi                         |
 | [SULFUR](#sulfur)                                  |                 |               | #adventure #action                         |
-| [The Alters](#the-alters)                          |                 |               | #adventure #sci-fi                         |
-| [Tactical Breach Wizards](#tactical-breach-wizards)|                 |               | #strategy #turn-based                      |
+
 | [Steel Seed](#steel-seed)                          |                 |               | #action #adventure                         |
 | [Metal Slug Tactics](#metal-slug-tactics)          |                 |               | #strategy #tactics                         |
 
@@ -175,16 +173,7 @@ Keylocker - https://store.steampowered.com/app/1325040/Keylocker__Turn_Based_Cyb
 > 👍 **Feedback**: 
 
 
-# Sky Oceans: Wings for Hire
 
-- **Steam Page**: [Sky Oceans: Wings for Hire](https://store.steampowered.com/app/1691750/Sky_Oceans_Wings_for_Hire/)
-- **Total Play Time**: 
-- **Will Purchase**: 
-- **Type**: #adventure #simulation
-
-> 🕹️ **Description**: 
-> 
-> 👍 **Feedback**: 
 
 # Neko Odyssey
 
@@ -198,16 +187,7 @@ Keylocker - https://store.steampowered.com/app/1325040/Keylocker__Turn_Based_Cyb
 > 👍 **Feedback**: 
 
 
-# Once Human
 
-- **Steam Page**: [Once Human](https://store.steampowered.com/app/2139460/Once_Human/)
-- **Total Play Time**: 
-- **Will Purchase**: 
-- **Type**: #survival #multiplayer
-
-> 🕹️ **Description**: 
-> 
-> 👍 **Feedback**: 
 
 # On Your Tail
 
@@ -243,27 +223,6 @@ Keylocker - https://store.steampowered.com/app/1325040/Keylocker__Turn_Based_Cyb
 >
 > 👍 **Feedback**: 
 
-# The Alters
-
-- **Steam Page**: [The Alters](https://store.steampowered.com/app/1601570/The_Alters/)
-- **Total Play Time**: 
-- **Will Purchase**: 
-- **Type**: #adventure #sci-fi
-
-> 🕹️ **Description**: 
->
-> 👍 **Feedback**: 
-
-# Tactical Breach Wizards
-
-- **Steam Page**: [Tactical Breach Wizards](https://store.steampowered.com/app/1043810/Tactical_Breach_Wizards/)
-- **Total Play Time**: 
-- **Will Purchase**: 
-- **Type**: #strategy #turn-based
-
-> 🕹️ **Description**: 
->
-> 👍 **Feedback**: 
 
 
 
