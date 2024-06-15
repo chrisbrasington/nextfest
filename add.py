@@ -51,13 +51,15 @@ def insert_game_into_table(content, title, formatted_time, steam_url):
 
     content = '\n'.join(lines[:table_end + 1])
     content += append_game_detail(title, formatted_time, steam_url)
+    thumbnails = run_thumbnail_script()
+    content += f"{thumbnails}\n"
     content += '\n'.join(lines[table_end + 1:])
 
     return content
 
 def append_game_detail(title, formatted_time, steam_url):
     detail_section = f"""
-    
+
 # {title}
 
 - **Steam Page**: [{title}]({steam_url})
@@ -70,6 +72,10 @@ def append_game_detail(title, formatted_time, steam_url):
 > 👍👎  **Feedback**: 
 """
     return detail_section
+
+def run_thumbnail_script():
+    result = subprocess.run(["python", "thumbnail.py"], capture_output=True, text=True)
+    return result.stdout.strip()
 
 def main():
     if len(sys.argv) != 3:
