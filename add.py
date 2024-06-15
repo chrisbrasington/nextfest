@@ -57,6 +57,7 @@ def insert_game_into_table(content, title, formatted_time, steam_url):
 
 def append_game_detail(title, formatted_time, steam_url):
     detail_section = f"""
+    
 # {title}
 
 - **Steam Page**: [{title}]({steam_url})
