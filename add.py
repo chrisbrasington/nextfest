@@ -3,7 +3,6 @@ import re
 import os
 
 def format_time_played(time_played):
-    # Interpret time with or without decimals correctly
     if '.' in time_played:
         hours = float(time_played)
         return f"{hours:.1f} hours" if hours != int(hours) else f"{int(hours)} hours"
@@ -12,38 +11,40 @@ def format_time_played(time_played):
         return f"{minutes} minutes"
 
 def extract_game_title(url):
-    # Extract game title from the URL
     match = re.search(r'/app/\d+/(.*)/', url)
     return match.group(1).replace('_', ' ') if match else "Unknown Game"
 
 def convert_title_to_anchor(title):
-    # Convert the game title to an anchor
     return title.lower().replace(' ', '-').replace('\'', '')
 
 def insert_game_into_table(content, title, formatted_time):
-    # Insert the game into the sorted table
     lines = content.split('\n')
     table_start = next((i for i, line in enumerate(lines) if '| Game Title' in line), None) + 2
     table_end = next((i for i, line in enumerate(lines) if not line.startswith('|') and i > table_start), len(lines))
     
-    new_entry = f"| [{title}](#{convert_title_to_anchor(title)}) | {formatted_time} |  | #adventure |"
+    new_entry = f"| [{title}](#{convert_title_to_anchor(title)})".ljust(60) + \
+                f"| {formatted_time}".ljust(17) + \
+                "|               | #adventure".ljust(43) + "|"
     
-    # Find the correct position to insert
+    inserted = False
     for i in range(table_start, table_end):
         current_time_str = lines[i].split('|')[2].strip()
         current_time = parse_time(current_time_str)
         if compare_times(formatted_time, current_time):
             lines.insert(i, new_entry)
+            inserted = True
             break
-    else:
+    if not inserted:
         lines.insert(table_end, new_entry)
-    
-    return '\n'.join(lines)
+
+    content = '\n'.join(lines[:table_end + 1])
+    content += append_game_detail(title, formatted_time)
+    content += '\n'.join(lines[table_end + 1:])
+
+    return content
 
 def parse_time(time_str):
-    time_str = time_str.replace('+','')
-
-    # Parse time string to comparable format
+    time_str = time_str.replace('+', '')
     if 'hours' in time_str:
         return float(time_str.replace(' hours', ''))
     elif 'minutes' in time_str:
@@ -51,16 +52,15 @@ def parse_time(time_str):
     return 0
 
 def compare_times(new_time_str, current_time):
-    # Compare new time with the current time
     new_time = parse_time(new_time_str)
     return new_time > current_time
 
-def append_game_detail(content, title, url, formatted_time):
-    # Append game detail section
+def append_game_detail(title, formatted_time):
     detail_section = f"""
+    
 # {title}
 
-- **Steam Page**: [{title}]({url})
+- **Steam Page**: [{title}](https://store.steampowered.com/app/{convert_title_to_anchor(title)}/)
 - **Total Play Time**: {formatted_time}
 - **Will Purchase**: 
 - **Type**: #adventure
@@ -69,7 +69,7 @@ def append_game_detail(content, title, url, formatted_time):
 >
 > 👍👎  **Feedback**: 
 """
-    return content + detail_section
+    return detail_section
 
 def main():
     if len(sys.argv) != 3:
@@ -90,7 +90,6 @@ def main():
         content = file.read()
 
     content = insert_game_into_table(content, title, formatted_time)
-    content = append_game_detail(content, title, steam_url, formatted_time)
     
     with open("2024_June.md", "w") as file:
         file.write(content)
