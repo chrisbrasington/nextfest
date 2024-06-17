@@ -10,7 +10,7 @@ Plan to purchase: 68.75%
 
 `The Alters` just hooked me in with its scifi setting and all the things that usually don't attract me: base building and survival. I really want to see where this goes.
 
-# Biggest 180
+# Biggest 180 (was about to quit but fell in love)
 
 [Demonschool](https://store.steampowered.com/app/1900250/Demonschool/) - https://discord.com/channels/270032432747642881/1249870561119830056/1251420740583166002
 
