@@ -41,7 +41,7 @@ CATO for just being out of nowhere and so brilliant it made instant sense and fu
 
 [Uncle Chop's Rocket Shop](https://store.steampowered.com/app/1849790/Uncle_Chops_Rocket_Shop/) - https://discord.com/channels/270032432747642881/1249870561119830056/1251790778821509230
 
-Because `Uncle Chop's Rocket Shop` had be dying and failing to repair so many spaceships and I saw A FRACTION an absolutely small amount of the puzzles - I want to master this. I want to pay rent. I want to figure out how to beat this damn game. 
+Because `Uncle Chop's Rocket Shop` had me dying and failing to repair so many spaceships and I saw A FRACTION an absolutely small amount of the puzzles - I want to master this. I want to pay rent. I want to figure out how to beat this damn game. 
 
 # Funniest
 
