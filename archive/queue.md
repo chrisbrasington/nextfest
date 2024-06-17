@@ -1,10 +1,8 @@
 
-https://store.steampowered.com/app/1849790/Uncle_Chops_Rocket_Shop/
 https://store.steampowered.com/app/2599040/Going_Down/
 https://store.steampowered.com/app/2748340/Goblin_Cleanup/
 https://store.steampowered.com/app/2476350/Neko_Odyssey/
 https://store.steampowered.com/app/1599780/Afterlove_EP/
-
 
 https://store.steampowered.com/app/1325040/Keylocker__Turn_Based_Cyberpunk_Action/
 https://store.steampowered.com/app/2709190/HITM3/
