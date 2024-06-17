@@ -66,3 +66,9 @@ Didn't play it, looks cool.
 [Dungeons of Hinterberg](https://store.steampowered.com/app/1983260/Dungeons_of_Hinterberg/) - https://discord.com/channels/270032432747642881/1249870561119830056/1250918556590145688
 
 It's so weird that `Caravan SandWitch` and `Dungeons of Hinterberg` landed in the middle, cause had I guess, I thought they would have been #1. But they are absolutely excellent. There's so many things I plan to buy out of this, it's crazy. 
+
+# Girfriend Award (couch watching)
+
+[Goblin Cleanup](https://store.steampowered.com/app/2748340/Goblin_Cleanup/) - https://discord.com/channels/270032432747642881/1249870561119830056/1252069072565309450
+
+@tavvyj like when I died in this one a lot
