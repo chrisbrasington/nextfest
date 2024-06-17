@@ -1,6 +1,18 @@
+https://store.steampowered.com/app/2678710/Security_Control/
+
+https://store.steampowered.com/app/1879950/Psychroma/
+
 https://store.steampowered.com/app/2102450/Enotria_The_Last_Song/
+https://store.steampowered.com/app/458430/Steel_Seed/
+
+https://store.steampowered.com/app/2737300/Parking_Garage_Rally_Circuit/
+https://store.steampowered.com/app/2706210/Trace_Hunters/
+
+https://store.steampowered.com/app/1899300/Combat_Complex/
 
 https://store.steampowered.com/app/2985610/The_Big_Catch_Tacklebox/
+
+https://store.steampowered.com/app/2445780/Grifford_Academy/
 
 https://store.steampowered.com/app/2599040/Going_Down/
 https://store.steampowered.com/app/2476350/Neko_Odyssey/
@@ -15,7 +27,6 @@ https://store.steampowered.com/app/1840880/Freaked_Fleapit/
 
 https://store.steampowered.com/app/2198150/Tiny_Glade/
 https://store.steampowered.com/app/2132560/On_Your_Tail/
-https://store.steampowered.com/app/458430/Steel_Seed/
 https://store.steampowered.com/app/1590760/Metal_Slug_Tactics/
 https://store.steampowered.com/app/1456940/Level_Zero_Extraction/
 
@@ -29,3 +40,6 @@ https://store.steampowered.com/app/2706210/Trace_Hunters/
 https://store.steampowered.com/app/1510440/Honeycomb_The_World_Beyond/
 https://store.steampowered.com/app/2107540/Seafrog/
 
+https://store.steampowered.com/app/1066740/Mercyful_Flames_The_Witches/
+https://store.steampowered.com/app/2779400/Intown_Nightmares/
+https://store.steampowered.com/app/2481020/Vampire_Therapist/
