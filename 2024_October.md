@@ -4,7 +4,49 @@
 | Game Title                                                            | Total Play Time | Will Purchase | Type                                        |
 |-----------------------------------------------------------------------|-----------------|---------------|---------------------------------------------|
 | [Metal Bringer](#metal-bringer)                                       | 35 minutes      | Yes           | action, rougelike                           |
+| [Erenshor](#erenshor)                                                 | 26 minutes      |               | simulation, mmorpg                          |
 | [Is this Game Trying to Kill Me](#is-this-game-trying-to-kill-me)     | 25 minutes      |               | puzzle, horror                              |
+| [Doom Survivors](#doom-survivors)                         | 19 minutes      |               | survivors                                   |
+
+# Doom Survivors
+
+- **Steam Page**: [Doom Survivors](https://store.steampowered.com/app/2746830/Doom_Survivors/)
+- **Total Play Time**: 19 minutes
+- **Will Purchase**: 
+- **Type**: survivors
+
+> 🕹️ **Description**: A passable survivors game
+> 
+> 🫱 **Feedback**: Not sure if passable is a compliment. Not sure if this one even really had a theme. 
+
+[![Thumbnail](img/thumbnails/20241014224717_1.jpg)](img/2024_october/doomsurvivors/20241014224717_1.jpg)
+[![Thumbnail](img/thumbnails/20241014224746_1.jpg)](img/2024_october/doomsurvivors/20241014224746_1.jpg)
+[![Thumbnail](img/thumbnails/20241014224836_1.jpg)](img/2024_october/doomsurvivors/20241014224836_1.jpg)
+[![Thumbnail](img/thumbnails/20241014230051_1.jpg)](img/2024_october/doomsurvivors/20241014230051_1.jpg)
+[![Thumbnail](img/thumbnails/20241014230158_1.jpg)](img/2024_october/doomsurvivors/20241014230158_1.jpg)
+[![Thumbnail](img/thumbnails/20241014230216_1.jpg)](img/2024_october/doomsurvivors/20241014230216_1.jpg)
+[![Thumbnail](img/thumbnails/20241014230245_1.jpg)](img/2024_october/doomsurvivors/20241014230245_1.jpg)
+[![Thumbnail](img/thumbnails/20241014230354_1.jpg)](img/2024_october/doomsurvivors/20241014230354_1.jpg)
+[![Thumbnail](img/thumbnails/20241014230443_1.jpg)](img/2024_october/doomsurvivors/20241014230443_1.jpg)
+
+# Erenshor
+
+- **Steam Page**: [Erenshor](https://store.steampowered.com/app/2382520/Erenshor/)
+- **Total Play Time**: 26 minutes
+- **Will Purchase**: 
+- **Type**: simulation, mmorpg
+
+> 🕹️ **Description**: Simulated MMORPG
+> 
+> 🫱 **Feedback**: Yep if my party would stop pulling shit behind me, we could have made it through the first dunegon. This is fully simulated and offline, even people that log on/off and join your party are programmed NPCs. Kinda reminds me of .hack with retro PC graphics. Neat and fills same itch as an mmorpg, but kinda a novelty too. Though I could see this getting interesting.
+
+[![Thumbnail](img/thumbnails/20241014221429_1.jpg)](img/2024_october/erenshor/20241014221429_1.jpg)
+[![Thumbnail](img/thumbnails/20241014221545_1.jpg)](img/2024_october/erenshor/20241014221545_1.jpg)
+[![Thumbnail](img/thumbnails/20241014222144_1.jpg)](img/2024_october/erenshor/20241014222144_1.jpg)
+[![Thumbnail](img/thumbnails/20241014222309_1.jpg)](img/2024_october/erenshor/20241014222309_1.jpg)
+[![Thumbnail](img/thumbnails/20241014222927_1.jpg)](img/2024_october/erenshor/20241014222927_1.jpg)
+[![Thumbnail](img/thumbnails/20241014223052_1.jpg)](img/2024_october/erenshor/20241014223052_1.jpg)
+[![Thumbnail](img/thumbnails/20241014223847_1.jpg)](img/2024_october/erenshor/20241014223847_1.jpg)
 
 # Is this Game Trying to Kill Me
 
