@@ -3,10 +3,24 @@
 
 | Game Title                                                            | Total Play Time | Will Purchase | Type                                        |
 |-----------------------------------------------------------------------|-----------------|---------------|---------------------------------------------|
+| [AI LIMIT](#ai-limit)                                     | 40 minutes      |               | soulslike                                   |
 | [Metal Bringer](#metal-bringer)                                       | 35 minutes      | Yes           | action, rougelike                           |
 | [Erenshor](#erenshor)                                                 | 26 minutes      |               | simulation, mmorpg                          |
 | [Is this Game Trying to Kill Me](#is-this-game-trying-to-kill-me)     | 25 minutes      |               | puzzle, horror                              |
 | [Doom Survivors](#doom-survivors)                         | 19 minutes      |               | survivors                                   |
+
+# AI LIMIT
+
+- **Steam Page**: [AI LIMIT](https://store.steampowered.com/app/2407270/AI_LIMIT/)
+- **Total Play Time**: 40 minutes
+- **Will Purchase**: 
+- **Type**: soulslike
+
+> 🕹️ **Description**: 
+> 
+> 👍👎  **Feedback**: 
+
+
 
 # Doom Survivors
 
