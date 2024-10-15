@@ -94,7 +94,7 @@ def main():
     title = extract_game_title(steam_url)
 
     # Set the markdown filename
-    markdown_filename = "2024_June.md"
+    markdown_filename = "2024_October.md"
     
     if not os.path.exists(markdown_filename):
         print(f"The file {markdown_filename} does not exist.")
