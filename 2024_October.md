@@ -5,9 +5,34 @@
 |-----------------------------------------------------------------------|-----------------|---------------|---------------------------------------------|
 | [AI LIMIT](#ai-limit)                                                 | 100 minutes     | Likley        | soulslike                                   |
 | [Metal Bringer](#metal-bringer)                                       | 35 minutes      | Yes           | action, rougelike                           |
+| [Carnival Massacre](#carnival-massacre)                   | 27 minutes      |               | horror                                      |
 | [Erenshor](#erenshor)                                                 | 26 minutes      |               | simulation, mmorpg                          |
 | [Is this Game Trying to Kill Me](#is-this-game-trying-to-kill-me)     | 25 minutes      |               | puzzle, horror                              |
 | [Doom Survivors](#doom-survivors)                                     | 19 minutes      |               | survivors                                   |
+
+# Carnival Massacre
+
+- **Steam Page**: [Carnival Massacre](https://store.steampowered.com/app/2304730/Carnival_Massacre/)
+- **Total Play Time**: 27 minutes
+- **Will Purchase**: 
+- **Type**: horror
+
+> 🕹️ **Description**: Bit too resident evil?
+> 
+> 👎  **Feedback**: I liked the atmosphere. I could even do tank controls on a keyboard. But there's a reason zombies are slow in RE and starting me off with alice knife slashers and giant turantulas and dying was a quick turn off. I might revist if I have more patience - I do WANT to like this. 
+> 
+> Crow Country was WAY better paced.
+
+[![Thumbnail](img/thumbnails/20241015203343_1.jpg)](img/2024_october/carnivalmassacre/20241015203343_1.jpg)
+[![Thumbnail](img/thumbnails/20241015203521_1.jpg)](img/2024_october/carnivalmassacre/20241015203521_1.jpg)
+[![Thumbnail](img/thumbnails/20241015204209_1.jpg)](img/2024_october/carnivalmassacre/20241015204209_1.jpg)
+[![Thumbnail](img/thumbnails/20241015204245_1.jpg)](img/2024_october/carnivalmassacre/20241015204245_1.jpg)
+[![Thumbnail](img/thumbnails/20241015204443_1.jpg)](img/2024_october/carnivalmassacre/20241015204443_1.jpg)
+[![Thumbnail](img/thumbnails/20241015204552_1.jpg)](img/2024_october/carnivalmassacre/20241015204552_1.jpg)
+[![Thumbnail](img/thumbnails/20241015204746_1.jpg)](img/2024_october/carnivalmassacre/20241015204746_1.jpg)
+[![Thumbnail](img/thumbnails/20241015204753_1.jpg)](img/2024_october/carnivalmassacre/20241015204753_1.jpg)
+[![Thumbnail](img/thumbnails/20241015205144_1.jpg)](img/2024_october/carnivalmassacre/20241015205144_1.jpg)
+[![Thumbnail](img/thumbnails/20241015205759_1.jpg)](img/2024_october/carnivalmassacre/20241015205759_1.jpg)
 
 # AI LIMIT
 
