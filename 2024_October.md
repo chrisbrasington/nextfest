@@ -4,11 +4,35 @@
 | Game Title                                                            | Total Play Time | Will Purchase | Type                                        |
 |-----------------------------------------------------------------------|-----------------|---------------|---------------------------------------------|
 | [AI LIMIT](#ai-limit)                                                 | 100 minutes     | Likley        | soulslike                                   |
+| [Knights in Tight Spaces Demo](#knights-in-tight-spaces-demo)         | 46 minutes      | YES           | srategy                                     |
 | [Metal Bringer](#metal-bringer)                                       | 35 minutes      | Yes           | action, rougelike                           |
-| [Carnival Massacre](#carnival-massacre)                   | 27 minutes      |               | horror                                      |
+| [Carnival Massacre](#carnival-massacre)                               | 27 minutes      |               | horror                                      |
 | [Erenshor](#erenshor)                                                 | 26 minutes      |               | simulation, mmorpg                          |
 | [Is this Game Trying to Kill Me](#is-this-game-trying-to-kill-me)     | 25 minutes      |               | puzzle, horror                              |
 | [Doom Survivors](#doom-survivors)                                     | 19 minutes      |               | survivors                                   |
+
+# Knights in Tight Spaces Demo
+
+- **Steam Page**: [Knights in Tight Spaces Demo](https://store.steampowered.com/app/2781230/Knights_in_Tight_Spaces_Demo/)
+- **Total Play Time**: 46 minutes
+- **Will Purchase**: YES
+- **Type**: srategy
+
+> 🕹️ **Description**: Fights in tight spaces, but Dungeons and Dragons
+> 
+> 👍👍👍 **Feedback**: HELL YES. Now I love `Fights in Tight Spaces` and I got so excited when I saw this. This was my #1 anticipated demo; I almost forgot to take screenshots while playing It shares the same DNA as the first game. You have a very small grid and pull random cards that let you side-step, attack, range attack, add block (take hits without damage), etc. 
+>
+> What this sequel adds is a party and its pretty different. When you control one character, you're focused on dodging or attacking or throwing enemies out of the arena. When you have a party, MORE enemies can be thrown at you and your shared (3) ability limit really matters. Maybe you'd like to heavy attack, but your other character is about to get massacred. Maybe you can push an enemy from one character to another and hit them with a ranged attack for the third.
+> 
+> I freaking love this series. This one is so colorful - used to be stylistically cartoony where the world was white, and characters were colored in. Characters still color coded, but the world is also in color. 
+>
+> It's a roguelike so I died at the mid-boss, so I might try again. 
+
+[![Thumbnail](img/thumbnails/20241015210828_1.jpg)](img/2024_october/knightsintightspaces/20241015210828_1.jpg)
+[![Thumbnail](img/thumbnails/20241015212935_1.jpg)](img/2024_october/knightsintightspaces/20241015212935_1.jpg)
+[![Thumbnail](img/thumbnails/20241015213403_1.jpg)](img/2024_october/knightsintightspaces/20241015213403_1.jpg)
+[![Thumbnail](img/thumbnails/20241015213458_1.jpg)](img/2024_october/knightsintightspaces/20241015213458_1.jpg)
+[![Thumbnail](img/thumbnails/20241015215109_1.jpg)](img/2024_october/knightsintightspaces/20241015215109_1.jpg)
 
 # Carnival Massacre
 
