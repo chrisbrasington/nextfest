@@ -16,11 +16,24 @@
 - **Will Purchase**: Likley
 - **Type**: soulslike
 
-> 🕹️ **Description**: A somewhat generic soulslike
+> 🕹️ **Description**: A somewhat generic, OK soulslike
 > 
 > 👍  **Feedback**: At first this kinda didn't run well - which somehow fixed itself (demo jank is ignored). And it's pretty generic and bland for an anime-soulslike in a sewer fighting corrupted things and walking passed depressed people. Plays like Dark Souls 3, not sekiro. It let me choose weapons, so I got dual blades. And then it gave me a parry ability. I had fun with the last boss and it ends surfacing on the top world. Props for unlocking a boss rush afterwards with a new boss that's a bit too tough for me today.
 > 
-> I'd say I feel kinda mixed on it, but I did return to it to beat it. If you've run out of soulslikes, it's decent. If you haven't run out, maybe play those instead?
+> I'd say I feel kinda mixed on it, but I did return to it to beat it. If you've run out of soulslikes, it's decent. If you haven't run out, maybe play those instead? Good demo though.
+
+[![Thumbnail](img/thumbnails/20241014231029_1.jpg)](img/2024_october/ailimit/20241014231029_1.jpg)
+[![Thumbnail](img/thumbnails/20241014231238_1.jpg)](img/2024_october/ailimit/20241014231238_1.jpg)
+[![Thumbnail](img/thumbnails/20241014231435_1.jpg)](img/2024_october/ailimit/20241014231435_1.jpg)
+[![Thumbnail](img/thumbnails/20241014231443_1.jpg)](img/2024_october/ailimit/20241014231443_1.jpg)
+[![Thumbnail](img/thumbnails/20241014232005_1.jpg)](img/2024_october/ailimit/20241014232005_1.jpg)
+[![Thumbnail](img/thumbnails/20241014232632_1.jpg)](img/2024_october/ailimit/20241014232632_1.jpg)
+[![Thumbnail](img/thumbnails/20241015183015_1.jpg)](img/2024_october/ailimit/20241015183015_1.jpg)
+[![Thumbnail](img/thumbnails/20241015184129_1.jpg)](img/2024_october/ailimit/20241015184129_1.jpg)
+[![Thumbnail](img/thumbnails/20241015184133_1.jpg)](img/2024_october/ailimit/20241015184133_1.jpg)
+[![Thumbnail](img/thumbnails/20241015191220_1.jpg)](img/2024_october/ailimit/20241015191220_1.jpg)
+[![Thumbnail](img/thumbnails/20241015193408_1.jpg)](img/2024_october/ailimit/20241015193408_1.jpg)
+[![Thumbnail](img/thumbnails/20241015193533_1.jpg)](img/2024_october/ailimit/20241015193533_1.jpg)
 
 # Doom Survivors
 
