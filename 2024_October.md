@@ -3,24 +3,24 @@
 
 | Game Title                                                            | Total Play Time | Will Purchase | Type                                        |
 |-----------------------------------------------------------------------|-----------------|---------------|---------------------------------------------|
-| [AI LIMIT](#ai-limit)                                     | 40 minutes      |               | soulslike                                   |
+| [AI LIMIT](#ai-limit)                                                 | 100 minutes     | Likley        | soulslike                                   |
 | [Metal Bringer](#metal-bringer)                                       | 35 minutes      | Yes           | action, rougelike                           |
 | [Erenshor](#erenshor)                                                 | 26 minutes      |               | simulation, mmorpg                          |
 | [Is this Game Trying to Kill Me](#is-this-game-trying-to-kill-me)     | 25 minutes      |               | puzzle, horror                              |
-| [Doom Survivors](#doom-survivors)                         | 19 minutes      |               | survivors                                   |
+| [Doom Survivors](#doom-survivors)                                     | 19 minutes      |               | survivors                                   |
 
 # AI LIMIT
 
 - **Steam Page**: [AI LIMIT](https://store.steampowered.com/app/2407270/AI_LIMIT/)
-- **Total Play Time**: 40 minutes
-- **Will Purchase**: 
+- **Total Play Time**: 100 minutes
+- **Will Purchase**: Likley
 - **Type**: soulslike
 
-> 🕹️ **Description**: 
+> 🕹️ **Description**: A somewhat generic soulslike
 > 
-> 👍👎  **Feedback**: 
-
-
+> 👍  **Feedback**: At first this kinda didn't run well - which somehow fixed itself (demo jank is ignored). And it's pretty generic and bland for an anime-soulslike in a sewer fighting corrupted things and walking passed depressed people. Plays like Dark Souls 3, not sekiro. It let me choose weapons, so I got dual blades. And then it gave me a parry ability. I had fun with the last boss and it ends surfacing on the top world. Props for unlocking a boss rush afterwards with a new boss that's a bit too tough for me today.
+> 
+> I'd say I feel kinda mixed on it, but I did return to it to beat it. If you've run out of soulslikes, it's decent. If you haven't run out, maybe play those instead?
 
 # Doom Survivors
 
