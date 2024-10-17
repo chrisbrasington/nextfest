@@ -12,6 +12,25 @@
 | [Is this Game Trying to Kill Me](#is-this-game-trying-to-kill-me)     | 25 minutes      |               | puzzle, horror                              |
 | [ROGUE FLIGHT](#rogue-flight)                                         | 20 minutes      | Yes           | action, arcade, flight, shooter             |
 | [Doom Survivors](#doom-survivors)                                     | 19 minutes      |               | survivors                                   |
+| [Secret Agent No 6](#secret-agent-no-6)                   | 10 minutes      |               | fps, retro, horror?                         |
+
+# Secret Agent No 6
+
+- **Steam Page**: [Secret Agent No 6](https://store.steampowered.com/app/2447750/Secret_Agent_No_6/)
+- **Total Play Time**: 10 minutes
+- **Will Purchase**: 
+- **Type**: fps, retro, horror?
+
+> 🕹️ **Description**: 006 not seven
+> 
+> 🫱 **Feedback**: Is retro-bait a term? It is now. If you like golden-eye, this is for you. It has better controls, shoot with and without aiming. It tries.. purposefully to be retro - few demos running at eye-bleeding 360p and 4:3, but you can change it.
+> 
+> It's kinda a puzzle cause you don't have a lot of health, so I made it further on my second attempt. I can see wanting to be challenged to complete the mission but it kinda didn't keep my interest, but I wasn't a big goldeneye fanboy. 
+
+[![Thumbnail](img/thumbnails/20241016214321_1.jpg)](img/2024_october/006/20241016214321_1.jpg)
+[![Thumbnail](img/thumbnails/20241016214432_1.jpg)](img/2024_october/006/20241016214432_1.jpg)
+[![Thumbnail](img/thumbnails/20241016214627_1.jpg)](img/2024_october/006/20241016214627_1.jpg)
+[![Thumbnail](img/thumbnails/20241016214714_1.jpg)](img/2024_october/006/20241016214714_1.jpg)
 
 # Hail to the Rainbow Demo
 
@@ -22,7 +41,7 @@
 
 > 🕹️ **Description**: Someone looked at `Pacific Drive`, `Stalker` and `Generation Zero` and combined it
 > 
-> 🫱  **Feedback**: POTENTIAL. It's an apocolyptic adventure game. A bit obtuse, I felt not smart enough and stuck on progression - but it's just hard to realize "put the puzzle cube in the hole" to open the door when the robot is attacking you. It's a neat atmosphere, something about humans and brainwaves being able to be read as visual signals. The narrator (guide?) is in Russian so reading subtitles while driving is difficult (dev is Russian, gets a pass). 
+> 🫱 **Feedback**: POTENTIAL. It's an apocolyptic adventure game. A bit obtuse, I felt not smart enough and stuck on progression - but it's just hard to realize "put the puzzle cube in the hole" to open the door when the robot is attacking you. It's a neat atmosphere, something about humans and brainwaves being able to be read as visual signals. The narrator (guide?) is in Russian so reading subtitles while driving is difficult (dev is Russian, gets a pass). 
 > 
 > It's weirdly polished and not. Polished in graphics and atmosphere, but it doesn't explain enough. I wasted a lot of time trying to climb into a drain pipe with a jump and I just couldn't make a 2 feet ledge. The drone is great, but I didn't see the switch. I didn't see the.. whatever turned back on the car was on the ceiling?
 > 
