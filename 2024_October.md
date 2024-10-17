@@ -16,7 +16,7 @@
 
 - **Steam Page**: [ROGUE FLIGHT](https://store.steampowered.com/app/2784620/ROGUE_FLIGHT/)
 - **Total Play Time**: 20 minutes
-- **Will Purchase**: 
+- **Will Purchase**: Yes
 - **Type**: action, arcade, flight, shooter
 
 > 🕹️ **Description**: An arcade space combat game inspired by prestige anime.
