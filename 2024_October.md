@@ -5,12 +5,39 @@
 |-----------------------------------------------------------------------|-----------------|---------------|---------------------------------------------|
 | [AI LIMIT](#ai-limit)                                                 | 100 minutes     | Likley        | soulslike                                   |
 | [Knights in Tight Spaces Demo](#knights-in-tight-spaces-demo)         | 46 minutes      | YES           | srategy                                     |
+| [Hail to the Rainbow Demo](#hail-to-the-rainbow-demo)                 | 39 minutes      |               | adventure horror puzzle                     |
 | [Metal Bringer](#metal-bringer)                                       | 35 minutes      | Yes           | action, rougelike                           |
 | [Carnival Massacre](#carnival-massacre)                               | 27 minutes      |               | horror                                      |
 | [Erenshor](#erenshor)                                                 | 26 minutes      |               | simulation, mmorpg                          |
 | [Is this Game Trying to Kill Me](#is-this-game-trying-to-kill-me)     | 25 minutes      |               | puzzle, horror                              |
 | [ROGUE FLIGHT](#rogue-flight)                                         | 20 minutes      | Yes           | action, arcade, flight, shooter             |
 | [Doom Survivors](#doom-survivors)                                     | 19 minutes      |               | survivors                                   |
+
+# Hail to the Rainbow Demo
+
+- **Steam Page**: [Hail to the Rainbow Demo](https://store.steampowered.com/app/3089050/Hail_to_the_Rainbow_Demo/)
+- **Total Play Time**: 39 minutes
+- **Will Purchase**: 
+- **Type**: adventure horror puzzle
+
+> 🕹️ **Description**: Someone looked at `Pacific Drive`, `Stalker` and `Generation Zero` and combined it
+> 
+> 🫱  **Feedback**: POTENTIAL. It's an apocolyptic adventure game. A bit obtuse, I felt not smart enough and stuck on progression - but it's just hard to realize "put the puzzle cube in the hole" to open the door when the robot is attacking you. It's a neat atmosphere, something about humans and brainwaves being able to be read as visual signals. The narrator (guide?) is in Russian so reading subtitles while driving is difficult (dev is Russian, gets a pass). 
+> 
+> It's weirdly polished and not. Polished in graphics and atmosphere, but it doesn't explain enough. I wasted a lot of time trying to climb into a drain pipe with a jump and I just couldn't make a 2 feet ledge. The drone is great, but I didn't see the switch. I didn't see the.. whatever turned back on the car was on the ceiling?
+> 
+> `Pacific Drive` really hooked me - it was a bit Half-Life-ey and arcadey. This is more subdued, subtle - not in a bad way. It shows promise, but I came out a little frustrated. 
+
+[![Thumbnail](img/thumbnails/20241016205247_1.jpg)](img/2024_october/hailrainbow/20241016205247_1.jpg)
+[![Thumbnail](img/thumbnails/20241016205358_1.jpg)](img/2024_october/hailrainbow/20241016205358_1.jpg)
+[![Thumbnail](img/thumbnails/20241016205639_1.jpg)](img/2024_october/hailrainbow/20241016205639_1.jpg)
+[![Thumbnail](img/thumbnails/20241016210634_1.jpg)](img/2024_october/hailrainbow/20241016210634_1.jpg)
+[![Thumbnail](img/thumbnails/20241016210945_1.jpg)](img/2024_october/hailrainbow/20241016210945_1.jpg)
+[![Thumbnail](img/thumbnails/20241016211214_1.jpg)](img/2024_october/hailrainbow/20241016211214_1.jpg)
+[![Thumbnail](img/thumbnails/20241016212203_1.jpg)](img/2024_october/hailrainbow/20241016212203_1.jpg)
+[![Thumbnail](img/thumbnails/20241016212317_1.jpg)](img/2024_october/hailrainbow/20241016212317_1.jpg)
+[![Thumbnail](img/thumbnails/20241016212641_1.jpg)](img/2024_october/hailrainbow/20241016212641_1.jpg)
+[![Thumbnail](img/thumbnails/20241016212808_1.jpg)](img/2024_october/hailrainbow/20241016212808_1.jpg)
 
 # ROGUE FLIGHT
 
