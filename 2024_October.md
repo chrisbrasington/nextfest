@@ -9,7 +9,36 @@
 | [Carnival Massacre](#carnival-massacre)                               | 27 minutes      |               | horror                                      |
 | [Erenshor](#erenshor)                                                 | 26 minutes      |               | simulation, mmorpg                          |
 | [Is this Game Trying to Kill Me](#is-this-game-trying-to-kill-me)     | 25 minutes      |               | puzzle, horror                              |
+| [ROGUE FLIGHT](#rogue-flight)                                         | 20 minutes      | Yes           | action, arcade, flight, shooter             |
 | [Doom Survivors](#doom-survivors)                                     | 19 minutes      |               | survivors                                   |
+
+# ROGUE FLIGHT
+
+- **Steam Page**: [ROGUE FLIGHT](https://store.steampowered.com/app/2784620/ROGUE_FLIGHT/)
+- **Total Play Time**: 20 minutes
+- **Will Purchase**: 
+- **Type**: action, arcade, flight, shooter
+
+> 🕹️ **Description**: An arcade space combat game inspired by prestige anime.
+> 
+> 👍  **Feedback**: What first caught my attention about this game was a song in the trailer I couldn't find until I read "Featuring an original soundtrack..
+> 
+> It's funny how starfox shooters are hit and miss (I didn't like Whisker Squadron) - this is not a roguelike. It's just fun and it has solid world building. Earth is nearly wiped out by its own automated fleet but 3 years later they come across an underground R&D facility with some fighters that survived orbital bombardment. SO hop to it, pew-pew!
+> 
+> Name feels like a play on `Rogue Squadron`.
+> 
+> https://www.youtube.com/watch?v=yEdL3zB5u_Y
+
+[![Thumbnail](img/thumbnails/20241016192645_1.jpg)](img/2024_october/rogueflight/20241016192645_1.jpg)
+[![Thumbnail](img/thumbnails/20241016192652_1.jpg)](img/2024_october/rogueflight/20241016192652_1.jpg)
+[![Thumbnail](img/thumbnails/20241016201138_1.jpg)](img/2024_october/rogueflight/20241016201138_1.jpg)
+[![Thumbnail](img/thumbnails/20241016201400_1.jpg)](img/2024_october/rogueflight/20241016201400_1.jpg)
+[![Thumbnail](img/thumbnails/20241016201547_1.jpg)](img/2024_october/rogueflight/20241016201547_1.jpg)
+[![Thumbnail](img/thumbnails/20241016201811_1.jpg)](img/2024_october/rogueflight/20241016201811_1.jpg)
+[![Thumbnail](img/thumbnails/20241016201917_1.jpg)](img/2024_october/rogueflight/20241016201917_1.jpg)
+[![Thumbnail](img/thumbnails/20241016202251_1.jpg)](img/2024_october/rogueflight/20241016202251_1.jpg)
+[![Thumbnail](img/thumbnails/20241016202346_1.jpg)](img/2024_october/rogueflight/20241016202346_1.jpg)
+[![Thumbnail](img/thumbnails/20241016202537_1.jpg)](img/2024_october/rogueflight/20241016202537_1.jpg)
 
 # Knights in Tight Spaces Demo
 
