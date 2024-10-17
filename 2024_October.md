@@ -27,7 +27,7 @@
 > 
 > It's kinda a puzzle cause you don't have a lot of health, so I made it further on my second attempt. I can see wanting to be challenged to complete the mission but it kinda didn't keep my interest, but I wasn't a big goldeneye fanboy. 
 >
-> IT DOES SAY "horror" elements are not in the demo but in the base game - which has me intruiged. If this is a fake-out and goes lovecraftian THEN you have my attention.
+> IT DOES SAY "horror" elements are not in the demo but in the base game - which has me intruiged. If this is a fake-out and goes lovecraftian THEN you have my attention. It is tagged "psychological horror" and there's a CROSS in the title of t of agent.
 
 [![Thumbnail](img/thumbnails/20241016214321_1.jpg)](img/2024_october/006/20241016214321_1.jpg)
 [![Thumbnail](img/thumbnails/20241016214432_1.jpg)](img/2024_october/006/20241016214432_1.jpg)
