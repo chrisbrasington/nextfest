@@ -14,6 +14,27 @@
 | [Doom Survivors](#doom-survivors)                                     | 19 minutes      |               | survivors                                   |
 | [Secret Agent No 6](#secret-agent-no-6)                               | 10 minutes      |               | fps, retro, horror?                         |
 | [PLUG IT IN](#plug-it-in)                                             | 9 minutes       |               | puzzle                                      |
+| [World of Unlit](#world-of-unlit)                         | 7 minutes       |               | fps                                         |
+
+# World of Unlit
+
+- **Steam Page**: [World of Unlit](https://store.steampowered.com/app/2208900/World_of_Unlit/)
+- **Total Play Time**: 7 minutes
+- **Will Purchase**: 
+- **Type**: fps
+
+> 🕹️ **Description**: Grapple hook fast, shoot fast, move fast
+> 
+> 👎  **Feedback**: I was the one who was not lit. (it was hard)
+
+
+[![Thumbnail](img/thumbnails/20241017213642_1.jpg)](img/2024_october/unlit/20241017213642_1.jpg)
+[![Thumbnail](img/thumbnails/20241017213733_1.jpg)](img/2024_october/unlit/20241017213733_1.jpg)
+[![Thumbnail](img/thumbnails/20241017213801_1.jpg)](img/2024_october/unlit/20241017213801_1.jpg)
+[![Thumbnail](img/thumbnails/20241017214012_1.jpg)](img/2024_october/unlit/20241017214012_1.jpg)
+[![Thumbnail](img/thumbnails/20241017214100_1.jpg)](img/2024_october/unlit/20241017214100_1.jpg)
+[![Thumbnail](img/thumbnails/20241017214102_1.jpg)](img/2024_october/unlit/20241017214102_1.jpg)
+[![Thumbnail](img/thumbnails/20241017214142_1.jpg)](img/2024_october/unlit/20241017214142_1.jpg)
 
 # PLUG IT IN
 
@@ -25,7 +46,6 @@
 > 🕹️ **Description**: PLUG IT IN
 > 
 > 👍  **Feedback**: PLUG IT IN!
-
 
 [![Thumbnail](img/thumbnails/20241017212328_1.jpg)](img/2024_october/plugitin/20241017212328_1.jpg)
 [![Thumbnail](img/thumbnails/20241017212416_1.jpg)](img/2024_october/plugitin/20241017212416_1.jpg)
