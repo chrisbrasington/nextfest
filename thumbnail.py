@@ -33,7 +33,7 @@ for root, dirs, files in os.walk(input_dir):
                 result += line + '\n'
 
 # copy result to clipboard (linux)
-os.system(f'echo "{result}" | xclip -selection clipboard')
+# os.system(f'echo "{result}" | xclip -selection clipboard')
 
 # Step 2: Read README.md and replace image links with thumbnails and full-size hyperlinks
 # readme_path = "README.md"
