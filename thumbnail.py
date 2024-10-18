@@ -10,6 +10,8 @@ output_dir = "img/thumbnails"
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
+result = ''
+
 for root, dirs, files in os.walk(input_dir):
     for filename in sorted(files):
         if filename.lower().endswith(('.png', '.jpg', '.jpeg', '.gif')):
@@ -24,8 +26,14 @@ for root, dirs, files in os.walk(input_dir):
                 thumbnail.save(thumbnail_path)
                 
                 image_folder = os.path.dirname(img_path)
-                print(f"[![Thumbnail]({output_dir}/{filename})]({image_folder}/{filename})")
+                line = f"[![Thumbnail]({output_dir}/{filename})]({image_folder}/{filename})"
+                print(line)
 
+                # add the line to the result
+                result += line + '\n'
+
+# copy result to clipboard (linux)
+os.system(f'echo "{result}" | xclip -selection clipboard')
 
 # Step 2: Read README.md and replace image links with thumbnails and full-size hyperlinks
 # readme_path = "README.md"

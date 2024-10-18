@@ -13,8 +13,50 @@
 | [ROGUE FLIGHT](#rogue-flight)                                         | 20 minutes      | Yes           | action, arcade, flight, shooter             |
 | [Doom Survivors](#doom-survivors)                                     | 19 minutes      |               | survivors                                   |
 | [Secret Agent No 6](#secret-agent-no-6)                               | 10 minutes      |               | fps, retro, horror?                         |
+| [Turbo Dismount 2](#turbo-dismount-2)                     | 10 minutes      |               | racing                                      |
 | [PLUG IT IN](#plug-it-in)                                             | 9 minutes       |               | puzzle                                      |
-| [World of Unlit](#world-of-unlit)                         | 7 minutes       |               | fps                                         |
+| [Splintered](#splintered)                                             | 8 minutes       |               | rpg                                         |
+| [World of Unlit](#world-of-unlit)                                     | 7 minutes       |               | fps                                         |
+
+# Turbo Dismount 2
+
+- **Steam Page**: [Turbo Dismount 2](https://store.steampowered.com/app/2280350/Turbo_Dismount_2/)
+- **Total Play Time**: 10 minutes
+- **Will Purchase**: 
+- **Type**: racing
+
+> 🕹️ **Description**: Quick stupid burnout
+> 
+> 👎  **Feedback**: Well you can setup ramps and try to get high scores of destruction and throw your driver. It was ok, but I just wanted to play Burnout 3 instead - this was kinda simple. 
+
+[![Thumbnail](img/thumbnails/20241017220048_1.jpg)](img/2024_october/turbodismount2/20241017220048_1.jpg)
+[![Thumbnail](img/thumbnails/20241017220148_1.jpg)](img/2024_october/turbodismount2/20241017220148_1.jpg)
+[![Thumbnail](img/thumbnails/20241017220234_1.jpg)](img/2024_october/turbodismount2/20241017220234_1.jpg)
+[![Thumbnail](img/thumbnails/20241017220323_1.jpg)](img/2024_october/turbodismount2/20241017220323_1.jpg)
+[![Thumbnail](img/thumbnails/20241017220442_1.jpg)](img/2024_october/turbodismount2/20241017220442_1.jpg)
+[![Thumbnail](img/thumbnails/20241017220512_1.jpg)](img/2024_october/turbodismount2/20241017220512_1.jpg)
+[![Thumbnail](img/thumbnails/20241017220642_1.jpg)](img/2024_october/turbodismount2/20241017220642_1.jpg)
+[![Thumbnail](img/thumbnails/20241017220820_1.jpg)](img/2024_october/turbodismount2/20241017220820_1.jpg)
+[![Thumbnail](img/thumbnails/20241017220855_1.jpg)](img/2024_october/turbodismount2/20241017220855_1.jpg)
+[![Thumbnail](img/thumbnails/20241017220909_1.jpg)](img/2024_october/turbodismount2/20241017220909_1.jpg)
+
+# Splintered
+
+- **Steam Page**: [Splintered](https://store.steampowered.com/app/3127000/Splintered/)
+- **Total Play Time**: 8 minutes
+- **Will Purchase**: 
+- **Type**: rpg
+
+> 🕹️ **Description**: Randomized RPG
+> 
+> 👎  **Feedback**: Ok I get that this is Final Fantasy 1 randomized, but maybe don't immediately send me in a cave with a torch where I can only see 9 tiles and expect me to have "fun". 
+
+[![Thumbnail](img/thumbnails/20241017214626_1.jpg)](img/2024_october/splintered/20241017214626_1.jpg)
+[![Thumbnail](img/thumbnails/20241017214718_1.jpg)](img/2024_october/splintered/20241017214718_1.jpg)
+[![Thumbnail](img/thumbnails/20241017214853_1.jpg)](img/2024_october/splintered/20241017214853_1.jpg)
+[![Thumbnail](img/thumbnails/20241017214902_1.jpg)](img/2024_october/splintered/20241017214902_1.jpg)
+[![Thumbnail](img/thumbnails/20241017215131_1.jpg)](img/2024_october/splintered/20241017215131_1.jpg)
+[![Thumbnail](img/thumbnails/20241017215149_1.jpg)](img/2024_october/splintered/20241017215149_1.jpg)
 
 # World of Unlit
 
@@ -26,7 +68,6 @@
 > 🕹️ **Description**: Grapple hook fast, shoot fast, move fast
 > 
 > 👎  **Feedback**: I was the one who was not lit. (it was hard)
-
 
 [![Thumbnail](img/thumbnails/20241017213642_1.jpg)](img/2024_october/unlit/20241017213642_1.jpg)
 [![Thumbnail](img/thumbnails/20241017213733_1.jpg)](img/2024_october/unlit/20241017213733_1.jpg)
