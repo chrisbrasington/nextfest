@@ -12,7 +12,28 @@
 | [Is this Game Trying to Kill Me](#is-this-game-trying-to-kill-me)     | 25 minutes      |               | puzzle, horror                              |
 | [ROGUE FLIGHT](#rogue-flight)                                         | 20 minutes      | Yes           | action, arcade, flight, shooter             |
 | [Doom Survivors](#doom-survivors)                                     | 19 minutes      |               | survivors                                   |
-| [Secret Agent No 6](#secret-agent-no-6)                   | 10 minutes      |               | fps, retro, horror?                         |
+| [Secret Agent No 6](#secret-agent-no-6)                               | 10 minutes      |               | fps, retro, horror?                         |
+| [PLUG IT IN](#plug-it-in)                                             | 9 minutes       |               | puzzle                                      |
+
+# PLUG IT IN
+
+- **Steam Page**: [PLUG IT IN](https://store.steampowered.com/app/2757300/PLUG_IT_IN/)
+- **Total Play Time**: 9 minutes
+- **Will Purchase**: 
+- **Type**: puzzle
+
+> 🕹️ **Description**: PLUG IT IN
+> 
+> 👍  **Feedback**: PLUG IT IN!
+
+
+[![Thumbnail](img/thumbnails/20241017212328_1.jpg)](img/2024_october/plugitin/20241017212328_1.jpg)
+[![Thumbnail](img/thumbnails/20241017212416_1.jpg)](img/2024_october/plugitin/20241017212416_1.jpg)
+[![Thumbnail](img/thumbnails/20241017212419_1.jpg)](img/2024_october/plugitin/20241017212419_1.jpg)
+[![Thumbnail](img/thumbnails/20241017212702_1.jpg)](img/2024_october/plugitin/20241017212702_1.jpg)
+[![Thumbnail](img/thumbnails/20241017212943_1.jpg)](img/2024_october/plugitin/20241017212943_1.jpg)
+[![Thumbnail](img/thumbnails/20241017213027_1.jpg)](img/2024_october/plugitin/20241017213027_1.jpg)
+[![Thumbnail](img/thumbnails/20241017213106_1.jpg)](img/2024_october/plugitin/20241017213106_1.jpg)
 
 # Secret Agent No 6
 
