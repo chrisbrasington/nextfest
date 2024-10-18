@@ -6,6 +6,7 @@
 | [AI LIMIT](#ai-limit)                                                 | 100 minutes     | Likley        | soulslike                                   |
 | [Knights in Tight Spaces Demo](#knights-in-tight-spaces-demo)         | 46 minutes      | YES           | srategy                                     |
 | [Hail to the Rainbow Demo](#hail-to-the-rainbow-demo)                 | 39 minutes      |               | adventure horror puzzle                     |
+| [Massacre at the Mirage](#massacre-at-the-mirage)                     | 38 minutes      |               | horror, simulation                          |
 | [Metal Bringer](#metal-bringer)                                       | 35 minutes      | Yes           | action, rougelike                           |
 | [Carnival Massacre](#carnival-massacre)                               | 27 minutes      |               | horror                                      |
 | [Erenshor](#erenshor)                                                 | 26 minutes      |               | simulation, mmorpg                          |
@@ -13,10 +14,34 @@
 | [ROGUE FLIGHT](#rogue-flight)                                         | 20 minutes      | Yes           | action, arcade, flight, shooter             |
 | [Doom Survivors](#doom-survivors)                                     | 19 minutes      |               | survivors                                   |
 | [Secret Agent No 6](#secret-agent-no-6)                               | 10 minutes      |               | fps, retro, horror?                         |
-| [Turbo Dismount 2](#turbo-dismount-2)                     | 10 minutes      |               | racing                                      |
+| [Turbo Dismount 2](#turbo-dismount-2)                                 | 10 minutes      |               | racing                                      |
 | [PLUG IT IN](#plug-it-in)                                             | 9 minutes       |               | puzzle                                      |
 | [Splintered](#splintered)                                             | 8 minutes       |               | rpg                                         |
 | [World of Unlit](#world-of-unlit)                                     | 7 minutes       |               | fps                                         |
+
+# Massacre at the Mirage
+
+- **Steam Page**: [Massacre at the Mirage](https://store.steampowered.com/app/2800010/Massacre_At_The_Mirage_Demo/)
+- **Total Play Time**: 37 minutes
+- **Will Purchase**: 
+- **Type**: horror, simulation
+
+> 🕹️ **Description**: Halloween Night at the movies
+> 
+> 🫱 **Feedback**: Working menial jobs like the concession stand and cashier at a gas station, I wanted the clown to kill me faster then they were inclined to do. It's kinda a sim, where you run the stand, tickets, and even another location - all while it seems like.. people are getting murder by a clown. I'm sure this disrupts the services (this was only one chapter).
+> 
+> meh, it was ok. I kinda liked how mundane and boring it was while other people were having "fun" - but the clown was just a sort of meh entity in plain view most of the time. The story could be interesting.
+
+[![Thumbnail](img/thumbnails/20241017222014_1.jpg)](img/2024_october/mirage/20241017222014_1.jpg)
+[![Thumbnail](img/thumbnails/20241017222805_1.jpg)](img/2024_october/mirage/20241017222805_1.jpg)
+[![Thumbnail](img/thumbnails/20241017223118_1.jpg)](img/2024_october/mirage/20241017223118_1.jpg)
+[![Thumbnail](img/thumbnails/20241017223220_1.jpg)](img/2024_october/mirage/20241017223220_1.jpg)
+[![Thumbnail](img/thumbnails/20241017223546_1.jpg)](img/2024_october/mirage/20241017223546_1.jpg)
+[![Thumbnail](img/thumbnails/20241017223903_1.jpg)](img/2024_october/mirage/20241017223903_1.jpg)
+[![Thumbnail](img/thumbnails/20241017223932_1.jpg)](img/2024_october/mirage/20241017223932_1.jpg)
+[![Thumbnail](img/thumbnails/20241017224236_1.jpg)](img/2024_october/mirage/20241017224236_1.jpg)
+[![Thumbnail](img/thumbnails/20241017224524_1.jpg)](img/2024_october/mirage/20241017224524_1.jpg)
+[![Thumbnail](img/thumbnails/20241017224705_1.jpg)](img/2024_october/mirage/20241017224705_1.jpg)
 
 # Turbo Dismount 2
 
