@@ -7,6 +7,7 @@
 | [Knights in Tight Spaces Demo](#knights-in-tight-spaces-demo)         | 46 minutes      | YES           | srategy                                     |
 | [Hail to the Rainbow Demo](#hail-to-the-rainbow-demo)                 | 39 minutes      |               | adventure horror puzzle                     |
 | [Massacre at the Mirage](#massacre-at-the-mirage)                     | 38 minutes      |               | horror, simulation                          |
+| [The Precinct Demo](#the-precinct-demo)                   | 37 minutes      |               | shooter, top-down                           |
 | [Metal Bringer](#metal-bringer)                                       | 35 minutes      | Yes           | action, rougelike                           |
 | [Carnival Massacre](#carnival-massacre)                               | 27 minutes      |               | horror                                      |
 | [Erenshor](#erenshor)                                                 | 26 minutes      |               | simulation, mmorpg                          |
@@ -19,6 +20,27 @@
 | [PLUG IT IN](#plug-it-in)                                             | 9 minutes       |               | puzzle                                      |
 | [Splintered](#splintered)                                             | 8 minutes       |               | rpg                                         |
 | [World of Unlit](#world-of-unlit)                                     | 7 minutes       |               | fps                                         |
+
+# The Precinct Demo
+
+- **Steam Page**: [The Precinct Demo](https://store.steampowered.com/app/2893830/The_Precinct_Demo/)
+- **Total Play Time**: 37 minutes
+- **Will Purchase**: 
+- **Type**: shooter, top-down
+
+> 🕹️ **Description**: 
+> 
+> 👍👎  **Feedback**: 
+
+[![Thumbnail](img/thumbnails/20241018185439_1.jpg)](img/2024_october/acab/20241018185439_1.jpg)
+[![Thumbnail](img/thumbnails/20241018190019_1.jpg)](img/2024_october/acab/20241018190019_1.jpg)
+[![Thumbnail](img/thumbnails/20241018190410_1.jpg)](img/2024_october/acab/20241018190410_1.jpg)
+[![Thumbnail](img/thumbnails/20241018190640_1.jpg)](img/2024_october/acab/20241018190640_1.jpg)
+[![Thumbnail](img/thumbnails/20241018190714_1.jpg)](img/2024_october/acab/20241018190714_1.jpg)
+[![Thumbnail](img/thumbnails/20241018190741_1.jpg)](img/2024_october/acab/20241018190741_1.jpg)
+[![Thumbnail](img/thumbnails/20241018190829_1.jpg)](img/2024_october/acab/20241018190829_1.jpg)
+[![Thumbnail](img/thumbnails/20241018191213_1.jpg)](img/2024_october/acab/20241018191213_1.jpg)
+[![Thumbnail](img/thumbnails/20241018193022_1.jpg)](img/2024_october/acab/20241018193022_1.jpg)
 
 # CLONY
 
