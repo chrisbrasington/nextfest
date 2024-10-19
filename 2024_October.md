@@ -6,6 +6,7 @@
 | [AI LIMIT](#ai-limit)                                                 | 100 minutes     | Likley        | soulslike                                   |
 | [Knights in Tight Spaces Demo](#knights-in-tight-spaces-demo)         | 46 minutes      | YES           | srategy                                     |
 | [Hail to the Rainbow Demo](#hail-to-the-rainbow-demo)                 | 39 minutes      |               | adventure horror puzzle                     |
+| [Fear The Timeloop Demo](#fear-the-timeloop-demo)         | 39 minutes      |               | horror, puzzle                              |
 | [Massacre at the Mirage](#massacre-at-the-mirage)                     | 38 minutes      |               | horror, simulation                          |
 | [The Precinct Demo](#the-precinct-demo)                   | 37 minutes      |               | shooter, top-down                           |
 | [Metal Bringer](#metal-bringer)                                       | 35 minutes      | Yes           | action, rougelike                           |
@@ -20,6 +21,33 @@
 | [PLUG IT IN](#plug-it-in)                                             | 9 minutes       |               | puzzle                                      |
 | [Splintered](#splintered)                                             | 8 minutes       |               | rpg                                         |
 | [World of Unlit](#world-of-unlit)                                     | 7 minutes       |               | fps                                         |
+
+# Fear The Timeloop Demo
+
+- **Steam Page**: [Fear The Timeloop Demo](https://store.steampowered.com/app/2926810/Fear_The_Timeloop_Demo/)
+- **Total Play Time**: 39 minutes
+- **Will Purchase**: 
+- **Type**: horror, puzzle
+
+> 🕹️ **Description**: Pergatory
+> 
+> 👍🫱  **Feedback**: This was a pretty clunky affair for an indie game - it should drop the title card explainations (might only be a demo explaination thing) - however had a cool premise. You're in a messed-up hospital with a bunch of dead folks and you don't know why. You're in a time loop where you die in 15 minutes as your health drains. You have a radio with someone outside the timeloop (which is already a cool premise). You can heal but not raise the max which is lowering. I never got harmed, one zombie I fought with a gun.
+> 
+> It's clearly a sort of time-crunch puzzle game where you need to retain knowledge to do the loop faster than possible (like knowing a combination code before you recieve said information). 
+> 
+> I never died actually (safe room heals you is kinda lame - probably different difficulty modes). I hope the dev adds first-person feels more fitting. 
+> 
+> Good theme, mixed execution. But hey is a demo WIP so. I did play longer than I thought I would. 
+
+[![Thumbnail](img/thumbnails/20241018194301_1.jpg)](img/2024_october/feartimeloop/20241018194301_1.jpg)
+[![Thumbnail](img/thumbnails/20241018194519_1.jpg)](img/2024_october/feartimeloop/20241018194519_1.jpg)
+[![Thumbnail](img/thumbnails/20241018194707_1.jpg)](img/2024_october/feartimeloop/20241018194707_1.jpg)
+[![Thumbnail](img/thumbnails/20241018194742_1.jpg)](img/2024_october/feartimeloop/20241018194742_1.jpg)
+[![Thumbnail](img/thumbnails/20241018200621_1.jpg)](img/2024_october/feartimeloop/20241018200621_1.jpg)
+[![Thumbnail](img/thumbnails/20241018201113_1.jpg)](img/2024_october/feartimeloop/20241018201113_1.jpg)
+[![Thumbnail](img/thumbnails/20241018201243_1.jpg)](img/2024_october/feartimeloop/20241018201243_1.jpg)
+[![Thumbnail](img/thumbnails/20241018201433_1.jpg)](img/2024_october/feartimeloop/20241018201433_1.jpg)
+[![Thumbnail](img/thumbnails/20241018201541_1.jpg)](img/2024_october/feartimeloop/20241018201541_1.jpg)
 
 # The Precinct Demo
 
