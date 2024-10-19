@@ -11,6 +11,7 @@
 | [Carnival Massacre](#carnival-massacre)                               | 27 minutes      |               | horror                                      |
 | [Erenshor](#erenshor)                                                 | 26 minutes      |               | simulation, mmorpg                          |
 | [Is this Game Trying to Kill Me](#is-this-game-trying-to-kill-me)     | 25 minutes      |               | puzzle, horror                              |
+| [CLONY](#clony)                                           | 21 minutes      |               | puzzle                                      |
 | [ROGUE FLIGHT](#rogue-flight)                                         | 20 minutes      | Yes           | action, arcade, flight, shooter             |
 | [Doom Survivors](#doom-survivors)                                     | 19 minutes      |               | survivors                                   |
 | [Secret Agent No 6](#secret-agent-no-6)                               | 10 minutes      |               | fps, retro, horror?                         |
@@ -18,6 +19,22 @@
 | [PLUG IT IN](#plug-it-in)                                             | 9 minutes       |               | puzzle                                      |
 | [Splintered](#splintered)                                             | 8 minutes       |               | rpg                                         |
 | [World of Unlit](#world-of-unlit)                                     | 7 minutes       |               | fps                                         |
+
+# CLONY
+
+- **Steam Page**: [CLONY](https://store.steampowered.com/app/2953590/CLONY/)
+- **Total Play Time**: 21 minutes
+- **Will Purchase**: 
+- **Type**: puzzle
+
+> 🕹️ **Description**: Clone blocks, hit switches
+> 
+> 💀 **Feedback**: I thought this game was simple and brilliant. But I also found it extremely impossibly challenging unforunately. 
+
+[![Thumbnail](img/thumbnails/20241018182355_1.jpg)](img/2024_october/clony/20241018182355_1.jpg)
+[![Thumbnail](img/thumbnails/20241018182359_1.jpg)](img/2024_october/clony/20241018182359_1.jpg)
+[![Thumbnail](img/thumbnails/20241018182404_1.jpg)](img/2024_october/clony/20241018182404_1.jpg)
+[![Thumbnail](img/thumbnails/20241018182459_1.jpg)](img/2024_october/clony/20241018182459_1.jpg)
 
 # Massacre at the Mirage
 
