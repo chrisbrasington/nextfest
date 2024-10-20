@@ -16,11 +16,36 @@
 | [CLONY](#clony)                                           | 21 minutes      |               | puzzle                                      |
 | [ROGUE FLIGHT](#rogue-flight)                                         | 20 minutes      | Yes           | action, arcade, flight, shooter             |
 | [Doom Survivors](#doom-survivors)                                     | 19 minutes      |               | survivors                                   |
+| [Secret Agent Wizard Boy and the International Crime Syndicate Demo](#secret-agent-wizard-boy-and-the-international-crime-syndicate-demo)| 14 minutes      |               | adventure, parody                           |
 | [Secret Agent No 6](#secret-agent-no-6)                               | 10 minutes      |               | fps, retro, horror?                         |
 | [Turbo Dismount 2](#turbo-dismount-2)                                 | 10 minutes      |               | racing                                      |
 | [PLUG IT IN](#plug-it-in)                                             | 9 minutes       |               | puzzle                                      |
 | [Splintered](#splintered)                                             | 8 minutes       |               | rpg                                         |
 | [World of Unlit](#world-of-unlit)                                     | 7 minutes       |               | fps                                         |
+
+# Secret Agent Wizard Boy and the International Crime Syndicate Demo
+
+- **Steam Page**: [Secret Agent Wizard Boy and the International Crime Syndicate Demo](https://store.steampowered.com/app/3281870/Secret_Agent_Wizard_Boy_and_the_International_Crime_Syndicate_Demo/)
+- **Total Play Time**: 14 minutes
+- **Will Purchase**: 
+- **Type**: adventure, parody
+
+> 🕹️ **Description**: Harry Potter 007 parody 
+> 
+> 🫱  **Feedback**: A pretty silly little romp. You, obviously "not" Harry Potter hired by MI6 to take down Drumflemort head of the spider crime syndicate. Things I didn't expect: because I tried to enter the goblet club without a goblet hat, I was skewered by a first year holding the sword of Gryffindor - donuts, I mean biscuits, are currency. And I broke my back but could still walk but my spells went into a random direction.
+> 
+> It meets a graphical nostalgia itch and I could see fun to play with friends, but you get about as much depth out of it in 5 minutes as I expect overall. Unforutunately it just had me wanting to play the non-parody tbh.
+
+[![Thumbnail](img/thumbnails/20241020113834_1.jpg)](img/2024_october/wizardboy/20241020113834_1.jpg)
+[![Thumbnail](img/thumbnails/20241020113901_1.jpg)](img/2024_october/wizardboy/20241020113901_1.jpg)
+[![Thumbnail](img/thumbnails/20241020113924_1.jpg)](img/2024_october/wizardboy/20241020113924_1.jpg)
+[![Thumbnail](img/thumbnails/20241020114010_1.jpg)](img/2024_october/wizardboy/20241020114010_1.jpg)
+[![Thumbnail](img/thumbnails/20241020114122_1.jpg)](img/2024_october/wizardboy/20241020114122_1.jpg)
+[![Thumbnail](img/thumbnails/20241020114215_1.jpg)](img/2024_october/wizardboy/20241020114215_1.jpg)
+[![Thumbnail](img/thumbnails/20241020114257_1.jpg)](img/2024_october/wizardboy/20241020114257_1.jpg)
+[![Thumbnail](img/thumbnails/20241020114532_1.jpg)](img/2024_october/wizardboy/20241020114532_1.jpg)
+[![Thumbnail](img/thumbnails/20241020114640_1.jpg)](img/2024_october/wizardboy/20241020114640_1.jpg)
+[![Thumbnail](img/thumbnails/20241020114856_1.jpg)](img/2024_october/wizardboy/20241020114856_1.jpg)
 
 # Fear The Timeloop Demo
 
