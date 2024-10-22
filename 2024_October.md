@@ -33,9 +33,13 @@
 - **Will Purchase**: 
 - **Type**: puzzle
 
-> 🕹️ **Description**: 
+> 🕹️ **Description**: Modern day Oregon Trail.
 > 
-> 👍👎  **Feedback**: 
+> 👍🫱  **Feedback**: Mixed. So basically Oregon Trail but driving and when "events" happen you play a little game of dragging cards to destroy symbols. More people in your car, extra card but you're trying to help them to some objective like a side mission. You balance resources like money, food in trunk, gas, energy level etc.
+> 
+> Little mixed, I just found this game tedious. Music was nice, but I think the demo broke on music. It is a casual sort of game.
+> 
+> If real life was like this, I'd probably never go out.
 
 [![Thumbnail](img/thumbnails/Screenshot from 2024-10-21 21-16-27.png)](img/2024_october/keepdriving/Screenshot from 2024-10-21 21-16-27.png)
 [![Thumbnail](img/thumbnails/Screenshot from 2024-10-21 21-17-53.png)](img/2024_october/keepdriving/Screenshot from 2024-10-21 21-17-53.png)
@@ -54,9 +58,13 @@
 - **Will Purchase**: 
 - **Type**: horror, simulation
 
-> 🕹️ **Description**: 
+> 🕹️ **Description**: You control the worlds worst vehicle after being sucked into a black hole
 > 
-> 👍👎  **Feedback**: 
+> 👎 **Feedback**: I wanted to like this, the atmosphere was great. You control your broken vehicle and the ship controls aren't told to you, but I realized I can zoom in/out the sonar and take images. I found some other ships. It takes a lot of patience as bumping walls will send you spinning. Unforunately I couldn't make it to the marked locations on the map cause the wheel stopped turning right - I do think that is a bug. The wheel and lever to go forward is mouse driven - makes it difficult to use on purpose. I could put up with tedious if it was consistent. Unforunately I didn't really get far enough to see anything interesting. 
+> 
+> Don't get me wrong, jank movement and controls can add to the atmosphere of a surivival horror. But it can also just be not fun. 
+> 
+> `Scavenger SV-4` does this but better and the rover is still jank to use.
 
 [![Thumbnail](img/thumbnails/20241021203103_1.jpg)](img/2024_october/abaddonveil/20241021203103_1.jpg)
 [![Thumbnail](img/thumbnails/20241021204105_1.jpg)](img/2024_october/abaddonveil/20241021204105_1.jpg)
@@ -155,9 +163,9 @@
 - **Will Purchase**: 
 - **Type**: shooter, top-down
 
-> 🕹️ **Description**: 
+> :joystick: **Description**: You're a cop, modern GTA-2 style
 > 
-> 👍👎  **Feedback**: 
+> :thumbsup:  **Feedback**: Well now I just want to play GTA Chinatown Wars which was also top-down. If you can get past the "your father was a cop, so you're a cop - so issue those parking tickets" - the driving and flying is fun. The mid-tutorial was lame just cause every 10 feet someone is doing a crime. I do want a game in this top-down style, just not really this setting. It was polished and I could see it being interesting. I can see why this roleplaying exists in GTA.
 
 [![Thumbnail](img/thumbnails/20241018185439_1.jpg)](img/2024_october/acab/20241018185439_1.jpg)
 [![Thumbnail](img/thumbnails/20241018190019_1.jpg)](img/2024_october/acab/20241018190019_1.jpg)
