@@ -10,10 +10,12 @@
 | [Fear The Timeloop Demo](#fear-the-timeloop-demo)                     | 39 minutes      |               | horror, puzzle                              |
 | [Massacre at the Mirage](#massacre-at-the-mirage)                     | 38 minutes      |               | horror, simulation                          |
 | [The Precinct Demo](#the-precinct-demo)                               | 37 minutes      |               | shooter, top-down                           |
+| [Keep Driving](#keep-driving)                             | 37 minutes      |               | puzzle                                      |
 | [Metal Bringer](#metal-bringer)                                       | 35 minutes      | Yes           | action, rougelike                           |
 | [Carnival Massacre](#carnival-massacre)                               | 27 minutes      |               | horror                                      |
 | [Erenshor](#erenshor)                                                 | 26 minutes      |               | simulation, mmorpg                          |
 | [Is this Game Trying to Kill Me](#is-this-game-trying-to-kill-me)     | 25 minutes      |               | puzzle, horror                              |
+| [Abaddons Veil](#abaddons-veil)                           | 23 minutes      |               | horror, simulation                          |
 | [CLONY](#clony)                                                       | 21 minutes      |               | puzzle                                      |
 | [ROGUE FLIGHT](#rogue-flight)                                         | 20 minutes      | Yes           | action, arcade, flight, shooter             |
 | [Doom Survivors](#doom-survivors)                                     | 19 minutes      |               | survivors                                   |
@@ -23,6 +25,44 @@
 | [PLUG IT IN](#plug-it-in)                                             | 9 minutes       |               | puzzle                                      |
 | [Splintered](#splintered)                                             | 8 minutes       |               | rpg                                         |
 | [World of Unlit](#world-of-unlit)                                     | 7 minutes       |               | fps                                         |
+
+# Keep Driving
+
+- **Steam Page**: [Keep Driving](https://store.steampowered.com/app/2756920/Keep_Driving/)
+- **Total Play Time**: 37 minutes
+- **Will Purchase**: 
+- **Type**: puzzle
+
+> 🕹️ **Description**: 
+> 
+> 👍👎  **Feedback**: 
+
+[![Thumbnail](img/thumbnails/Screenshot from 2024-10-21 21-16-27.png)](img/2024_october/keepdriving/Screenshot from 2024-10-21 21-16-27.png)
+[![Thumbnail](img/thumbnails/Screenshot from 2024-10-21 21-17-53.png)](img/2024_october/keepdriving/Screenshot from 2024-10-21 21-17-53.png)
+[![Thumbnail](img/thumbnails/Screenshot from 2024-10-21 21-18-21.png)](img/2024_october/keepdriving/Screenshot from 2024-10-21 21-18-21.png)
+[![Thumbnail](img/thumbnails/Screenshot from 2024-10-21 21-21-48.png)](img/2024_october/keepdriving/Screenshot from 2024-10-21 21-21-48.png)
+[![Thumbnail](img/thumbnails/Screenshot from 2024-10-21 21-36-00.png)](img/2024_october/keepdriving/Screenshot from 2024-10-21 21-36-00.png)
+[![Thumbnail](img/thumbnails/Screenshot from 2024-10-21 21-37-16.png)](img/2024_october/keepdriving/Screenshot from 2024-10-21 21-37-16.png)
+[![Thumbnail](img/thumbnails/Screenshot from 2024-10-21 21-37-28.png)](img/2024_october/keepdriving/Screenshot from 2024-10-21 21-37-28.png)
+[![Thumbnail](img/thumbnails/Screenshot from 2024-10-21 21-48-34.png)](img/2024_october/keepdriving/Screenshot from 2024-10-21 21-48-34.png)
+[![Thumbnail](img/thumbnails/Screenshot from 2024-10-21 21-49-01.png)](img/2024_october/keepdriving/Screenshot from 2024-10-21 21-49-01.png)
+
+# Abaddons Veil
+
+- **Steam Page**: [Abaddons Veil](https://store.steampowered.com/app/2476040/Abaddons_Veil/)
+- **Total Play Time**: 23 minutes
+- **Will Purchase**: 
+- **Type**: horror, simulation
+
+> 🕹️ **Description**: 
+> 
+> 👍👎  **Feedback**: 
+
+[![Thumbnail](img/thumbnails/20241021203103_1.jpg)](img/2024_october/abaddonveil/20241021203103_1.jpg)
+[![Thumbnail](img/thumbnails/20241021204105_1.jpg)](img/2024_october/abaddonveil/20241021204105_1.jpg)
+[![Thumbnail](img/thumbnails/20241021204454_1.jpg)](img/2024_october/abaddonveil/20241021204454_1.jpg)
+[![Thumbnail](img/thumbnails/20241021204747_1.jpg)](img/2024_october/abaddonveil/20241021204747_1.jpg)
+[![Thumbnail](img/thumbnails/20241021204839_1.jpg)](img/2024_october/abaddonveil/20241021204839_1.jpg)
 
 # Orbos Exodus
 
