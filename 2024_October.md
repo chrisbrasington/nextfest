@@ -4,16 +4,17 @@
 | Game Title                                                            | Total Play Time | Will Purchase | Type                                        |
 |-----------------------------------------------------------------------|-----------------|---------------|---------------------------------------------|
 | [AI LIMIT](#ai-limit)                                                 | 100 minutes     | Likley        | soulslike                                   |
+| [Orbos Exodus](#orbos-exodus)                                         | 64 minutes      |               | platformer                                  |
 | [Knights in Tight Spaces Demo](#knights-in-tight-spaces-demo)         | 46 minutes      | YES           | srategy                                     |
 | [Hail to the Rainbow Demo](#hail-to-the-rainbow-demo)                 | 39 minutes      |               | adventure horror puzzle                     |
-| [Fear The Timeloop Demo](#fear-the-timeloop-demo)         | 39 minutes      |               | horror, puzzle                              |
+| [Fear The Timeloop Demo](#fear-the-timeloop-demo)                     | 39 minutes      |               | horror, puzzle                              |
 | [Massacre at the Mirage](#massacre-at-the-mirage)                     | 38 minutes      |               | horror, simulation                          |
-| [The Precinct Demo](#the-precinct-demo)                   | 37 minutes      |               | shooter, top-down                           |
+| [The Precinct Demo](#the-precinct-demo)                               | 37 minutes      |               | shooter, top-down                           |
 | [Metal Bringer](#metal-bringer)                                       | 35 minutes      | Yes           | action, rougelike                           |
 | [Carnival Massacre](#carnival-massacre)                               | 27 minutes      |               | horror                                      |
 | [Erenshor](#erenshor)                                                 | 26 minutes      |               | simulation, mmorpg                          |
 | [Is this Game Trying to Kill Me](#is-this-game-trying-to-kill-me)     | 25 minutes      |               | puzzle, horror                              |
-| [CLONY](#clony)                                           | 21 minutes      |               | puzzle                                      |
+| [CLONY](#clony)                                                       | 21 minutes      |               | puzzle                                      |
 | [ROGUE FLIGHT](#rogue-flight)                                         | 20 minutes      | Yes           | action, arcade, flight, shooter             |
 | [Doom Survivors](#doom-survivors)                                     | 19 minutes      |               | survivors                                   |
 | [Secret Agent Wizard Boy and the International Crime Syndicate Demo](#secret-agent-wizard-boy-and-the-international-crime-syndicate-demo)| 14 minutes      |               | adventure, parody                           |
@@ -22,6 +23,39 @@
 | [PLUG IT IN](#plug-it-in)                                             | 9 minutes       |               | puzzle                                      |
 | [Splintered](#splintered)                                             | 8 minutes       |               | rpg                                         |
 | [World of Unlit](#world-of-unlit)                                     | 7 minutes       |               | fps                                         |
+
+# Orbos Exodus
+
+- **Steam Page**: [Orbos Exodus](https://store.steampowered.com/app/3005860/Orbos_Exodus/)
+- **Total Play Time**: 64 minutes
+- **Will Purchase**: 
+- **Type**: platformer
+
+> 🕹️ **Description**: Orbo gotta go fast
+> 
+> 👍👍  **Feedback**: I'm a little annoyed how much I enjoyed this. This is an absolutely brilliant and fast and fun platform. This indie dev struck gold in its fluid movements. 
+> 
+> You have a screw for a head. You can absolutely LAUNCH yourself a thousand feet forward and turn into a wheel. It just loads of fun and you HAVE to go the fastest you can most of the time.
+> 
+> I kinda wished it took itself seriously but I abandoned that out the gate. And because it held nothing back on its weirdness, it had some enemies that scared the SHIT out of me. Something about getting horror when you don't expect it.
+> 
+> Even the lazer puzzles at slow pace were good.. 
+
+[![Thumbnail](img/thumbnails/20241020120644_1.jpg)](img/2024_october/orbo/20241020120644_1.jpg)
+[![Thumbnail](img/thumbnails/20241020120701_1.jpg)](img/2024_october/orbo/20241020120701_1.jpg)
+[![Thumbnail](img/thumbnails/20241020120824_1.jpg)](img/2024_october/orbo/20241020120824_1.jpg)
+[![Thumbnail](img/thumbnails/20241020122058_1.jpg)](img/2024_october/orbo/20241020122058_1.jpg)
+[![Thumbnail](img/thumbnails/20241020122622_1.jpg)](img/2024_october/orbo/20241020122622_1.jpg)
+[![Thumbnail](img/thumbnails/20241020122628_1.jpg)](img/2024_october/orbo/20241020122628_1.jpg)
+[![Thumbnail](img/thumbnails/20241020123311_1.jpg)](img/2024_october/orbo/20241020123311_1.jpg)
+[![Thumbnail](img/thumbnails/20241020123358_1.jpg)](img/2024_october/orbo/20241020123358_1.jpg)
+[![Thumbnail](img/thumbnails/20241020123508_1.jpg)](img/2024_october/orbo/20241020123508_1.jpg)
+[![Thumbnail](img/thumbnails/20241020123543_1.jpg)](img/2024_october/orbo/20241020123543_1.jpg)
+[![Thumbnail](img/thumbnails/20241021195510_1.jpg)](img/2024_october/orbo/20241021195510_1.jpg)
+[![Thumbnail](img/thumbnails/20241021201823_1.jpg)](img/2024_october/orbo/20241021201823_1.jpg)
+[![Thumbnail](img/thumbnails/20241021201826_1.jpg)](img/2024_october/orbo/20241021201826_1.jpg)
+[![Thumbnail](img/thumbnails/20241021201830_1.jpg)](img/2024_october/orbo/20241021201830_1.jpg)
+[![Thumbnail](img/thumbnails/20241021201900_1.jpg)](img/2024_october/orbo/20241021201900_1.jpg)
 
 # Secret Agent Wizard Boy and the International Crime Syndicate Demo
 
