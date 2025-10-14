@@ -17,9 +17,9 @@
 - **Will Purchase**: 
 - **Type**: horror, multiplayer
 
-> 🕹️ **Description**: 
+> 🕹️ **Description**: 4v1 multiplayer
 > 
-> 👍👎  **Feedback**: 
+> 👎  **Feedback**: Clockwork bunnies with that need to be wound up to move from teammates to against a clockwork magician to open doors and progress to the top floor. Not really my thing.
 
 [![Thumbnail](img/thumbnails/20251013225041_1.jpg)](img/2025_oct/bunny/20251013225041_1.jpg)
 [![Thumbnail](img/thumbnails/20251013225328_1.jpg)](img/2025_oct/bunny/20251013225328_1.jpg)
