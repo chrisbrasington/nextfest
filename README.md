@@ -1,11 +1,17 @@
-# [October 2025](2025_October.md)
+# 2025
 
-# [June 2025](2025_June.md)
+## [October 2025](2025_October.md)
 
-# [Feb 2025](2025_Feb.md)
+## [June 2025](2025_June.md)
 
-# [June 2024](2024_June.md)
+## [February 2025](2025_Feb.md)
 
-# [February 2024](2024_Feb.md)
+# 2024
 
-# [2023](2023.md)
+## [June 2024](2024_June.md)
+
+## [February 2024](2024_Feb.md)
+
+# 2023
+
+## [2023](2023.md)
