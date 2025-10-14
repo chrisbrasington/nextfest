@@ -6,8 +6,25 @@
 | [Heaven Does Not Respond](#heaven-does-not-respond)       | 41 minutes      |               | horror                                      |
 | [REANIMAL](#reanimal)                                     | 30 minutes      | YES           | horror                                      |
 | [Long Drive North: Co-Op RV Simulator Demo](#long-drive-north-co-op-rv-simulator-demo)                             | 15 minutes      |               | survival                                    |
-| [Spilled](#spilled)                                       | 12 minutes      |               | cozy                                        |
+| [Spilled](#spilled)                                       | 12 minutes      |               | cozy                                        |                   |
+| [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
 | [Sledding Game](#sledding-game)                           | 0 minutes       |               | horror                                      |
+
+# Carnival Hunt
+
+- **Steam Page**: [Carnival Hunt](https://store.steampowered.com/app/1181550/Carnival_Hunt/)
+- **Total Play Time**: 11 minutes
+- **Will Purchase**: 
+- **Type**: horror, multiplayer
+
+> 🕹️ **Description**: 
+> 
+> 👍👎  **Feedback**: 
+
+[![Thumbnail](img/thumbnails/20251013225041_1.jpg)](img/2025_oct/bunny/20251013225041_1.jpg)
+[![Thumbnail](img/thumbnails/20251013225328_1.jpg)](img/2025_oct/bunny/20251013225328_1.jpg)
+[![Thumbnail](img/thumbnails/20251013225822_1.jpg)](img/2025_oct/bunny/20251013225822_1.jpg)
+
 
 # Heaven Does Not Respond
 
@@ -16,9 +33,9 @@
 - **Will Purchase**: 
 - **Type**: horror
 
-> 🕹️ **Description**: 
+> 🕹️ **Description**: 100% accurate windows ME simulation
 > 
-> 👍👎  **Feedback**: 
+> 👍  **Feedback**:  hm. I think this dead guy's computer is hacked. I reset the router and kept running random executables I got from AIM, it's probably not that. 
 
 [![Thumbnail](img/thumbnails/20251013220257_1.jpg)](img/2025_oct/heaven/20251013220257_1.jpg)
 [![Thumbnail](img/thumbnails/20251013220416_1.jpg)](img/2025_oct/heaven/20251013220416_1.jpg)
