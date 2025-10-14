@@ -4,6 +4,23 @@
 | Game Title                                                                          | Total Play Time | Will Purchase | Type                                        |
 |-------------------------------------------------------------------------------------|-----------------|---------------|---------------------------------------------|
 | [REANIMAL](#reanimal)                                     | 30 minutes      |               | horror                                      |
+| [Spilled](#spilled)                                       | 12 minutes      |               | cozy                                        |
+
+# Spilled
+
+- **Steam Page**: [Spilled](https://store.steampowered.com/app/2240080/Spilled/)
+- **Total Play Time**: 12 minutes
+- **Will Purchase**: 
+- **Type**: cozy
+
+> 🕹️ **Description**: If I was single I'd probably live on a long boat too. I can apprechiate the cozy, relaxed vibe of this game and its pixel graphics. I was bored. If I was in a relaxing mood, cool - it's clearly a passion project.
+> 
+> 🫳  **Feedback**: 
+
+[![Thumbnail](img/thumbnails/20251013210446_1.jpg)](img/2025_oct/20251013210446_1.jpg)
+[![Thumbnail](img/thumbnails/20251013211456_1.jpg)](img/2025_oct/20251013211456_1.jpg)
+[![Thumbnail](img/thumbnails/20251013211628_1.jpg)](img/2025_oct/20251013211628_1.jpg)
+[![Thumbnail](img/thumbnails/20251013212033_1.jpg)](img/2025_oct/20251013212033_1.jpg)
 
 # REANIMAL
 
@@ -18,7 +35,7 @@
 > 
 > Donnie: Why do you wear that stupid bunny suit? Frankie: Why do you wear that stupid human suit? - Donnie Darko
 > 
-> 👍  **Feedback**: 
+> 👍  **Feedback**: GREAT
 
 [![Thumbnail](img/thumbnails/20251013202347_1.jpg)](img/2025_oct/20251013202347_1.jpg)
 [![Thumbnail](img/thumbnails/20251013202734_1.jpg)](img/2025_oct/20251013202734_1.jpg)
