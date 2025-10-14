@@ -3,7 +3,7 @@
 
 | Game Title                                                                          | Total Play Time | Will Purchase | Type                                        |
 |-------------------------------------------------------------------------------------|-----------------|---------------|---------------------------------------------|
-| [REANIMAL](#reanimal)                                     | 30 minutes      |               | horror                                      |
+| [REANIMAL](#reanimal)                                     | 30 minutes      | YES           | horror                                      |
 | [Spilled](#spilled)                                       | 12 minutes      |               | cozy                                        |
 
 # Spilled
