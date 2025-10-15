@@ -4,11 +4,34 @@
 | Game Title                                                                          | Total Play Time | Will Purchase | Type                                        |
 |-------------------------------------------------------------------------------------|-----------------|---------------|---------------------------------------------|
 | [Heaven Does Not Respond](#heaven-does-not-respond)       | 41 minutes      |               | horror                                      |
+| [MOTORSLICE](#motorslice)                                 | 33 minutes      | YES              | action                                      |
 | [REANIMAL](#reanimal)                                     | 30 minutes      | YES           | horror                                      |
 | [Long Drive North: Co-Op RV Simulator Demo](#long-drive-north-co-op-rv-simulator-demo)                             | 15 minutes      |               | survival                                    |
 | [Spilled](#spilled)                                       | 12 minutes      |               | cozy                                        |                   |
 | [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
 | [Sledding Game](#sledding-game)                           | 0 minutes       |               | horror                                      |
+
+# MOTORSLICE
+
+- **Steam Page**: [MOTORSLICE](https://store.steampowered.com/app/2830030/MOTORSLICE/)
+- **Total Play Time**: 33 minutes
+- **Will Purchase**: YES
+- **Type**: action
+
+> 🕹️ **Description**: Just a girl in a dystopia making a living with your chainsaw
+> 
+> 👍👍👍 **Feedback**: I've followed the dev on this one. This is the winner, handsdown. The platforming is slick. The chainsaw is used on yellow walls for "infinite" wall running (up too!), combined with shorter wall running and jumping. The combat is one hit kills. The bosses are metal shadow-of-colossus. This is just fantastic.
+
+[![Thumbnail](img/thumbnails/20251014182636_1.jpg)](img/2025_oct/motorslice/20251014182636_1.jpg)
+[![Thumbnail](img/thumbnails/20251014182801_1.jpg)](img/2025_oct/motorslice/20251014182801_1.jpg)
+[![Thumbnail](img/thumbnails/20251014182947_1.jpg)](img/2025_oct/motorslice/20251014182947_1.jpg)
+[![Thumbnail](img/thumbnails/20251014182959_1.jpg)](img/2025_oct/motorslice/20251014182959_1.jpg)
+[![Thumbnail](img/thumbnails/20251014183032_1.jpg)](img/2025_oct/motorslice/20251014183032_1.jpg)
+[![Thumbnail](img/thumbnails/20251014183116_1.jpg)](img/2025_oct/motorslice/20251014183116_1.jpg)
+[![Thumbnail](img/thumbnails/20251014183414_1.jpg)](img/2025_oct/motorslice/20251014183414_1.jpg)
+[![Thumbnail](img/thumbnails/20251014183525_1.jpg)](img/2025_oct/motorslice/20251014183525_1.jpg)
+[![Thumbnail](img/thumbnails/20251014185438_1.jpg)](img/2025_oct/motorslice/20251014185438_1.jpg)
+[![Thumbnail](img/thumbnails/20251014185813_1.jpg)](img/2025_oct/motorslice/20251014185813_1.jpg)
 
 # Carnival Hunt
 
