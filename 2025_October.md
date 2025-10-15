@@ -7,10 +7,34 @@
 | [Heaven Does Not Respond](#heaven-does-not-respond)       | 41 minutes      |               | horror                                      |
 | [MOTORSLICE](#motorslice)                                 | 33 minutes      | YES           | action                                      |
 | [REANIMAL](#reanimal)                                     | 30 minutes      | YES           | horror                                      |
+| [Crisol Theater of Idols Demo](#crisol-theater-of-idols-demo)| 19 minutes      |               | fps, horror                                 |
 | [Long Drive North: Co-Op RV Simulator Demo](#long-drive-north-co-op-rv-simulator-demo)      | 15 minutes      |               | survival                                    |
 | [Spilled](#spilled)                                       | 12 minutes      |               | cozy                                        |                   |
 | [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
 | [Sledding Game](#sledding-game)                           | 0 minutes       |               | horror                                      |
+
+# Crisol Theater of Idols Demo
+
+- **Steam Page**: [Crisol Theater of Idols Demo](https://store.steampowered.com/app/3989380/Crisol_Theater_of_Idols_Demo/)
+- **Total Play Time**: 19 minutes
+- **Will Purchase**: 
+- **Type**: fps, horror
+
+> 🕹️ **Description**: FPS slow vampire
+> 
+> 👎  **Feedback**: This game was slow and dull. It felt like the ethestic was sorta trying to be bioshock, hide from the big daddy. You reload your gun with blood which drains your health. Demo felt "we're working on the big baddie ai, so here's a little town loop. It just wasn't good gunplay? 
+> 
+> I'd much rather play `Witchfire`.
+
+[![Thumbnail](img/thumbnails/20251014203225_1.jpg)](img/2025_oct/crisol/20251014203225_1.jpg)
+[![Thumbnail](img/thumbnails/20251014203301_1.jpg)](img/2025_oct/crisol/20251014203301_1.jpg)
+[![Thumbnail](img/thumbnails/20251014203351_1.jpg)](img/2025_oct/crisol/20251014203351_1.jpg)
+[![Thumbnail](img/thumbnails/20251014203456_1.jpg)](img/2025_oct/crisol/20251014203456_1.jpg)
+[![Thumbnail](img/thumbnails/20251014203746_1.jpg)](img/2025_oct/crisol/20251014203746_1.jpg)
+[![Thumbnail](img/thumbnails/20251014203758_1.jpg)](img/2025_oct/crisol/20251014203758_1.jpg)
+[![Thumbnail](img/thumbnails/20251014204621_1.jpg)](img/2025_oct/crisol/20251014204621_1.jpg)
+[![Thumbnail](img/thumbnails/20251014204636_1.jpg)](img/2025_oct/crisol/20251014204636_1.jpg)
+[![Thumbnail](img/thumbnails/20251014204709_1.jpg)](img/2025_oct/crisol/20251014204709_1.jpg)
 
 # Odd Town
 
