@@ -12,7 +12,29 @@
 | [Vital Shell Demo Disc](#vital-shell-demo-disc)           | 13 minutes      |               | survivors                                   |
 | [Spilled](#spilled)                                       | 12 minutes      |               | cozy                                        |                   |
 | [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
+| [Megabonk](#megabonk)                                     | 10 minutes      |               | survivors                                   |
 | [Sledding Game](#sledding-game)                           | 0 minutes       |               | horror                                      |
+
+# Megabonk
+
+- **Steam Page**: [Megabonk](https://store.steampowered.com/app/3405340/Megabonk/)
+- **Total Play Time**: 10 minutes
+- **Will Purchase**: 
+- **Type**: survivors
+
+> 🕹️ **Description**: 3D vampire survivors
+> 
+> 👍  **Feedback**: Yeah I can see why this is popular - it's vampire survivors but 3D. And it does the chest/loot addictive stuff I noticed the last one was missing. MEGABONK does have one interesting mechanic the "bonk"... basicaly some enemies explode and it can fling you across the map. And that can be to your advantage (or not). 
+
+[![Thumbnail](img/thumbnails/20251014212218_1.jpg)](img/2025_oct/megabonk/20251014212218_1.jpg)
+[![Thumbnail](img/thumbnails/20251014212246_1.jpg)](img/2025_oct/megabonk/20251014212246_1.jpg)
+[![Thumbnail](img/thumbnails/20251014212257_1.jpg)](img/2025_oct/megabonk/20251014212257_1.jpg)
+[![Thumbnail](img/thumbnails/20251014212332_1.jpg)](img/2025_oct/megabonk/20251014212332_1.jpg)
+[![Thumbnail](img/thumbnails/20251014212412_1.jpg)](img/2025_oct/megabonk/20251014212412_1.jpg)
+[![Thumbnail](img/thumbnails/20251014212950_1.jpg)](img/2025_oct/megabonk/20251014212950_1.jpg)
+[![Thumbnail](img/thumbnails/20251014213107_1.jpg)](img/2025_oct/megabonk/20251014213107_1.jpg)
+[![Thumbnail](img/thumbnails/20251014213124_1.jpg)](img/2025_oct/megabonk/20251014213124_1.jpg)
+[![Thumbnail](img/thumbnails/20251014213133_1.jpg)](img/2025_oct/megabonk/20251014213133_1.jpg)
 
 # Vital Shell Demo Disc
 
