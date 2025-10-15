@@ -5,7 +5,7 @@
 |-------------------------------------------------------------------------------------|-----------------|---------------|---------------------------------------------|
 | [Odd Town](#odd-town)                                     | 48 minutes      | Probably      | simulation                                  |
 | [Heaven Does Not Respond](#heaven-does-not-respond)       | 41 minutes      |               | horror                                      |
-| [House of Necrosis Demo](#house-of-necrosis-demo)         | 36 minutes      |               | tactics, horror                             |
+| [House of Necrosis Demo](#house-of-necrosis-demo)         | 36 minutes      | Yes-leaning   | tactics, horror                             |
 | [MOTORSLICE](#motorslice)                                 | 33 minutes      | YES           | action                                      |
 | [REANIMAL](#reanimal)                                     | 30 minutes      | YES           | horror                                      |
 | [Crisol Theater of Idols Demo](#crisol-theater-of-idols-demo)| 19 minutes      |               | fps, horror                                 |
