@@ -9,9 +9,34 @@
 | [REANIMAL](#reanimal)                                     | 30 minutes      | YES           | horror                                      |
 | [Crisol Theater of Idols Demo](#crisol-theater-of-idols-demo)| 19 minutes      |               | fps, horror                                 |
 | [Long Drive North: Co-Op RV Simulator Demo](#long-drive-north-co-op-rv-simulator-demo)      | 15 minutes      |               | survival                                    |
+| [Vital Shell Demo Disc](#vital-shell-demo-disc)           | 13 minutes      |               | survivors                                   |
 | [Spilled](#spilled)                                       | 12 minutes      |               | cozy                                        |                   |
 | [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
 | [Sledding Game](#sledding-game)                           | 0 minutes       |               | horror                                      |
+
+# Vital Shell Demo Disc
+
+- **Steam Page**: [Vital Shell Demo Disc](https://store.steampowered.com/app/3928280/Vital_Shell_Demo_Disc/)
+- **Total Play Time**: 13 minutes
+- **Will Purchase**: 
+- **Type**: survivors
+
+> 🕹️ **Description**: PS1-style Mech survivors game
+> 
+> 🫳  **Feedback**: Love the PS1 aesthetic and that you can aim with the 2nd analog stick. Area is small, flat like Brotato. It's ok, good for what it does. 
+> 
+> oh shit, I should install MEGABONK.
+
+[![Thumbnail](img/thumbnails/20251014210354_1.jpg)](img/2025_oct/vitalshell/20251014210354_1.jpg)
+[![Thumbnail](img/thumbnails/20251014210405_1.jpg)](img/2025_oct/vitalshell/20251014210405_1.jpg)
+[![Thumbnail](img/thumbnails/20251014210410_1.jpg)](img/2025_oct/vitalshell/20251014210410_1.jpg)
+[![Thumbnail](img/thumbnails/20251014210427_1.jpg)](img/2025_oct/vitalshell/20251014210427_1.jpg)
+[![Thumbnail](img/thumbnails/20251014210456_1.jpg)](img/2025_oct/vitalshell/20251014210456_1.jpg)
+[![Thumbnail](img/thumbnails/20251014210726_1.jpg)](img/2025_oct/vitalshell/20251014210726_1.jpg)
+[![Thumbnail](img/thumbnails/20251014210757_1.jpg)](img/2025_oct/vitalshell/20251014210757_1.jpg)
+[![Thumbnail](img/thumbnails/20251014211048_1.jpg)](img/2025_oct/vitalshell/20251014211048_1.jpg)
+[![Thumbnail](img/thumbnails/20251014211220_1.jpg)](img/2025_oct/vitalshell/20251014211220_1.jpg)
+[![Thumbnail](img/thumbnails/20251014211644_1.jpg)](img/2025_oct/vitalshell/20251014211644_1.jpg)
 
 # Crisol Theater of Idols Demo
 
