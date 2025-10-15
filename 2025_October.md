@@ -5,6 +5,7 @@
 |-------------------------------------------------------------------------------------|-----------------|---------------|---------------------------------------------|
 | [Odd Town](#odd-town)                                     | 48 minutes      | Probably      | simulation                                  |
 | [Heaven Does Not Respond](#heaven-does-not-respond)       | 41 minutes      |               | horror                                      |
+| [House of Necrosis Demo](#house-of-necrosis-demo)         | 36 minutes      |               | tactics, horror                             |
 | [MOTORSLICE](#motorslice)                                 | 33 minutes      | YES           | action                                      |
 | [REANIMAL](#reanimal)                                     | 30 minutes      | YES           | horror                                      |
 | [Crisol Theater of Idols Demo](#crisol-theater-of-idols-demo)| 19 minutes      |               | fps, horror                                 |
@@ -14,6 +15,32 @@
 | [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
 | [Megabonk](#megabonk)                                     | 10 minutes      |               | survivors                                   |
 | [Sledding Game](#sledding-game)                           | 0 minutes       |               | horror                                      |
+
+# House of Necrosis Demo
+
+- **Steam Page**: [House of Necrosis Demo](https://store.steampowered.com/app/3447260/House_of_Necrosis_Demo/)
+- **Total Play Time**: 36 minutes
+- **Will Purchase**: 
+- **Type**: tactics, horror
+
+> 🕹️ **Description**: 
+> 
+> 👍👎  **Feedback**: 
+
+[![Thumbnail](img/thumbnails/20251014213553_1.jpg)](img/2025_oct/houseofnecrosis/20251014213553_1.jpg)
+[![Thumbnail](img/thumbnails/20251014213604_1.jpg)](img/2025_oct/houseofnecrosis/20251014213604_1.jpg)
+[![Thumbnail](img/thumbnails/20251014213621_1.jpg)](img/2025_oct/houseofnecrosis/20251014213621_1.jpg)
+[![Thumbnail](img/thumbnails/20251014213754_1.jpg)](img/2025_oct/houseofnecrosis/20251014213754_1.jpg)
+[![Thumbnail](img/thumbnails/20251014213757_1.jpg)](img/2025_oct/houseofnecrosis/20251014213757_1.jpg)
+[![Thumbnail](img/thumbnails/20251014214326_1.jpg)](img/2025_oct/houseofnecrosis/20251014214326_1.jpg)
+[![Thumbnail](img/thumbnails/20251014214350_1.jpg)](img/2025_oct/houseofnecrosis/20251014214350_1.jpg)
+[![Thumbnail](img/thumbnails/20251014214430_1.jpg)](img/2025_oct/houseofnecrosis/20251014214430_1.jpg)
+[![Thumbnail](img/thumbnails/20251014214550_1.jpg)](img/2025_oct/houseofnecrosis/20251014214550_1.jpg)
+[![Thumbnail](img/thumbnails/20251014214812_2.jpg)](img/2025_oct/houseofnecrosis/20251014214812_2.jpg)
+[![Thumbnail](img/thumbnails/20251014215730_1.jpg)](img/2025_oct/houseofnecrosis/20251014215730_1.jpg)
+[![Thumbnail](img/thumbnails/20251014220042_1.jpg)](img/2025_oct/houseofnecrosis/20251014220042_1.jpg)
+[![Thumbnail](img/thumbnails/20251014220612_1.jpg)](img/2025_oct/houseofnecrosis/20251014220612_1.jpg)
+[![Thumbnail](img/thumbnails/20251014221124_1.jpg)](img/2025_oct/houseofnecrosis/20251014221124_1.jpg)
 
 # Megabonk
 
