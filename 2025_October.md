@@ -254,10 +254,10 @@
 > 
 > 🫳  **Feedback**: If I was single I'd probably live on a long boat too. I can apprechiate the cozy, relaxed vibe of this game and its pixel graphics. I was bored. If I was in a relaxing mood, cool - it's clearly a passion project.
 
-[![Thumbnail](img/thumbnails/20251013210446_1.jpg)](img/2025_oct/20251013210446_1.jpg)
-[![Thumbnail](img/thumbnails/20251013211456_1.jpg)](img/2025_oct/20251013211456_1.jpg)
-[![Thumbnail](img/thumbnails/20251013211628_1.jpg)](img/2025_oct/20251013211628_1.jpg)
-[![Thumbnail](img/thumbnails/20251013212033_1.jpg)](img/2025_oct/20251013212033_1.jpg)
+[![Thumbnail](img/thumbnails/20251013210446_1.jpg)](img/spilled/2025_oct/20251013210446_1.jpg)
+[![Thumbnail](img/thumbnails/20251013211456_1.jpg)](img/spilled/2025_oct/20251013211456_1.jpg)
+[![Thumbnail](img/thumbnails/20251013211628_1.jpg)](img/spilled/2025_oct/20251013211628_1.jpg)
+[![Thumbnail](img/thumbnails/20251013212033_1.jpg)](img/spilled/2025_oct/20251013212033_1.jpg)
 
 # REANIMAL
 
@@ -273,11 +273,11 @@
 > 
 > Donnie: Why do you wear that stupid bunny suit? Frankie: Why do you wear that stupid human suit? - Donnie Darko
 
-[![Thumbnail](img/thumbnails/20251013202347_1.jpg)](img/2025_oct/20251013202347_1.jpg)
-[![Thumbnail](img/thumbnails/20251013202734_1.jpg)](img/2025_oct/20251013202734_1.jpg)
-[![Thumbnail](img/thumbnails/20251013202817_1.jpg)](img/2025_oct/20251013202817_1.jpg)
-[![Thumbnail](img/thumbnails/20251013203109_1.jpg)](img/2025_oct/20251013203109_1.jpg)
-[![Thumbnail](img/thumbnails/20251013203828_1.jpg)](img/2025_oct/20251013203828_1.jpg)
-[![Thumbnail](img/thumbnails/20251013204450_1.jpg)](img/2025_oct/20251013204450_1.jpg)
-[![Thumbnail](img/thumbnails/20251013204651_1.jpg)](img/2025_oct/20251013204651_1.jpg)
-[![Thumbnail](img/thumbnails/20251013205036_1.jpg)](img/2025_oct/20251013205036_1.jpg)
+[![Thumbnail](img/thumbnails/20251013202347_1.jpg)](img/2025_oct/reanimal/20251013202347_1.jpg)
+[![Thumbnail](img/thumbnails/20251013202734_1.jpg)](img/2025_oct/reanimal/20251013202734_1.jpg)
+[![Thumbnail](img/thumbnails/20251013202817_1.jpg)](img/2025_oct/reanimal/20251013202817_1.jpg)
+[![Thumbnail](img/thumbnails/20251013203109_1.jpg)](img/2025_oct/reanimal/20251013203109_1.jpg)
+[![Thumbnail](img/thumbnails/20251013203828_1.jpg)](img/2025_oct/reanimal/20251013203828_1.jpg)
+[![Thumbnail](img/thumbnails/20251013204450_1.jpg)](img/2025_oct/reanimal/20251013204450_1.jpg)
+[![Thumbnail](img/thumbnails/20251013204651_1.jpg)](img/2025_oct/reanimal/20251013204651_1.jpg)
+[![Thumbnail](img/thumbnails/20251013205036_1.jpg)](img/2025_oct/reanimal/20251013205036_1.jpg)
