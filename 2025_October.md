@@ -23,9 +23,17 @@
 - **Will Purchase**: 
 - **Type**: tactics, horror
 
-> 🕹️ **Description**: 
+> 🕹️ **Description**: Resident Evil with a twist
 > 
-> 👍👎  **Feedback**: 
+> 👍 **Feedback**: Did I just write down "tactics, horror"
+> 
+> Whoa. Ok before playing, I thought looked too derivative. But that's like thinking `Half-life` and `Abiotic Horror` play the same, when one is a first-person-shooter and the second a survival game.
+> 
+> `House of Necrosis` is a mystery-dungeon tactics game. Meaning when you move or take a turn, so do all characters. Don't move? World is paused. Being able to look in 3D (straight ahead), aim and shoot 3 spaces away, and use a knife in front - felt really great actually. Some enemies (if you're not swamped) have patters, like `Crypt of the Necrodancer` minus the musical timing. That means if you have an empty room, you can dodge/attack at the right time and take no damage taking them out. 
+> 
+> The healing spell is straight up `Final Fantasy 7` Aerith healing spell. You can identify serums, use them to warp or petrify (throw) at enemies. 
+> 
+> The boss was hard, I warped out (item). 
 
 [![Thumbnail](img/thumbnails/20251014213553_1.jpg)](img/2025_oct/houseofnecrosis/20251014213553_1.jpg)
 [![Thumbnail](img/thumbnails/20251014213604_1.jpg)](img/2025_oct/houseofnecrosis/20251014213604_1.jpg)
