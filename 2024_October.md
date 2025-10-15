@@ -41,15 +41,16 @@
 > 
 > If real life was like this, I'd probably never go out.
 
-[![Thumbnail](img/thumbnails/Screenshot from 2024-10-21 21-16-27.png)](img/2024_october/keepdriving/Screenshot from 2024-10-21 21-16-27.png)
-[![Thumbnail](img/thumbnails/Screenshot from 2024-10-21 21-17-53.png)](img/2024_october/keepdriving/Screenshot from 2024-10-21 21-17-53.png)
-[![Thumbnail](img/thumbnails/Screenshot from 2024-10-21 21-18-21.png)](img/2024_october/keepdriving/Screenshot from 2024-10-21 21-18-21.png)
-[![Thumbnail](img/thumbnails/Screenshot from 2024-10-21 21-21-48.png)](img/2024_october/keepdriving/Screenshot from 2024-10-21 21-21-48.png)
-[![Thumbnail](img/thumbnails/Screenshot from 2024-10-21 21-36-00.png)](img/2024_october/keepdriving/Screenshot from 2024-10-21 21-36-00.png)
-[![Thumbnail](img/thumbnails/Screenshot from 2024-10-21 21-37-16.png)](img/2024_october/keepdriving/Screenshot from 2024-10-21 21-37-16.png)
-[![Thumbnail](img/thumbnails/Screenshot from 2024-10-21 21-37-28.png)](img/2024_october/keepdriving/Screenshot from 2024-10-21 21-37-28.png)
-[![Thumbnail](img/thumbnails/Screenshot from 2024-10-21 21-48-34.png)](img/2024_october/keepdriving/Screenshot from 2024-10-21 21-48-34.png)
-[![Thumbnail](img/thumbnails/Screenshot from 2024-10-21 21-49-01.png)](img/2024_october/keepdriving/Screenshot from 2024-10-21 21-49-01.png)
+[![Thumbnail](img/thumbnails/Screenshot%20from%202024-10-21%2021-16-27.png)](img/2024_october/keepdriving/Screenshot%20from%202024-10-21%2021-16-27.png)
+[![Thumbnail](img/thumbnails/Screenshot%20from%202024-10-21%2021-17-53.png)](img/2024_october/keepdriving/Screenshot%20from%202024-10-21%2021-17-53.png)
+[![Thumbnail](img/thumbnails/Screenshot%20from%202024-10-21%2021-18-21.png)](img/2024_october/keepdriving/Screenshot%20from%202024-10-21%2021-18-21.png)
+[![Thumbnail](img/thumbnails/Screenshot%20from%202024-10-21%2021-21-48.png)](img/2024_october/keepdriving/Screenshot%20from%202024-10-21%2021-21-48.png)
+[![Thumbnail](img/thumbnails/Screenshot%20from%202024-10-21%2021-36-00.png)](img/2024_october/keepdriving/Screenshot%20from%202024-10-21%2021-36-00.png)
+[![Thumbnail](img/thumbnails/Screenshot%20from%202024-10-21%2021-37-16.png)](img/2024_october/keepdriving/Screenshot%20from%202024-10-21%2021-37-16.png)
+[![Thumbnail](img/thumbnails/Screenshot%20from%202024-10-21%2021-37-28.png)](img/2024_october/keepdriving/Screenshot%20from%202024-10-21%2021-37-28.png)
+[![Thumbnail](img/thumbnails/Screenshot%20from%202024-10-21%2021-48-34.png)](img/2024_october/keepdriving/Screenshot%20from%202024-10-21%2021-48-34.png)
+[![Thumbnail](img/thumbnails/Screenshot%20from%202024-10-21%2021-49-01.png)](img/2024_october/keepdriving/Screenshot%20from%202024-10-21%2021-49-01.png)
+
 
 # Abaddons Veil
 
