@@ -3,13 +3,38 @@
 
 | Game Title                                                                          | Total Play Time | Will Purchase | Type                                        |
 |-------------------------------------------------------------------------------------|-----------------|---------------|---------------------------------------------|
+| [Odd Town](#odd-town)                                     | 48 minutes      | Probably      | simulation                                  |
 | [Heaven Does Not Respond](#heaven-does-not-respond)       | 41 minutes      |               | horror                                      |
-| [MOTORSLICE](#motorslice)                                 | 33 minutes      | YES              | action                                      |
+| [MOTORSLICE](#motorslice)                                 | 33 minutes      | YES           | action                                      |
 | [REANIMAL](#reanimal)                                     | 30 minutes      | YES           | horror                                      |
-| [Long Drive North: Co-Op RV Simulator Demo](#long-drive-north-co-op-rv-simulator-demo)                             | 15 minutes      |               | survival                                    |
+| [Long Drive North: Co-Op RV Simulator Demo](#long-drive-north-co-op-rv-simulator-demo)      | 15 minutes      |               | survival                                    |
 | [Spilled](#spilled)                                       | 12 minutes      |               | cozy                                        |                   |
 | [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
 | [Sledding Game](#sledding-game)                           | 0 minutes       |               | horror                                      |
+
+# Odd Town
+
+- **Steam Page**: [Odd Town](https://store.steampowered.com/app/2688780/Odd_Town/)
+- **Total Play Time**: 48 minutes
+- **Will Purchase**: Probably
+- **Type**: simulation
+
+> 🕹️ **Description**: A quiet French retreat.
+> 
+> 👍  **Feedback**: My car broke down in near a quiet little French town. The mechanic won't give it back without $300. Ignoring the pile of cars blocking the exit of the town, I answer a payphone and get entangled in a wee bit entangled with a local conspiracy theorist. I get jailed for stealing a sandwich, I help a lady figure out why her missing person posters are getting ripped down (after beating the guy up). I fail at selling drugs (apparently "Hello fellow narcatics enjoyer" is a cop, who knew). 
+> 
+> There's a simple level of simulation going on with people's patterns - nothing complex. You can juggle money, health (eat food) - lose "wanted" status by changing clothes - and only so many times you can break out of jail before the brick up the holes in the wall. Game seems like a silly, fun little mystery romp. 
+
+[![Thumbnail](img/thumbnails/20251014193021_1.jpg)](img/2025_oct/oddtown/20251014193021_1.jpg)
+[![Thumbnail](img/thumbnails/20251014193306_1.jpg)](img/2025_oct/oddtown/20251014193306_1.jpg)
+[![Thumbnail](img/thumbnails/20251014193451_1.jpg)](img/2025_oct/oddtown/20251014193451_1.jpg)
+[![Thumbnail](img/thumbnails/20251014193547_1.jpg)](img/2025_oct/oddtown/20251014193547_1.jpg)
+[![Thumbnail](img/thumbnails/20251014193555_1.jpg)](img/2025_oct/oddtown/20251014193555_1.jpg)
+[![Thumbnail](img/thumbnails/20251014193820_1.jpg)](img/2025_oct/oddtown/20251014193820_1.jpg)
+[![Thumbnail](img/thumbnails/20251014193902_1.jpg)](img/2025_oct/oddtown/20251014193902_1.jpg)
+[![Thumbnail](img/thumbnails/20251014194203_1.jpg)](img/2025_oct/oddtown/20251014194203_1.jpg)
+[![Thumbnail](img/thumbnails/20251014200945_1.jpg)](img/2025_oct/oddtown/20251014200945_1.jpg)
+[![Thumbnail](img/thumbnails/20251014201358_1.jpg)](img/2025_oct/oddtown/20251014201358_1.jpg)
 
 # MOTORSLICE
 
