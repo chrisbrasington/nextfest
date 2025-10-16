@@ -8,6 +8,7 @@
 | [Homura Hime](#homura-hime)                             | 37 minutes      | Maaaaybe           | action                                      |
 | [House of Necrosis Demo](#house-of-necrosis-demo)         | 36 minutes      | Yes-leaning   | tactics, horror                             |
 | [MOTORSLICE](#motorslice)                                 | 33 minutes      | YES           | action                                      |
+| [Neon Divide](#neon-divide)                               | 31 minutes      |               | gacha                                       |
 | [REANIMAL](#reanimal)                                     | 30 minutes      | YES           | horror                                      |
 | [Crisol Theater of Idols Demo](#crisol-theater-of-idols-demo)| 19 minutes      |               | fps, horror                                 |
 | [Long Drive North: Co-Op RV Simulator Demo](#long-drive-north-co-op-rv-simulator-demo)      | 15 minutes      |               | survival                                    |
@@ -16,6 +17,41 @@
 | [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
 | [Megabonk](#megabonk)                                     | 10 minutes      |               | survivors                                   |
 | [Sledding Game](#sledding-game)                           | 0 minutes       |               | horror                                      |
+
+# Neon Divide
+
+- **Steam Page**: [Neon Divide](https://store.steampowered.com/app/3887650/Neon_Divide/)
+- **Total Play Time**: 31 minutes
+- **Will Purchase**: 
+- **Type**: gacha
+
+> 🕹️ **Description**: Gacha - as in, ha gacha to play this stupid game
+> 
+> 👎  **Feedback**: Pretty garbage
+> 
+> Mobile port, you just tap J to win. Actually I got confused on a fight not ending cause I realized I was infinitely comboing the enemy. So I went to 1000x combo. I could have quit then. I watched some more missions.
+> 
+> It's the type of game that has currency associated to "play next level". Utter trash
+> 
+> I wish it had the gameplay of the last game [Homura Hime](#homura-hime) cause the space/future setting was neat. 
+
+[![Thumbnail](img/thumbnails/20251015215558_1.jpg)](img/2025_oct/neondivide/20251015215558_1.jpg)
+[![Thumbnail](img/thumbnails/20251015220312_1.jpg)](img/2025_oct/neondivide/20251015220312_1.jpg)
+[![Thumbnail](img/thumbnails/20251015220646_1.jpg)](img/2025_oct/neondivide/20251015220646_1.jpg)
+[![Thumbnail](img/thumbnails/20251015220741_1.jpg)](img/2025_oct/neondivide/20251015220741_1.jpg)
+[![Thumbnail](img/thumbnails/20251015220746_1.jpg)](img/2025_oct/neondivide/20251015220746_1.jpg)
+[![Thumbnail](img/thumbnails/20251015220821_1.jpg)](img/2025_oct/neondivide/20251015220821_1.jpg)
+[![Thumbnail](img/thumbnails/20251015221020_1.jpg)](img/2025_oct/neondivide/20251015221020_1.jpg)
+[![Thumbnail](img/thumbnails/20251015221229_1.jpg)](img/2025_oct/neondivide/20251015221229_1.jpg)
+[![Thumbnail](img/thumbnails/20251015221243_1.jpg)](img/2025_oct/neondivide/20251015221243_1.jpg)
+[![Thumbnail](img/thumbnails/20251015221249_1.jpg)](img/2025_oct/neondivide/20251015221249_1.jpg)
+[![Thumbnail](img/thumbnails/20251015221251_1.jpg)](img/2025_oct/neondivide/20251015221251_1.jpg)
+[![Thumbnail](img/thumbnails/20251015221326_1.jpg)](img/2025_oct/neondivide/20251015221326_1.jpg)
+[![Thumbnail](img/thumbnails/20251015221546_1.jpg)](img/2025_oct/neondivide/20251015221546_1.jpg)
+[![Thumbnail](img/thumbnails/20251015221623_1.jpg)](img/2025_oct/neondivide/20251015221623_1.jpg)
+[![Thumbnail](img/thumbnails/20251015221832_1.jpg)](img/2025_oct/neondivide/20251015221832_1.jpg)
+[![Thumbnail](img/thumbnails/20251015222008_1.jpg)](img/2025_oct/neondivide/20251015222008_1.jpg)
+[![Thumbnail](img/thumbnails/20251015222221_1.jpg)](img/2025_oct/neondivide/20251015222221_1.jpg)
 
 # Homura Hime
 
