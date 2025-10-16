@@ -5,6 +5,7 @@
 |-------------------------------------------------------------------------------------|-----------------|---------------|---------------------------------------------|
 | [Odd Town](#odd-town)                                     | 48 minutes      | Probably      | simulation                                  |
 | [Heaven Does Not Respond](#heaven-does-not-respond)       | 41 minutes      |               | horror                                      |
+| [Homura Hime](#homura-hime)                             | 37 minutes      | Maaaaybe           | action                                      |
 | [House of Necrosis Demo](#house-of-necrosis-demo)         | 36 minutes      | Yes-leaning   | tactics, horror                             |
 | [MOTORSLICE](#motorslice)                                 | 33 minutes      | YES           | action                                      |
 | [REANIMAL](#reanimal)                                     | 30 minutes      | YES           | horror                                      |
@@ -15,6 +16,39 @@
 | [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
 | [Megabonk](#megabonk)                                     | 10 minutes      |               | survivors                                   |
 | [Sledding Game](#sledding-game)                           | 0 minutes       |               | horror                                      |
+
+# Homura Hime
+
+- **Steam Page**: [Homura Hime](https://store.steampowered.com/app/3201470)
+- **Total Play Time**: 37 minutes
+- **Will Purchase**: Maaaaybe
+- **Type**: action
+
+> 🕹️ **Description**: Anime nier-adjacent
+> 
+> 🫳  **Feedback**: 
+> 
+> Pros: Nier-style gameplay, fun boss fights. Good move-set and parry system. I liked a special that let me ninja zoom across the arena to a boss fight. Nier should add the naruto run
+> 
+> Cons: If you took out the cool world design of Nier, you'd have an.. "ok" game. The story is basic. "Demons take over humans sometimes". The levels were linear yet I had a guide I didn't need. I could span the parry button without consequence, so timing mattered less than it should. 
+> 
+> But it was fun enough that I did the boss fight multiple times.
+
+[![Thumbnail](img/thumbnails/20251015210534_1.jpg)](img/2025_oct/homurahine/20251015210534_1.jpg)
+[![Thumbnail](img/thumbnails/20251015210652_1.jpg)](img/2025_oct/homurahine/20251015210652_1.jpg)
+[![Thumbnail](img/thumbnails/20251015210914_1.jpg)](img/2025_oct/homurahine/20251015210914_1.jpg)
+[![Thumbnail](img/thumbnails/20251015211952_1.jpg)](img/2025_oct/homurahine/20251015211952_1.jpg)
+[![Thumbnail](img/thumbnails/20251015212220_1.jpg)](img/2025_oct/homurahine/20251015212220_1.jpg)
+[![Thumbnail](img/thumbnails/20251015212431_1.jpg)](img/2025_oct/homurahine/20251015212431_1.jpg)
+[![Thumbnail](img/thumbnails/20251015212445_1.jpg)](img/2025_oct/homurahine/20251015212445_1.jpg)
+[![Thumbnail](img/thumbnails/20251015212731_1.jpg)](img/2025_oct/homurahine/20251015212731_1.jpg)
+[![Thumbnail](img/thumbnails/20251015213029_1.jpg)](img/2025_oct/homurahine/20251015213029_1.jpg)
+[![Thumbnail](img/thumbnails/20251015213143_1.jpg)](img/2025_oct/homurahine/20251015213143_1.jpg)
+[![Thumbnail](img/thumbnails/20251015213203_1.jpg)](img/2025_oct/homurahine/20251015213203_1.jpg)
+[![Thumbnail](img/thumbnails/20251015213232_1.jpg)](img/2025_oct/homurahine/20251015213232_1.jpg)
+[![Thumbnail](img/thumbnails/20251015213645_1.jpg)](img/2025_oct/homurahine/20251015213645_1.jpg)
+[![Thumbnail](img/thumbnails/20251015213823_1.jpg)](img/2025_oct/homurahine/20251015213823_1.jpg)
+[![Thumbnail](img/thumbnails/20251015214100_1.jpg)](img/2025_oct/homurahine/20251015214100_1.jpg)
 
 # House of Necrosis Demo
 
