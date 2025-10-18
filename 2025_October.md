@@ -3,6 +3,7 @@
 
 | Game Title                                                                          | Total Play Time | Will Purchase | Type                                        |
 |-------------------------------------------------------------------------------------|-----------------|---------------|---------------------------------------------|
+| [Final Sentence Demo](#final-sentence-demo)               | 49 minutes      |               | battle-royale,multiplayer,horror            |
 | [Odd Town](#odd-town)                                     | 48 minutes      | Probably      | simulation                                  |
 | [Heaven Does Not Respond](#heaven-does-not-respond)       | 41 minutes      |               | horror                                      |
 | [Homura Hime](#homura-hime)                             | 37 minutes      | Maaaaybe           | action                                      |
@@ -17,6 +18,31 @@
 | [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
 | [Megabonk](#megabonk)                                     | 10 minutes      |               | survivors                                   |
 | [Sledding Game](#sledding-game)                           | 0 minutes       |               | horror                                      |
+
+# Final Sentence Demo
+
+- **Steam Page**: [Final Sentence Demo](https://store.steampowered.com/app/4021860/Final_Sentence_Demo/)
+- **Total Play Time**: 49 minutes
+- **Will Purchase**: 
+- **Type**: battle-royale,multiplayer,horrow
+
+> 🕹️ **Description**: Typing battle-royale
+> 
+> 👍👍  **Feedback**: Christ this is a fucked up game - that I'm really good at.
+> 
+> My average words-per-minute is consistently 100. I HAVE A 1/3 CHANCES OF WINNING ANY ROUND - which is insane for a 30 player battle royale-game. I won multiple times.
+> 
+> But I make a lot of dyslexic mistakes, and those reset the line. and 3 of those puts a bullet in the gun of russian-roulette. I literally think this game helps my dyslexia typing - I am not even joking. It's like I know see how speaking is going to come out spaeking with my fingers. 
+> 
+> What's fucked up (aside from the imagry) is there was one of those jumbled sentences with a lot of mistakes, and I could type it "correctly" but the game makes you type it incorrectly - which I could not due. Dude won it at 66 WPM. 
+> 
+> A lot fo `Scheiße` in voice chat.
+
+[![Thumbnail](img/thumbnails/a.jpg)](img/2025_oct/finalsentence/a.jpg)
+[![Thumbnail](img/thumbnails/b.jpg)](img/2025_oct/finalsentence/b.jpg)
+[![Thumbnail](img/thumbnails/c.jpg)](img/2025_oct/finalsentence/c.jpg)
+[![Thumbnail](img/thumbnails/d.jpg)](img/2025_oct/finalsentence/d.jpg)
+[![Thumbnail](img/thumbnails/e.jpg)](img/2025_oct/finalsentence/e.jpg)
 
 # Neon Divide
 
