@@ -9,6 +9,7 @@
 | [Heaven Does Not Respond](#heaven-does-not-respond)       | 41 minutes      |               | horror                                      |
 | [Homura Hime](#homura-hime)                             | 37 minutes      | Maaaaybe           | action                                      |
 | [House of Necrosis Demo](#house-of-necrosis-demo)         | 36 minutes      | Yes-leaning   | tactics, horror                             |
+| [Mr Sleepy Man](#mr-sleepy-man)                           | 34 minutes      |               | platformer                                  |
 | [MOTORSLICE](#motorslice)                                 | 33 minutes      | YES           | action                                      |
 | [Neon Divide](#neon-divide)                               | 31 minutes      |               | gacha                                       |
 | [REANIMAL](#reanimal)                                     | 30 minutes      | YES           | horror                                      |
@@ -20,6 +21,26 @@
 | [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
 | [Megabonk](#megabonk)                                     | 10 minutes      |               | survivors                                   |
 | [Sledding Game](#sledding-game)                           | 0 minutes       |               | horror                                      |
+
+# Mr Sleepy Man
+
+- **Steam Page**: [Mr Sleepy Man](https://store.steampowered.com/app/1657740/Mr_Sleepy_Man/)
+- **Total Play Time**: 34 minutes
+- **Will Purchase**: 
+- **Type**: platformer
+
+> 🕹️ **Description**: silly platformer
+> 
+> 👎  **Feedback**: unfortunately a dud for me. A silly little indie platformer and good use of music - but didn't hold a candle to last year's `Orbos Exodus` and I just wanted to play `Mario Sunshine` or a demo I hadn't tried yet `Demon Tides`
+
+[![Thumbnail](img/thumbnails/20251018152255_1.jpg)](img/2025_oct/mrsleepyman/20251018152255_1.jpg)
+[![Thumbnail](img/thumbnails/20251018152347_1.jpg)](img/2025_oct/mrsleepyman/20251018152347_1.jpg)
+[![Thumbnail](img/thumbnails/20251018152625_1.jpg)](img/2025_oct/mrsleepyman/20251018152625_1.jpg)
+[![Thumbnail](img/thumbnails/20251018152708_1.jpg)](img/2025_oct/mrsleepyman/20251018152708_1.jpg)
+[![Thumbnail](img/thumbnails/20251018154659_1.jpg)](img/2025_oct/mrsleepyman/20251018154659_1.jpg)
+[![Thumbnail](img/thumbnails/20251018154732_1.jpg)](img/2025_oct/mrsleepyman/20251018154732_1.jpg)
+[![Thumbnail](img/thumbnails/20251018154743_1.jpg)](img/2025_oct/mrsleepyman/20251018154743_1.jpg)
+[![Thumbnail](img/thumbnails/20251018154835_1.jpg)](img/2025_oct/mrsleepyman/20251018154835_1.jpg)
 
 # No Players Online
 
