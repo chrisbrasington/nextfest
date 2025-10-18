@@ -11,6 +11,7 @@
 | [MOTORSLICE](#motorslice)                                 | 33 minutes      | YES           | action                                      |
 | [Neon Divide](#neon-divide)                               | 31 minutes      |               | gacha                                       |
 | [REANIMAL](#reanimal)                                     | 30 minutes      | YES           | horror                                      |
+| [Painkiller](#painkiller)                                 | 27 minutes      |               | fps,multiplayer                             |
 | [Crisol Theater of Idols Demo](#crisol-theater-of-idols-demo)| 19 minutes      |               | fps, horror                                 |
 | [Long Drive North: Co-Op RV Simulator Demo](#long-drive-north-co-op-rv-simulator-demo)      | 15 minutes      |               | survival                                    |
 | [Vital Shell Demo Disc](#vital-shell-demo-disc)           | 13 minutes      |               | survivors                                   |
@@ -18,6 +19,23 @@
 | [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
 | [Megabonk](#megabonk)                                     | 10 minutes      |               | survivors                                   |
 | [Sledding Game](#sledding-game)                           | 0 minutes       |               | horror                                      |
+
+# Painkiller
+
+- **Steam Page**: [Painkiller](https://store.steampowered.com/app/2300120/Painkiller/)
+- **Total Play Time**: 27 minutes
+- **Will Purchase**: 
+- **Type**: fps,multiplayer
+
+> 🕹️ **Description**: mid co-op
+> 
+> 👎  **Feedback**: You kill demons in pergatory. I was pretty bored actually I think cause it just puts you in a room and kill everything that spawns in until the door opens. It's multiplayer focused, so offline the 2 bots do everything. I couldn't see what was going on half the time. It tries to be Vermintide or co-op doom. Meh
+
+[![Thumbnail](img/thumbnails/20251018130623_1.jpg)](img/2025_oct/painkiller/20251018130623_1.jpg)
+[![Thumbnail](img/thumbnails/20251018131057_1.jpg)](img/2025_oct/painkiller/20251018131057_1.jpg)
+[![Thumbnail](img/thumbnails/20251018131610_1.jpg)](img/2025_oct/painkiller/20251018131610_1.jpg)
+[![Thumbnail](img/thumbnails/20251018132347_1.jpg)](img/2025_oct/painkiller/20251018132347_1.jpg)
+[![Thumbnail](img/thumbnails/20251018132920_1.jpg)](img/2025_oct/painkiller/20251018132920_1.jpg)
 
 # Final Sentence Demo
 
