@@ -3,7 +3,7 @@
 
 | Game Title                                                                          | Total Play Time | Will Purchase | Type                                        |
 |-------------------------------------------------------------------------------------|-----------------|---------------|---------------------------------------------|
-| [Final Sentence Demo](#final-sentence-demo)               | 49 minutes      |               | battle-royale,multiplayer,horror            |
+| [Final Sentence Demo](#final-sentence-demo)               | 65 minutes      |               | battle-royale,multiplayer,horror            |
 | [Odd Town](#odd-town)                                     | 48 minutes      | Probably      | simulation                                  |
 | [No Players Online](#no-players-online)                   | 47 minutes      |               | horror                                      |
 | [Heaven Does Not Respond](#heaven-does-not-respond)       | 41 minutes      |               | horror                                      |
@@ -30,9 +30,9 @@
 
 > 🕹️ **Description**: More creepypasta PC
 > 
-> 🫳  **Feedback**: Pretty similiar to [Heaven does not respond](#heaven-does-not-respond) in that this is a haunted PC where no one is online and you're downloading random crappy games from a dead forum. Only difference is there's a soul transfer program and seems to be someone trapped in a capture-the-flag game. I was able to combine two unrelated games, a cracked visual novel of a college student and "fishing with knives II" to make a game that had me walking a dog until the game broke. Or I got eaten.
+> 🫳  **Feedback**: Pretty similar to [Heaven does not respond](#heaven-does-not-respond) in that this is a haunted PC where no one is online and you're downloading random crappy games from a dead forum. Only difference is there's a soul transfer program and seems to be someone trapped in a capture-the-flag game. I was able to combine two unrelated games, a cracked visual novel of a college student and "fishing with knives II" to make a game that had me walking a dog until the game broke. Or I got eaten.
 > 
-> It's kinda neat and creepy but aritrarily guessing the next combination the game wanted me to do (I guess glowing means something) - I got stuck. It's possibly non-linear which makes it more like a puzzle - just a puzzle I'm not sure I have patience beyond this. 
+> It's kinda neat and creepy but arbitrarily guessing the next combination the game wanted me to do (I guess glowing means something) - I got stuck. It's possibly non-linear which makes it more like a puzzle - just a puzzle I'm not sure I have patience beyond this. 
 
 [![Thumbnail](img/thumbnails/20251018134959_1.jpg)](img/2025_oct/noplayersonline/20251018134959_1.jpg)
 [![Thumbnail](img/thumbnails/20251018135125_1.jpg)](img/2025_oct/noplayersonline/20251018135125_1.jpg)
@@ -65,7 +65,7 @@
 # Final Sentence Demo
 
 - **Steam Page**: [Final Sentence Demo](https://store.steampowered.com/app/4021860/Final_Sentence_Demo/)
-- **Total Play Time**: 49 minutes
+- **Total Play Time**: 6 minutes
 - **Will Purchase**: lol
 - **Type**: battle-royale,multiplayer,horrow
 
@@ -73,7 +73,7 @@
 > 
 > 👍👍  **Feedback**: Christ this is a fucked up game - that I'm really good at.
 > 
-> My average words-per-minute is consistently 75-80 WPM but accuracy 98%. My heart rate 100. I HAVE A 1/3 CHANCES OF WINNING ANY ROUND - which is insane for a 20 player battle royale-game. I won multiple times.
+> My average words-per-minute is consistently 75-80 WPM but accuracy 98%. My heart rate 100. I HAVE A 1/3 CHANCES OF WINNING ANY ROUND - which is insane for a 40 player battle royale-game. I won multiple times.
 > 
 > But I make a lot of dyslexic mistakes, and those reset the line. and 3 of those puts a bullet in the gun of russian-roulette. I literally think this game helps my dyslexia typing - I am not even joking. It's like I know see how speaking is going to come out spaeking with my fingers. 
 > 
