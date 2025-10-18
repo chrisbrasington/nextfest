@@ -32,7 +32,7 @@
 > 
 > 🫳  **Feedback**: Pretty similiar to [Heaven does not respond](#heaven-does-not-respond) in that this is a haunted PC where no one is online and you're downloading random crappy games from a dead forum. Only difference is there's a soul transfer program and seems to be someone trapped in a capture-the-flag game. I was able to combine two unrelated games, a cracked visual novel of a college student and "fishing with knives II" to make a game that had me walking a dog until the game broke. Or I got eaten.
 > 
-> It's kinda neat and creepy but aritrarily guessing the next combination the game wanted me to do (I guess glowing means something) - I got stuck. It's possibly non-linear which makes it more like a puzzle - just a puzzle I'm not sure I have interest beyond this. 
+> It's kinda neat and creepy but aritrarily guessing the next combination the game wanted me to do (I guess glowing means something) - I got stuck. It's possibly non-linear which makes it more like a puzzle - just a puzzle I'm not sure I have patience beyond this. 
 
 [![Thumbnail](img/thumbnails/20251018134959_1.jpg)](img/2025_oct/noplayersonline/20251018134959_1.jpg)
 [![Thumbnail](img/thumbnails/20251018135125_1.jpg)](img/2025_oct/noplayersonline/20251018135125_1.jpg)
