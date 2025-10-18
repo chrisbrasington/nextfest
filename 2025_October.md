@@ -30,13 +30,15 @@
 > 
 > 👍👍  **Feedback**: Christ this is a fucked up game - that I'm really good at.
 > 
-> My average words-per-minute is consistently 100. I HAVE A 1/3 CHANCES OF WINNING ANY ROUND - which is insane for a 30 player battle royale-game. I won multiple times.
+> My average words-per-minute is consistently 100. SO WAS MY HEART RATE. I HAVE A 1/3 CHANCES OF WINNING ANY ROUND - which is insane for a 30 player battle royale-game. I won multiple times.
 > 
 > But I make a lot of dyslexic mistakes, and those reset the line. and 3 of those puts a bullet in the gun of russian-roulette. I literally think this game helps my dyslexia typing - I am not even joking. It's like I know see how speaking is going to come out spaeking with my fingers. 
 > 
 > What's fucked up (aside from the imagry) is there was one of those jumbled sentences with a lot of mistakes, and I could type it "correctly" but the game makes you type it incorrectly - which I could not due. Dude won it at 66 WPM. 
 > 
 > A lot fo `Scheiße` in voice chat.
+> 
+> Millenials have an unfair advantage in this game, I AM CERTAIN. 
 
 [![Thumbnail](img/thumbnails/a.jpg)](img/2025_oct/finalsentence/a.jpg)
 [![Thumbnail](img/thumbnails/b.jpg)](img/2025_oct/finalsentence/b.jpg)
