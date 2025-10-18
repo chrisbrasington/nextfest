@@ -5,6 +5,7 @@
 |-------------------------------------------------------------------------------------|-----------------|---------------|---------------------------------------------|
 | [Final Sentence Demo](#final-sentence-demo)               | 49 minutes      |               | battle-royale,multiplayer,horror            |
 | [Odd Town](#odd-town)                                     | 48 minutes      | Probably      | simulation                                  |
+| [No Players Online](#no-players-online)                   | 47 minutes      |               | horror                                      |
 | [Heaven Does Not Respond](#heaven-does-not-respond)       | 41 minutes      |               | horror                                      |
 | [Homura Hime](#homura-hime)                             | 37 minutes      | Maaaaybe           | action                                      |
 | [House of Necrosis Demo](#house-of-necrosis-demo)         | 36 minutes      | Yes-leaning   | tactics, horror                             |
@@ -19,6 +20,30 @@
 | [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
 | [Megabonk](#megabonk)                                     | 10 minutes      |               | survivors                                   |
 | [Sledding Game](#sledding-game)                           | 0 minutes       |               | horror                                      |
+
+# No Players Online
+
+- **Steam Page**: [No Players Online](https://store.steampowered.com/app/2701800/No_Players_Online/)
+- **Total Play Time**: 47 minutes
+- **Will Purchase**: 
+- **Type**: horror
+
+> 🕹️ **Description**: More creepypasta PC
+> 
+> 🫳  **Feedback**: Pretty similiar to [Heaven does not respond](#heaven-does-not-respond) in that this is a haunted PC where no one is online and you're downloading random crappy games from a dead forum. Only difference is there's a soul transfer program and seems to be someone trapped in a capture-the-flag game. I was able to combine two unrelated games, a cracked visual novel of a college student and "fishing with knives II" to make a game that had me walking a dog until the game broke. Or I got eaten.
+> 
+> It's kinda neat and creepy but aritrarily guessing the next combination the game wanted me to do (I guess glowing means something) - I got stuck. It's possibly non-linear which makes it more like a puzzle - just a puzzle I'm not sure I have interest beyond this. 
+
+[![Thumbnail](img/thumbnails/20251018134959_1.jpg)](img/2025_oct/noplayersonline/20251018134959_1.jpg)
+[![Thumbnail](img/thumbnails/20251018135125_1.jpg)](img/2025_oct/noplayersonline/20251018135125_1.jpg)
+[![Thumbnail](img/thumbnails/20251018135136_1.jpg)](img/2025_oct/noplayersonline/20251018135136_1.jpg)
+[![Thumbnail](img/thumbnails/20251018135220_1.jpg)](img/2025_oct/noplayersonline/20251018135220_1.jpg)
+[![Thumbnail](img/thumbnails/20251018135820_1.jpg)](img/2025_oct/noplayersonline/20251018135820_1.jpg)
+[![Thumbnail](img/thumbnails/20251018140225_1.jpg)](img/2025_oct/noplayersonline/20251018140225_1.jpg)
+[![Thumbnail](img/thumbnails/20251018140310_1.jpg)](img/2025_oct/noplayersonline/20251018140310_1.jpg)
+[![Thumbnail](img/thumbnails/20251018140500_1.jpg)](img/2025_oct/noplayersonline/20251018140500_1.jpg)
+[![Thumbnail](img/thumbnails/20251018140557_1.jpg)](img/2025_oct/noplayersonline/20251018140557_1.jpg)
+[![Thumbnail](img/thumbnails/20251018140612_1.jpg)](img/2025_oct/noplayersonline/20251018140612_1.jpg)
 
 # Painkiller
 
