@@ -23,14 +23,14 @@
 
 - **Steam Page**: [Final Sentence Demo](https://store.steampowered.com/app/4021860/Final_Sentence_Demo/)
 - **Total Play Time**: 49 minutes
-- **Will Purchase**: 
+- **Will Purchase**: lol
 - **Type**: battle-royale,multiplayer,horrow
 
 > 🕹️ **Description**: Typing battle-royale
 > 
 > 👍👍  **Feedback**: Christ this is a fucked up game - that I'm really good at.
 > 
-> My average words-per-minute is consistently 100. SO WAS MY HEART RATE. I HAVE A 1/3 CHANCES OF WINNING ANY ROUND - which is insane for a 30 player battle royale-game. I won multiple times.
+> My average words-per-minute is consistently 100. SO WAS MY HEART RATE. I HAVE A 1/3 CHANCES OF WINNING ANY ROUND - which is insane for a 20 player battle royale-game. I won multiple times.
 > 
 > But I make a lot of dyslexic mistakes, and those reset the line. and 3 of those puts a bullet in the gun of russian-roulette. I literally think this game helps my dyslexia typing - I am not even joking. It's like I know see how speaking is going to come out spaeking with my fingers. 
 > 
