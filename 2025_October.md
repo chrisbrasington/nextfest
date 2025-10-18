@@ -30,7 +30,7 @@
 > 
 > 👍👍  **Feedback**: Christ this is a fucked up game - that I'm really good at.
 > 
-> My average words-per-minute is consistently 100. SO WAS MY HEART RATE. I HAVE A 1/3 CHANCES OF WINNING ANY ROUND - which is insane for a 20 player battle royale-game. I won multiple times.
+> My average words-per-minute is consistently 75-80 WPM but accuracy 98%. My heart rate 100. I HAVE A 1/3 CHANCES OF WINNING ANY ROUND - which is insane for a 20 player battle royale-game. I won multiple times.
 > 
 > But I make a lot of dyslexic mistakes, and those reset the line. and 3 of those puts a bullet in the gun of russian-roulette. I literally think this game helps my dyslexia typing - I am not even joking. It's like I know see how speaking is going to come out spaeking with my fingers. 
 > 
