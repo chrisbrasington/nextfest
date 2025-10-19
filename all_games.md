@@ -1,4 +1,8 @@
-**Total Games:** 219  |  **Total Hours Played:** 86.3 |  **Liked:** 83
+## 🎮 Game Collection Summary
+
+- **Total Games Played:** 219
+- **Total Hours Played:** 86.3 hrs ⏱️
+- **Liked Games:** 83 👍
 
 | Game Name | When Played | Total Play Time | Liked | Steam Link |
 |-----------|------------|----------------|-------|------------|
