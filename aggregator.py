@@ -11,16 +11,14 @@ def clean_title(title):
     """Remove thumbs up/down and extra whitespace"""
     return re.sub(r'[👍👎]', '', title).strip()
 
-def extract_steam_link_after(text, start_pos):
-    """Find first Steam URL after start_pos ignoring images and blockquotes"""
-    lines = text[start_pos:].splitlines()
-    for line in lines:
-        line = line.strip()
-        if line.startswith('![') or line.startswith('>'):
-            continue
-        match = re.search(r'https://store\.steampowered\.com/app/(\d+)/.+?/', line)
-        if match:
-            return match.group(0)
+def get_steam_header_image(steam_link):
+    """Return the Steam header image URL from Steam link"""
+    if not steam_link:
+        return ""
+    match = re.search(r'/app/(\d+)', steam_link)
+    if match:
+        app_id = match.group(1)
+        return f"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/{app_id}/header.jpg"
     return ""
 
 def extract_playtime_after(text, start_pos):
@@ -28,11 +26,11 @@ def extract_playtime_after(text, start_pos):
     lines = text[start_pos:].splitlines()
     for line in lines:
         line = line.strip()
-        # look for ~XX minutes
+        # ~XX minutes
         match = re.search(r'~\s*(\d+(\.\d+)?)\s*minutes', line, re.IGNORECASE)
         if match:
             return f"{match.group(1)} minutes"
-        # look for ~X.Y hours
+        # ~X.Y hours
         match = re.search(r'~\s*(\d+(\.\d+)?)\s*hour', line, re.IGNORECASE)
         if match:
             hours = float(match.group(1))
@@ -42,7 +40,7 @@ def extract_playtime_after(text, start_pos):
 
 def extract_liked(text, start_pos):
     """Detect if user liked the game"""
-    snippet = text[start_pos:start_pos+300].lower()  # first 300 chars
+    snippet = text[start_pos:start_pos+300].lower()
     if '👍' in snippet or 'like' in snippet or 'recommended' in snippet:
         return 'YES'
     return ''
@@ -64,13 +62,16 @@ def playtime_to_minutes(playtime_str):
             return 0
     return 0
 
-def get_steam_header_image(steam_link):
-    """Return the Steam header image URL from Steam link"""
-    match = re.search(r'/app/(\d+)/', steam_link)
-    if match:
-        app_id = match.group(1)
-        return f"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/{app_id}/header.jpg"
-    return ""
+def extract_steam_link_for_header(text, start_pos):
+    """
+    Extract the Steam link for a header+free-text game.
+    Stops at the next header.
+    Accepts links with or without trailing slash or name.
+    """
+    end_pos = text.find("\n# ", start_pos + 1)
+    snippet = text[start_pos:end_pos] if end_pos != -1 else text[start_pos:]
+    match = re.search(r'https://store\.steampowered\.com/app/(\d+)(?:/[^ \n]*)?/?', snippet)
+    return match.group(0) if match else ""
 
 for file_path in FILES:
     file_name = Path(file_path).name
@@ -79,29 +80,25 @@ for file_path in FILES:
 
     when_played = file_name.replace(".md", "").replace("_", " ")
 
-    # Detect if file has table (2024+)
-    table_rows = re.findall(r'\| \[([^\]]+)\]\([^)]+\)\s*\| ([^\|]*) \|', content)
+    # Detect table (2024+)
+    table_rows = re.findall(r'\| \[([^\]]+)\]\(([^)]+)\)\s*\| ([^\|]*) \|', content)
     if table_rows:
-        # Table format
-        for game_name, playtime in table_rows:
+        # Table format: use link from table itself
+        for game_name, link, playtime in table_rows:
             game_name_clean = clean_title(game_name)
-            pattern = rf'# {re.escape(game_name)}'
-            match = re.search(pattern, content)
-            start_pos = match.start() if match else 0
-            steam_link = extract_steam_link_after(content, start_pos)
-            liked = extract_liked(content, start_pos)
-            header_image = get_steam_header_image(steam_link)
-            games.append((game_name_clean, when_played, playtime.strip(), liked, steam_link, header_image))
+            liked = extract_liked(content, content.find(f"[{game_name}]({link})"))
+            header_image = get_steam_header_image(link)
+            games.append((game_name_clean, when_played, playtime.strip(), liked, link, header_image))
     else:
         # Header + free text format
         headers = re.findall(r'^# (.+)$', content, re.MULTILINE)
         for game_name in headers:
             game_name_clean = clean_title(game_name)
             start_pos = content.find(f"# {game_name}")
-            steam_link = extract_steam_link_after(content, start_pos)
+            steam_link = extract_steam_link_for_header(content, start_pos)
+            header_image = get_steam_header_image(steam_link)
             playtime = extract_playtime_after(content, start_pos)
             liked = extract_liked(content, start_pos)
-            header_image = get_steam_header_image(steam_link)
             games.append((game_name_clean, when_played, playtime, liked, steam_link, header_image))
 
 # Remove duplicates (same name + Steam link)
@@ -119,18 +116,19 @@ unique_games.sort(key=lambda x: x[0].lower())
 # Summary
 total_games = len(unique_games)
 total_minutes = sum(playtime_to_minutes(g[2]) for g in unique_games)
-total_hours = round(total_minutes / 60, 1)  # convert to hours
+total_hours = round(total_minutes / 60, 1)
 total_liked = sum(1 for g in unique_games if g[3] == 'YES')
 
-# Pretty summary at top
+# Web-style summary
 summary = (
     f"## 🎮 Game Collection Summary\n\n"
-    f"- **Total Games Played:** {total_games}\n"
-    f"- **Total Hours Played:** {total_hours} hrs ⏱️\n"
-    f"- **Liked Games:** {total_liked} 👍\n"
+    f"**🕹️ Total Games:** {total_games}  |  "
+    f"⏱️ Total Hours Played: {total_hours} hrs  |  "
+    f"👍 Liked Games: {total_liked}\n\n"
+    f"---\n"
 )
 
-# Markdown table with Cover column
+# Markdown table with cover column
 output = [summary,
           "| Cover | Game Name | When Played | Total Play Time | Liked | Steam Link |",
           "|-------|-----------|------------|----------------|-------|------------|"]
