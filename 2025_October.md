@@ -4,13 +4,13 @@
 | Game Title                                                                          | Total Play Time | Will Purchase | Type                                        |
 |-------------------------------------------------------------------------------------|-----------------|---------------|---------------------------------------------|
 | [Demon Tides Demo](#demon-tides-demo)                     | 112 minutes     | YES           | platformer                                  |
-| [Beyond the Doors](#beyond-the-doors)                     | 89 minutes      |               | horror,mystery                              |
-| [Final Sentence Demo](#final-sentence-demo)               | 65 minutes      | lol           | battle-royale,multiplayer,horror            |
-| [Odd Town](#odd-town)                                     | 48 minutes      | Probably      | simulation                                  |
-| [Skate Story](#skate-story)                               | 48 minutes      |               | skateboarding                               |
+| [Beyond the Doors](#beyond-the-doors)                     | 89 minutes      | so-so         | horror,mystery                              |
+| [Final Sentence Demo](#final-sentence-demo)               | 65 minutes      |               | battle-royale,multiplayer,horror            |
+| [Odd Town](#odd-town)                                     | 48 minutes      | so-so         | simulation                                  |
+| [Skate Story](#skate-story)                               | 48 minutes      | YES           | skateboarding                               |
 | [No Players Online](#no-players-online)                   | 47 minutes      |               | horror                                      |
 | [Heaven Does Not Respond](#heaven-does-not-respond)       | 41 minutes      |               | horror                                      |
-| [Homura Hime](#homura-hime)                             | 37 minutes      | Maaaaybe           | action                                      |
+| [Homura Hime](#homura-hime)                               | 37 minutes      | so-so         | action                                      |
 | [House of Necrosis Demo](#house-of-necrosis-demo)         | 36 minutes      | Yes-leaning   | tactics, horror                             |
 | [Mr Sleepy Man](#mr-sleepy-man)                           | 34 minutes      |               | platformer                                  |
 | [MOTORSLICE](#motorslice)                                 | 33 minutes      | YES           | action                                      |
@@ -18,13 +18,12 @@
 | [REANIMAL](#reanimal)                                     | 30 minutes      | YES           | horror                                      |
 | [Painkiller](#painkiller)                                 | 27 minutes      |               | fps,multiplayer                             |
 | [Primal Echo Demo](#primal-echo-demo)                     | 26 minutes      |               | platformer                                  |
-| [Crisol Theater of Idols Demo](#crisol-theater-of-idols-demo)| 19 minutes      |               | fps, horror                                 |
+| [Crisol Theater of Idols Demo](#crisol-theater-of-idols-demo)| 19 minutes   |               | fps, horror                                 |
 | [Long Drive North: Co-Op RV Simulator Demo](#long-drive-north-co-op-rv-simulator-demo)      | 15 minutes      |               | survival                                    |
 | [Vital Shell Demo Disc](#vital-shell-demo-disc)           | 13 minutes      |               | survivors                                   |
 | [Spilled](#spilled)                                       | 12 minutes      |               | cozy                                        |                   |
 | [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
 | [Megabonk](#megabonk)                                     | 10 minutes      |               | survivors                                   |
-| [Sledding Game](#sledding-game)                           | 0 minutes       |               | horror                                      |
 
 # Primal Echo Demo
 
@@ -512,17 +511,6 @@
 [![Thumbnail](img/thumbnails/20251013224209_1.jpg)](img/2025_oct/heaven/20251013224209_1.jpg)
 [![Thumbnail](img/thumbnails/20251013224242_1.jpg)](img/2025_oct/heaven/20251013224242_1.jpg)
 [![Thumbnail](img/thumbnails/20251013224251_1.jpg)](img/2025_oct/heaven/20251013224251_1.jpg)
-
-# Sledding Game
-
-- **Steam Page**: [Sledding Game](https://store.steampowered.com/app/3438850/Sledding_Game/)
-- **Total Play Time**: 0 minutes
-- **Will Purchase**: 
-- **Type**: horror
-
-> 🕹️ **Description**: Didn't launch. I missed the demo from last time. Cleared harddrive space. Probably cool. 0/10.
-
-[![Thumbnail](img/thumbnails/sledding.png)](img/2025_oct/sledding.png)
 
 # Long Drive North: Co-Op RV Simulator Demo
 
