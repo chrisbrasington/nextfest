@@ -3,6 +3,7 @@
 
 | Game Title                                                                          | Total Play Time | Will Purchase | Type                                        |
 |-------------------------------------------------------------------------------------|-----------------|---------------|---------------------------------------------|
+| [Demon Tides Demo](#demon-tides-demo)                     | 112 minutes     | YES           | platformer                                  |
 | [Final Sentence Demo](#final-sentence-demo)               | 65 minutes      |               | battle-royale,multiplayer,horror            |
 | [Odd Town](#odd-town)                                     | 48 minutes      | Probably      | simulation                                  |
 | [No Players Online](#no-players-online)                   | 47 minutes      |               | horror                                      |
@@ -21,6 +22,40 @@
 | [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
 | [Megabonk](#megabonk)                                     | 10 minutes      |               | survivors                                   |
 | [Sledding Game](#sledding-game)                           | 0 minutes       |               | horror                                      |
+
+# Demon Tides Demo
+
+- **Steam Page**: [Demon Tides Demo](https://store.steampowered.com/app/3477260/Demon_Tides_Demo/)
+- **Total Play Time**: 112 minutes
+- **Will Purchase**: YES
+- **Type**: platformer
+
+> 🕹️ **Description**: FANTASTIC PLATFORMER
+> 
+> 👍👍👍  **Feedback**: I knew of the platformer `Demon Turf` but hadn't played it. That'll change. This is the sequel `Demon Tides` now with 3D character models instead of sprites.
+> 
+> This game excells in so many things. We're talking rivaling mario here. When you jump, you basically have a double jump + bat glide - it's very long but the jumps are spaced out long too. To get around the world fast, your snake form just f-ing zooms across land and water.
+> 
+> I love that you can put a checkpoint flag anywhere and warp back. If you get stuck on a particular hard area, you don't have to repeat it. 
+> 
+> I love how the world is windwaker-open-world with islands akin to Mario Bowser's Fury. 
+>
+> This is really, REALLY good. 
+
+[![Thumbnail](img/thumbnails/20251018160200_1.jpg)](img/2025_oct/demontides/20251018160200_1.jpg)
+[![Thumbnail](img/thumbnails/20251018160405_1.jpg)](img/2025_oct/demontides/20251018160405_1.jpg)
+[![Thumbnail](img/thumbnails/20251018160749_1.jpg)](img/2025_oct/demontides/20251018160749_1.jpg)
+[![Thumbnail](img/thumbnails/20251018160755_1.jpg)](img/2025_oct/demontides/20251018160755_1.jpg)
+[![Thumbnail](img/thumbnails/20251018162146_1.jpg)](img/2025_oct/demontides/20251018162146_1.jpg)
+[![Thumbnail](img/thumbnails/20251018162420_1.jpg)](img/2025_oct/demontides/20251018162420_1.jpg)
+[![Thumbnail](img/thumbnails/20251018162613_1.jpg)](img/2025_oct/demontides/20251018162613_1.jpg)
+[![Thumbnail](img/thumbnails/20251018165345_1.jpg)](img/2025_oct/demontides/20251018165345_1.jpg)
+[![Thumbnail](img/thumbnails/20251018165531_1.jpg)](img/2025_oct/demontides/20251018165531_1.jpg)
+[![Thumbnail](img/thumbnails/20251018165610_1.jpg)](img/2025_oct/demontides/20251018165610_1.jpg)
+[![Thumbnail](img/thumbnails/20251018172549_1.jpg)](img/2025_oct/demontides/20251018172549_1.jpg)
+[![Thumbnail](img/thumbnails/20251018172615_1.jpg)](img/2025_oct/demontides/20251018172615_1.jpg)
+[![Thumbnail](img/thumbnails/20251018174102_1.jpg)](img/2025_oct/demontides/20251018174102_1.jpg)
+[![Thumbnail](img/thumbnails/20251018175159_1.jpg)](img/2025_oct/demontides/20251018175159_1.jpg)
 
 # Mr Sleepy Man
 
