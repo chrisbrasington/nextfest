@@ -6,6 +6,7 @@
 | [Demon Tides Demo](#demon-tides-demo)                     | 112 minutes     | YES           | platformer                                  |
 | [Final Sentence Demo](#final-sentence-demo)               | 65 minutes      | lol           | battle-royale,multiplayer,horror            |
 | [Odd Town](#odd-town)                                     | 48 minutes      | Probably      | simulation                                  |
+| [Skate Story](#skate-story)                               | 48 minutes      |               | skateboarding                               |
 | [No Players Online](#no-players-online)                   | 47 minutes      |               | horror                                      |
 | [Heaven Does Not Respond](#heaven-does-not-respond)       | 41 minutes      |               | horror                                      |
 | [Homura Hime](#homura-hime)                             | 37 minutes      | Maaaaybe           | action                                      |
@@ -22,6 +23,49 @@
 | [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
 | [Megabonk](#megabonk)                                     | 10 minutes      |               | survivors                                   |
 | [Sledding Game](#sledding-game)                           | 0 minutes       |               | horror                                      |
+
+# Skate Story
+
+- **Steam Page**: [Skate Story](https://store.steampowered.com/app/1263240/Skate_Story/)
+- **Total Play Time**: 48 minutes
+- **Will Purchase**: 
+- **Type**: skateboarding
+
+> 🕹️ **Description**: I too would sign a demonic contract to be made of glass if it were the only way I could skateboard. 
+> 
+> 👍👍👍  **Feedback**: *heavy breathing*
+>  
+> Somehow not only is this the a realistic skateboarding game, it's.. philosophical?
+> 
+> I think you're dead (might have missed something) - but you can skate if you're under contract and turned to glass. Your quest is to eat the moon. It makes more sense than I'm going to try to explain. You wind up battling a phislopher to see the beauty in your skateboarding quest.
+> 
+> The music is phenominal, gameplay, atmosphere - everything. So so great. 
+
+[![Thumbnail](img/thumbnails/20251018190007_1.jpg)](img/2025_oct/skatestory/20251018190007_1.jpg)
+[![Thumbnail](img/thumbnails/20251018190121_1.jpg)](img/2025_oct/skatestory/20251018190121_1.jpg)
+[![Thumbnail](img/thumbnails/20251018190153_1.jpg)](img/2025_oct/skatestory/20251018190153_1.jpg)
+[![Thumbnail](img/thumbnails/20251018190427_1.jpg)](img/2025_oct/skatestory/20251018190427_1.jpg)
+[![Thumbnail](img/thumbnails/20251018190552_1.jpg)](img/2025_oct/skatestory/20251018190552_1.jpg)
+[![Thumbnail](img/thumbnails/20251018190644_1.jpg)](img/2025_oct/skatestory/20251018190644_1.jpg)
+[![Thumbnail](img/thumbnails/20251018190918_1.jpg)](img/2025_oct/skatestory/20251018190918_1.jpg)
+[![Thumbnail](img/thumbnails/20251018190955_1.jpg)](img/2025_oct/skatestory/20251018190955_1.jpg)
+[![Thumbnail](img/thumbnails/20251018191041_1.jpg)](img/2025_oct/skatestory/20251018191041_1.jpg)
+[![Thumbnail](img/thumbnails/20251018191137_1.jpg)](img/2025_oct/skatestory/20251018191137_1.jpg)
+[![Thumbnail](img/thumbnails/20251018191142_1.jpg)](img/2025_oct/skatestory/20251018191142_1.jpg)
+[![Thumbnail](img/thumbnails/20251018191250_1.jpg)](img/2025_oct/skatestory/20251018191250_1.jpg)
+[![Thumbnail](img/thumbnails/20251018192004_1.jpg)](img/2025_oct/skatestory/20251018192004_1.jpg)
+[![Thumbnail](img/thumbnails/20251018192150_1.jpg)](img/2025_oct/skatestory/20251018192150_1.jpg)
+[![Thumbnail](img/thumbnails/20251018192634_1.jpg)](img/2025_oct/skatestory/20251018192634_1.jpg)
+[![Thumbnail](img/thumbnails/20251018193022_1.jpg)](img/2025_oct/skatestory/20251018193022_1.jpg)
+[![Thumbnail](img/thumbnails/20251018193104_1.jpg)](img/2025_oct/skatestory/20251018193104_1.jpg)
+[![Thumbnail](img/thumbnails/20251018193256_1.jpg)](img/2025_oct/skatestory/20251018193256_1.jpg)
+[![Thumbnail](img/thumbnails/20251018194041_1.jpg)](img/2025_oct/skatestory/20251018194041_1.jpg)
+[![Thumbnail](img/thumbnails/20251018194115_1.jpg)](img/2025_oct/skatestory/20251018194115_1.jpg)
+[![Thumbnail](img/thumbnails/20251018194128_1.jpg)](img/2025_oct/skatestory/20251018194128_1.jpg)
+[![Thumbnail](img/thumbnails/20251018194339_1.jpg)](img/2025_oct/skatestory/20251018194339_1.jpg)
+[![Thumbnail](img/thumbnails/20251018194353_1.jpg)](img/2025_oct/skatestory/20251018194353_1.jpg)
+[![Thumbnail](img/thumbnails/20251018194440_1.jpg)](img/2025_oct/skatestory/20251018194440_1.jpg)
+[![Thumbnail](img/thumbnails/20251018194446_1.jpg)](img/2025_oct/skatestory/20251018194446_1.jpg)
 
 # Demon Tides Demo
 
