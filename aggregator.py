@@ -18,7 +18,7 @@ def extract_steam_link_after(text, start_pos):
         line = line.strip()
         if line.startswith('![') or line.startswith('>'):
             continue
-        match = re.search(r'https://store\.steampowered\.com/app/\d+/.+?/', line)
+        match = re.search(r'https://store\.steampowered\.com/app/(\d+)/.+?/', line)
         if match:
             return match.group(0)
     return ""
@@ -64,6 +64,14 @@ def playtime_to_minutes(playtime_str):
             return 0
     return 0
 
+def get_steam_header_image(steam_link):
+    """Return the Steam header image URL from Steam link"""
+    match = re.search(r'/app/(\d+)/', steam_link)
+    if match:
+        app_id = match.group(1)
+        return f"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/{app_id}/header.jpg"
+    return ""
+
 for file_path in FILES:
     file_name = Path(file_path).name
     with open(file_path, encoding="utf-8") as f:
@@ -82,7 +90,8 @@ for file_path in FILES:
             start_pos = match.start() if match else 0
             steam_link = extract_steam_link_after(content, start_pos)
             liked = extract_liked(content, start_pos)
-            games.append((game_name_clean, when_played, playtime.strip(), liked, steam_link))
+            header_image = get_steam_header_image(steam_link)
+            games.append((game_name_clean, when_played, playtime.strip(), liked, steam_link, header_image))
     else:
         # Header + free text format
         headers = re.findall(r'^# (.+)$', content, re.MULTILINE)
@@ -92,7 +101,8 @@ for file_path in FILES:
             steam_link = extract_steam_link_after(content, start_pos)
             playtime = extract_playtime_after(content, start_pos)
             liked = extract_liked(content, start_pos)
-            games.append((game_name_clean, when_played, playtime, liked, steam_link))
+            header_image = get_steam_header_image(steam_link)
+            games.append((game_name_clean, when_played, playtime, liked, steam_link, header_image))
 
 # Remove duplicates (same name + Steam link)
 seen = set()
@@ -120,12 +130,14 @@ summary = (
     f"- **Liked Games:** {total_liked} 👍\n"
 )
 
+# Markdown table with Cover column
 output = [summary,
-          "| Game Name | When Played | Total Play Time | Liked | Steam Link |",
-          "|-----------|------------|----------------|-------|------------|"]
+          "| Cover | Game Name | When Played | Total Play Time | Liked | Steam Link |",
+          "|-------|-----------|------------|----------------|-------|------------|"]
 
-for name, when, playtime, liked, link in unique_games:
-    output.append(f"| [{name}]({link}) | {when} | {playtime} | {liked} | {link} |")
+for name, when, playtime, liked, link, header_img in unique_games:
+    cover_md = f"![{name}]({header_img})" if header_img else ""
+    output.append(f"| {cover_md} | [{name}]({link}) | {when} | {playtime} | {liked} | {link} |")
 
 with open("all_games.md", "w", encoding="utf-8") as f:
     f.write("\n".join(output))
