@@ -4,7 +4,7 @@
 | Game Title                                                                          | Total Play Time | Will Purchase | Type                                        |
 |-------------------------------------------------------------------------------------|-----------------|---------------|---------------------------------------------|
 | [Demon Tides Demo](#demon-tides-demo)                     | 112 minutes     | YES           | platformer                                  |
-| [Final Sentence Demo](#final-sentence-demo)               | 65 minutes      |               | battle-royale,multiplayer,horror            |
+| [Final Sentence Demo](#final-sentence-demo)               | 65 minutes      | lol           | battle-royale,multiplayer,horror            |
 | [Odd Town](#odd-town)                                     | 48 minutes      | Probably      | simulation                                  |
 | [No Players Online](#no-players-online)                   | 47 minutes      |               | horror                                      |
 | [Heaven Does Not Respond](#heaven-does-not-respond)       | 41 minutes      |               | horror                                      |
@@ -39,7 +39,7 @@
 > I love that you can put a checkpoint flag anywhere and warp back. If you get stuck on a particular hard area, you don't have to repeat it. 
 > 
 > I love how the world is windwaker-open-world with islands akin to Mario Bowser's Fury. 
->
+> 
 > This is really, REALLY good. 
 
 [![Thumbnail](img/thumbnails/20251018160200_1.jpg)](img/2025_oct/demontides/20251018160200_1.jpg)
