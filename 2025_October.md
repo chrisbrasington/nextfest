@@ -17,6 +17,7 @@
 | [Neon Divide](#neon-divide)                               | 31 minutes      |               | gacha                                       |
 | [REANIMAL](#reanimal)                                     | 30 minutes      | YES           | horror                                      |
 | [Painkiller](#painkiller)                                 | 27 minutes      |               | fps,multiplayer                             |
+| [Primal Echo Demo](#primal-echo-demo)                     | 26 minutes      |               | platformer                                  |
 | [Crisol Theater of Idols Demo](#crisol-theater-of-idols-demo)| 19 minutes      |               | fps, horror                                 |
 | [Long Drive North: Co-Op RV Simulator Demo](#long-drive-north-co-op-rv-simulator-demo)      | 15 minutes      |               | survival                                    |
 | [Vital Shell Demo Disc](#vital-shell-demo-disc)           | 13 minutes      |               | survivors                                   |
@@ -24,6 +25,34 @@
 | [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
 | [Megabonk](#megabonk)                                     | 10 minutes      |               | survivors                                   |
 | [Sledding Game](#sledding-game)                           | 0 minutes       |               | horror                                      |
+
+# Primal Echo Demo
+
+- **Steam Page**: [Primal Echo Demo](https://store.steampowered.com/app/4060770/Primal_Echo_Demo/)
+- **Total Play Time**: 26 minutes
+- **Will Purchase**: 
+- **Type**: platformer
+
+> 🕹️ **Description**: Climb the dystopian future
+> 
+> 👍  **Feedback**: I haven't played [Lorn's Lure](https://store.steampowered.com/app/1417930/Lorns_Lure/) (ah shit there's a demo) - but climbing giant dystopic, metalltic structures has been on my radar in a sort of opposite of [Peak](https://store.steampowered.com/app/3527290/PEAK/).
+> 
+> I believe you're born from a mushroom.. like a human construct of what a mushroom thinks a human was like. There's some fruit and birds and "primal" things, but you're traversing an endless metal structures. Very dyson-sphere [Blame! (manga)](https://duckduckgo.com/?t=ffab&q=blame+manga&ia=images&iax=images) vibes. 
+> 
+> The controls are.. weird, but I kinda get what the 3 indie devs were going for. They're not intuitive but they work. I like how you can die but mostly the mushroom saves you from falls into the void. Doesn't save you falling to the floor I think, but you just revive.. er.. reconstruct?
+> 
+> I kinda dig it. Unpolished but in a way that makes movement skill based rather than forgiving. 
+> 
+> I did that it's clearly a metroidvania. There were MANY sprawling pathways that were "OUT OF DEMO" bounds and that was cool. I wound back at the beginning (secret passage) and quit cause I wasn't sure where to go next. 
+
+[![Thumbnail](img/thumbnails/20251019003343_1.jpg)](img/2025_oct/primalecho/20251019003343_1.jpg)
+[![Thumbnail](img/thumbnails/20251019003444_1.jpg)](img/2025_oct/primalecho/20251019003444_1.jpg)
+[![Thumbnail](img/thumbnails/20251019003945_1.jpg)](img/2025_oct/primalecho/20251019003945_1.jpg)
+[![Thumbnail](img/thumbnails/20251019004020_1.jpg)](img/2025_oct/primalecho/20251019004020_1.jpg)
+[![Thumbnail](img/thumbnails/20251019004215_1.jpg)](img/2025_oct/primalecho/20251019004215_1.jpg)
+[![Thumbnail](img/thumbnails/20251019004402_1.jpg)](img/2025_oct/primalecho/20251019004402_1.jpg)
+[![Thumbnail](img/thumbnails/20251019004906_1.jpg)](img/2025_oct/primalecho/20251019004906_1.jpg)
+[![Thumbnail](img/thumbnails/20251019005700_1.jpg)](img/2025_oct/primalecho/20251019005700_1.jpg)
 
 # Beyond the Doors
 
