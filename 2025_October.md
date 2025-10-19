@@ -5,7 +5,7 @@
 |-------------------------------------------------------------------------------------|-----------------|---------------|---------------------------------------------|
 | [Demon Tides Demo](#demon-tides-demo)                     | 112 minutes     | YES           | platformer                                  |
 | [Beyond the Doors](#beyond-the-doors)                     | 89 minutes      | so-so         | horror,mystery                              |
-| [Final Sentence Demo](#final-sentence-demo)               | 65 minutes      |               | battle-royale,multiplayer,horror            |
+| [Final Sentence Demo](#final-sentence-demo)               | 77 minutes      |               | battle-royale,multiplayer,horror            |
 | [Lorns Lure](#lorns-lure)                                 | 51 minutes      |               | climbing                                    |
 | [Odd Town](#odd-town)                                     | 48 minutes      | so-so         | simulation                                  |
 | [Skate Story](#skate-story)                               | 48 minutes      | YES           | skateboarding                               |
