@@ -6,6 +6,7 @@
 | [Demon Tides Demo](#demon-tides-demo)                     | 112 minutes     | YES           | platformer                                  |
 | [Beyond the Doors](#beyond-the-doors)                     | 89 minutes      | so-so         | horror,mystery                              |
 | [Final Sentence Demo](#final-sentence-demo)               | 65 minutes      |               | battle-royale,multiplayer,horror            |
+| [Lorns Lure](#lorns-lure)                                 | 51 minutes      |               | climbing                                    |
 | [Odd Town](#odd-town)                                     | 48 minutes      | so-so         | simulation                                  |
 | [Skate Story](#skate-story)                               | 48 minutes      | YES           | skateboarding                               |
 | [No Players Online](#no-players-online)                   | 47 minutes      |               | horror                                      |
@@ -24,6 +25,45 @@
 | [Spilled](#spilled)                                       | 12 minutes      |               | cozy                                        |                   |
 | [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
 | [Megabonk](#megabonk)                                     | 10 minutes      |               | survivors                                   |
+
+# Lorns Lure
+
+- **Steam Page**: [Lorns Lure](https://store.steampowered.com/app/1417930/Lorns_Lure/)
+- **Total Play Time**: 51 minutes
+- **Will Purchase**: 
+- **Type**: climbing
+
+> 🕹️ **Description**: Climbing the ole' dyson sphere. I think Blame! is my favorite manga.
+> 
+> 👍👍👍  **Feedback**: I knew about this one when PEAK came out. I was worried it would be unforgiving like `Getting Over It with Bennett Foddy` - it's actually even more forgiving than PEAK cause you just reload where you last fell (or restart further back) - and it has hint points to navigate to.
+> 
+> It's still challenging. You have limited stamina on your pickaxes. Some parkour slide, jump, grab is involved. 
+> 
+> The atmosphere (ambient sounds, music, graphics, logs) is impeccable. Something about the graphics of the half-life/morrowind early 2000s on a scale those engines could not do - is just phenomenal if not my favorite area of gaming currently (see `Abiotic Factor` in that graphical old-modern sense).
+> 
+> The sense of scale is awesome. You fall FOREVER.. almost.
+> 
+> This is a must purchase. I'm just glad it turned out to be everything I was hoping it was. 
+
+[![Thumbnail](img/thumbnails/20251019111546_1.jpg)](img/2025_oct/lornslure/20251019111546_1.jpg)
+[![Thumbnail](img/thumbnails/20251019111559_1.jpg)](img/2025_oct/lornslure/20251019111559_1.jpg)
+[![Thumbnail](img/thumbnails/20251019111615_1.jpg)](img/2025_oct/lornslure/20251019111615_1.jpg)
+[![Thumbnail](img/thumbnails/20251019111951_1.jpg)](img/2025_oct/lornslure/20251019111951_1.jpg)
+[![Thumbnail](img/thumbnails/20251019112159_1.jpg)](img/2025_oct/lornslure/20251019112159_1.jpg)
+[![Thumbnail](img/thumbnails/20251019112436_1.jpg)](img/2025_oct/lornslure/20251019112436_1.jpg)
+[![Thumbnail](img/thumbnails/20251019112609_1.jpg)](img/2025_oct/lornslure/20251019112609_1.jpg)
+[![Thumbnail](img/thumbnails/20251019112711_1.jpg)](img/2025_oct/lornslure/20251019112711_1.jpg)
+[![Thumbnail](img/thumbnails/20251019112842_1.jpg)](img/2025_oct/lornslure/20251019112842_1.jpg)
+[![Thumbnail](img/thumbnails/20251019113304_1.jpg)](img/2025_oct/lornslure/20251019113304_1.jpg)
+[![Thumbnail](img/thumbnails/20251019113329_1.jpg)](img/2025_oct/lornslure/20251019113329_1.jpg)
+[![Thumbnail](img/thumbnails/20251019113835_1.jpg)](img/2025_oct/lornslure/20251019113835_1.jpg)
+[![Thumbnail](img/thumbnails/20251019114406_1.jpg)](img/2025_oct/lornslure/20251019114406_1.jpg)
+[![Thumbnail](img/thumbnails/20251019114829_1.jpg)](img/2025_oct/lornslure/20251019114829_1.jpg)
+[![Thumbnail](img/thumbnails/20251019115155_1.jpg)](img/2025_oct/lornslure/20251019115155_1.jpg)
+[![Thumbnail](img/thumbnails/20251019115442_1.jpg)](img/2025_oct/lornslure/20251019115442_1.jpg)
+[![Thumbnail](img/thumbnails/20251019120203_1.jpg)](img/2025_oct/lornslure/20251019120203_1.jpg)
+[![Thumbnail](img/thumbnails/20251019120559_1.jpg)](img/2025_oct/lornslure/20251019120559_1.jpg)
+[![Thumbnail](img/thumbnails/20251019120853_1.jpg)](img/2025_oct/lornslure/20251019120853_1.jpg)
 
 # Primal Echo Demo
 
