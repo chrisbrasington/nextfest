@@ -5,6 +5,7 @@
 |-------------------------------------------------------------------------------------|-----------------|---------------|---------------------------------------------|
 | [Demon Tides Demo](#demon-tides-demo)                     | 112 minutes     | YES           | platformer                                  |
 | [Beyond the Doors](#beyond-the-doors)                     | 89 minutes      | so-so         | horror,mystery                              |
+| [The Sance of Blake Manor Demo](#the-sance-of-blake-manor-demo)| 83 minutes      | YES              | mystery,horror                              |
 | [Final Sentence Demo](#final-sentence-demo)               | 77 minutes      |               | battle-royale,multiplayer,horror            |
 | [Lorns Lure](#lorns-lure)                                 | 51 minutes      |               | climbing                                    |
 | [Odd Town](#odd-town)                                     | 48 minutes      | so-so         | simulation                                  |
@@ -29,6 +30,42 @@
 | [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
 | [Megabonk](#megabonk)                                     | 10 minutes      |               | survivors                                   |
 | [ROLLA](#rolla)                                           | 6 minutes       |               | horror                                      |
+
+# The Sance of Blake Manor Demo
+
+- **Steam Page**: [The Sance of Blake Manor Demo](https://store.steampowered.com/app/3547180/The_Sance_of_Blake_Manor_Demo/)
+- **Total Play Time**: 83 minutes
+- **Will Purchase**: YES
+- **Type**: mystery,horror
+
+> 🕹️ **Description**: investigate the missing Evelyn Deane
+> 
+> 👍👍👍  **Feedback**: There's a seance with a bunch of people at Blake Manor - and a guest has, Evelyn Deane, has gone missing. Everyone is here for a seance and you're the only outsider.
+> 
+> What's dope about this is every action you do forwards time 1 minute. So if you got 60 minutes, that's 60 interactions to look at things or talk to people. You cannot do everything.
+> 
+> A bit like `Apollo Justice` you can notice things about people and form "hypothesis" of what's going on. You do have goals - and I hope later on, they let you choose between different paths. Everything you know and collect is in large yet intuative menu systems. Not everything can be talked about, but but you can filter per people to see who you can discuss certaint things with.
+> 
+> This is a fantastic mystery game and the graphics design is really awesome. The characters are 2D but the world is not - and there's a few of ghosts to scare you right off the bat. 
+> 
+> This one is why I'm glad demos last a bit longer than nextfest dates. 
+
+[![Thumbnail](img/thumbnails/20251020210924_1.jpg)](img/2025_oct/blakemanor/20251020210924_1.jpg)
+[![Thumbnail](img/thumbnails/20251020211821_1.jpg)](img/2025_oct/blakemanor/20251020211821_1.jpg)
+[![Thumbnail](img/thumbnails/20251020212302_1.jpg)](img/2025_oct/blakemanor/20251020212302_1.jpg)
+[![Thumbnail](img/thumbnails/20251020212754_1.jpg)](img/2025_oct/blakemanor/20251020212754_1.jpg)
+[![Thumbnail](img/thumbnails/20251020212949_1.jpg)](img/2025_oct/blakemanor/20251020212949_1.jpg)
+[![Thumbnail](img/thumbnails/20251020213801_1.jpg)](img/2025_oct/blakemanor/20251020213801_1.jpg)
+[![Thumbnail](img/thumbnails/20251020214121_1.jpg)](img/2025_oct/blakemanor/20251020214121_1.jpg)
+[![Thumbnail](img/thumbnails/20251020214341_1.jpg)](img/2025_oct/blakemanor/20251020214341_1.jpg)
+[![Thumbnail](img/thumbnails/20251020214522_1.jpg)](img/2025_oct/blakemanor/20251020214522_1.jpg)
+[![Thumbnail](img/thumbnails/20251020215326_1.jpg)](img/2025_oct/blakemanor/20251020215326_1.jpg)
+[![Thumbnail](img/thumbnails/20251020220229_1.jpg)](img/2025_oct/blakemanor/20251020220229_1.jpg)
+[![Thumbnail](img/thumbnails/20251020221144_1.jpg)](img/2025_oct/blakemanor/20251020221144_1.jpg)
+[![Thumbnail](img/thumbnails/20251020221933_1.jpg)](img/2025_oct/blakemanor/20251020221933_1.jpg)
+[![Thumbnail](img/thumbnails/20251020222642_1.jpg)](img/2025_oct/blakemanor/20251020222642_1.jpg)
+[![Thumbnail](img/thumbnails/20251020222659_1.jpg)](img/2025_oct/blakemanor/20251020222659_1.jpg)
+[![Thumbnail](img/thumbnails/20251020222750_1.jpg)](img/2025_oct/blakemanor/20251020222750_1.jpg)
 
 # HELLMART Demo
 
