@@ -40,7 +40,7 @@
 > 
 > 👍  **Feedback**: lol this was pretty dope and difficult
 > 
-> You're a fast-boi mars rover and you can flip and destroy yourself a bit too easily. Two cool things: one, you can use thursters in air to realign yourself to not crash and to point in the direction of momentum. Fail to do that and you're losing wheels, brakes, hull integrity (oxygen) and you can die. Two, like HELLDIVERS-2 you can use the dpad for drones to repair things IF you got the parts.
+> You're a fast-boi mars rover and you can flip and destroy yourself a bit too easily. Two cool things: one, you can use thrusters in air to realign yourself to not crash and to point in the direction of momentum. Fail to do that and you're losing wheels, brakes, hull integrity (oxygen) and you can die. Two, like HELLDIVERS-2 you can use the dpad for drones to repair things IF you got the parts.
 > 
 > I sucked at this but it was fun. 
 
