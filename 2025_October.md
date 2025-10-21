@@ -20,6 +20,7 @@
 | [REANIMAL](#reanimal)                                     | 30 minutes      | YES           | horror                                      |
 | [Painkiller](#painkiller)                                 | 27 minutes      |               | fps,multiplayer                             |
 | [Primal Echo Demo](#primal-echo-demo)                     | 26 minutes      |               | platformer                                  |
+| [HELLMART Demo](#hellmart-demo)                           | 21 minutes      |               | horror                                      |
 | [Crisol Theater of Idols Demo](#crisol-theater-of-idols-demo)| 19 minutes   |               | fps, horror                                 |
 | [FUNKYHEART](#funkyheart)                                 | 16 minutes      |               | platformer                                  |
 | [Long Drive North: Co-Op RV Simulator Demo](#long-drive-north-co-op-rv-simulator-demo)      | 15 minutes      |               | survival                                    |
@@ -28,6 +29,29 @@
 | [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
 | [Megabonk](#megabonk)                                     | 10 minutes      |               | survivors                                   |
 | [ROLLA](#rolla)                                           | 6 minutes       |               | horror                                      |
+
+# HELLMART Demo
+
+- **Steam Page**: [HELLMART Demo](https://store.steampowered.com/app/4036410/HELLMART_Demo/)
+- **Total Play Time**: 21 minutes
+- **Will Purchase**: 
+- **Type**: horror
+
+> 🕹️ **Description**: self explanatory
+> 
+> 👎  **Feedback**: Unfortunately I couldn't progress cause clicking and dragging items across the register was broken. Or I was broken. 
+> 
+> You keep the shelves stock, ring up customers, give them change.. and I dunno fight off hell invasions and weird people at night. 
+> 
+> I liked `Massacre at the Mirage` more cause at least that was a cinema and popcorn. 
+
+[![Thumbnail](img/thumbnails/20251020203231_1.jpg)](img/2025_oct/hellmart/20251020203231_1.jpg)
+[![Thumbnail](img/thumbnails/20251020203313_1.jpg)](img/2025_oct/hellmart/20251020203313_1.jpg)
+[![Thumbnail](img/thumbnails/20251020203623_1.jpg)](img/2025_oct/hellmart/20251020203623_1.jpg)
+[![Thumbnail](img/thumbnails/20251020204016_1.jpg)](img/2025_oct/hellmart/20251020204016_1.jpg)
+[![Thumbnail](img/thumbnails/20251020204025_1.jpg)](img/2025_oct/hellmart/20251020204025_1.jpg)
+[![Thumbnail](img/thumbnails/20251020204446_1.jpg)](img/2025_oct/hellmart/20251020204446_1.jpg)
+[![Thumbnail](img/thumbnails/20251020204633_1.jpg)](img/2025_oct/hellmart/20251020204633_1.jpg)
 
 # Exo Rally Championship
 
