@@ -40,7 +40,7 @@
 
 > 🕹️ **Description**: investigate the missing Evelyn Deane
 > 
-> 👍👍👍  **Feedback**: There's a seance with a bunch of people at Blake Manor - and a guest has, Evelyn Deane, has gone missing. Everyone is here for a seance and you're the only outsider.
+> 👍👍👍  **Feedback**: There's a seance with a bunch of people at Blake Manor - and a guest, Evelyn Deane, has gone missing. Everyone is here for a seance and you're the only outsider.
 > 
 > What's dope about this is every action you do forwards time 1 minute. So if you got 60 minutes, that's 60 interactions to look at things or talk to people. You cannot do everything.
 > 
