@@ -1,20 +1,20 @@
 ## 🎮 Game Collection Summary
 
-**🕹️ Total Games:** 207  |  ⏱️ Total Hours Played: 86.3 hrs  |  👍 Liked Games: 51
+**🕹️ Total Games:** 212  |  ⏱️ Total Hours Played: 89.2 hrs  |  👍 Liked Games: 51
 
 ---
 
 | Cover | Game Name | When Played | Total Play Time | Liked | Steam Link |
 |-------|-----------|------------|----------------|-------|------------|
 | ![1000xRESIST](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1675830/header.jpg) | [1000xRESIST](https://store.steampowered.com/app/1675830/1000xRESIST/) | 2023 |  |  | https://store.steampowered.com/app/1675830/1000xRESIST/ |
-|  | [A Little Golf Journey]() | 2023 |  | YES |  |
+| ![A Little Golf Journey](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1232150/header.jpg) | [A Little Golf Journey](https://store.steampowered.com/app/1232150) | 2023 |  | YES | https://store.steampowered.com/app/1232150 |
 |  | [Abaddons Veil](#abaddons-veil) | 2024 October | 23 minutes |  | #abaddons-veil |
 |  | [Abiotic Factor](#abiotic-factor) | 2024 Feb | 4 hours |  | #abiotic-factor |
 | ![Affogato](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1983970/header.jpg) | [Affogato](https://store.steampowered.com/app/1983970/Affogato/) | 2023 |  | YES | https://store.steampowered.com/app/1983970/Affogato/ |
 | ![AfterImage](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1701520/header.jpg) | [AfterImage](https://store.steampowered.com/app/1701520/Afterimage/) | 2023 |  |  | https://store.steampowered.com/app/1701520/Afterimage/ |
 |  | [AI LIMIT](#ai-limit) | 2024 October | 100 minutes | YES | #ai-limit |
 |  | [Albatroz Demo](#albatroz) | 2024 Feb | 35 minutes | YES | #albatroz |
-| ![Alien Hominid Invasion](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/843200/header.jpg) | [Alien Hominid Invasion](https://store.steampowered.com/app/843200/Alien_Hominid_Invasion/) | 2023 |  | YES | https://store.steampowered.com/app/843200/Alien_Hominid_Invasion/ |
+| ![Alien Hominid Invasion](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/843200/header.jpg) | [Alien Hominid Invasion](https://store.steampowered.com/app/843200/Alien_Hominid_Invasion/](https://store.steampowered.com/app/843200/Alien_Hominid_Invasion/) | 2023 |  | YES | https://store.steampowered.com/app/843200/Alien_Hominid_Invasion/](https://store.steampowered.com/app/843200/Alien_Hominid_Invasion/ |
 | ![Alone in the Dark Prologue](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1938800/header.jpg) | [Alone in the Dark Prologue](https://store.steampowered.com/app/1938800/Alone_in_the_Dark_Prologue/) | 2023 |  |  | https://store.steampowered.com/app/1938800/Alone_in_the_Dark_Prologue/ |
 | ![Alterium Shift](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1586990/header.jpg) | [Alterium Shift](https://store.steampowered.com/app/1586990/Alterium_Shift/) | 2023 |  | YES | https://store.steampowered.com/app/1586990/Alterium_Shift/ |
 |  | [ANNO: Mutationem Demo](#anno-mutationem-prologue) | 2024 Feb | 29 minutes |  | #anno-mutationem-prologue |
@@ -47,11 +47,11 @@
 | ![Crosscode](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/368340/header.jpg) | [Crosscode](https://store.steampowered.com/app/368340/CrossCode/) | 2023 |  |  | https://store.steampowered.com/app/368340/CrossCode/ |
 |  | [Crow Country Demo](#crow-country) | 2024 Feb | 38 minutes |  | #crow-country |
 |  | [Crypt Custodian Demo](#crypt-custodian) | 2024 Feb | 26 minutes |  | #crypt-custodian |
-| ![Cynthia: Hidden in the Moonshadow](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1685730/header.jpg) | [Cynthia: Hidden in the Moonshadow](https://store.steampowered.com/app/1685730/Cynthia_Hidden_in_the_Moonshadow/) | 2023 |  |  | https://store.steampowered.com/app/1685730/Cynthia_Hidden_in_the_Moonshadow/ |
-| ![Dark and Darker (delisted!)](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2016590/header.jpg) | [Dark and Darker (delisted!)](https://store.steampowered.com/app/2016590/Dark_and_Darker/) | 2023 |  |  | https://store.steampowered.com/app/2016590/Dark_and_Darker/ |
+| ![Cynthia: Hidden in the Moonshadow](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1685730/header.jpg) | [Cynthia: Hidden in the Moonshadow](https://store.steampowered.com/app/1685730/Cynthia_Hidden_in_the_Moonshadow/?curator_clanid=35402408) | 2023 |  |  | https://store.steampowered.com/app/1685730/Cynthia_Hidden_in_the_Moonshadow/?curator_clanid=35402408 |
+| ![Dark and Darker (delisted!)](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2016590/header.jpg) | [Dark and Darker (delisted!)](https://store.steampowered.com/app/2016590/Dark_and_Darker/](https://store.steampowered.com/app/2016590/Dark_and_Darker/) | 2023 |  |  | https://store.steampowered.com/app/2016590/Dark_and_Darker/](https://store.steampowered.com/app/2016590/Dark_and_Darker/ |
 | ![Darkest Dungeon 2](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1940340/header.jpg) | [Darkest Dungeon 2](https://store.steampowered.com/app/1940340/Darkest_Dungeon_II/) | 2023 |  | YES | https://store.steampowered.com/app/1940340/Darkest_Dungeon_II/ |
 | ![Death Relives](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1987400/header.jpg) | [Death Relives](https://store.steampowered.com/app/1987400/Death_Relives/) | 2023 |  |  | https://store.steampowered.com/app/1987400/Death_Relives/ |
-| ![Deep Rock Galactic Survivor](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg) | [Deep Rock Galactic Survivor](https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/) | 2023 |  | YES | https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/ |
+| ![Deep Rock Galactic Survivor](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg) | [Deep Rock Galactic Survivor](https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/](https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/) | 2023 |  | YES | https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/](https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/ |
 |  | [Demon Tides Demo](#demon-tides-demo) | 2025 October | 112 minutes |  | #demon-tides-demo |
 |  | [Demonschool](#demonschool) | 2024 June | 3 hours |  | #demonschool |
 | ![Desynced](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1450900/header.jpg) | [Desynced](https://store.steampowered.com/app/1450900/Desynced/) | 2023 |  | YES | https://store.steampowered.com/app/1450900/Desynced/ |
@@ -67,22 +67,24 @@
 |  | [Dungeons of Hinterberg](#dungeons-of-hinterberg) | 2024 June | 46 minutes |  | #dungeons-of-hinterberg |
 |  | [Eclipsium Demo](#eclipsium) | 2024 Feb | 37 minutes | YES | #eclipsium |
 |  | [Emberbane](#emberbane) | 2024 Feb | 5 minutes |  | #emberbane |
-| ![Empty Shell Prologue](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2224850/header.jpg) | [Empty Shell Prologue](https://store.steampowered.com/app/2224850/EMPTY_SHELL_PROLOGUE/) | 2023 |  | YES | https://store.steampowered.com/app/2224850/EMPTY_SHELL_PROLOGUE/ |
+| ![Empty Shell Prologue](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2224850/header.jpg) | [Empty Shell Prologue](https://store.steampowered.com/app/2224850/EMPTY_SHELL_PROLOGUE/](https://store.steampowered.com/app/2224850/EMPTY_SHELL_PROLOGUE/) | 2023 |  | YES | https://store.steampowered.com/app/2224850/EMPTY_SHELL_PROLOGUE/](https://store.steampowered.com/app/2224850/EMPTY_SHELL_PROLOGUE/ |
 |  | [Enotria The Last Song](#enotria-the-last-song) | 2024 June | 13 minutes | YES | #enotria-the-last-song |
 |  | [Erenshor](#erenshor) | 2024 October | 26 minutes |  | #erenshor |
 | ![Eternights](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1402110/header.jpg) | [Eternights](https://store.steampowered.com/app/1402110/Eternights/) | 2023 |  | YES | https://store.steampowered.com/app/1402110/Eternights/ |
 |  | [Euro Truck Simulator 2 / American Truck Sim]() | 2023 |  |  |  |
+|  | [Exo Rally Championship](#exo-rally-championship) | 2025 October | 32 minutes |  | #exo-rally-championship |
 |  | [FACEMINER](#faceminer) | 2024 June | 115 minutes |  | #faceminer |
 | ![Fall of Porcupine](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1710540/header.jpg) | [Fall of Porcupine](https://store.steampowered.com/app/1710540/Fall_of_Porcupine/) | 2023 |  |  | https://store.steampowered.com/app/1710540/Fall_of_Porcupine/ |
 |  | [Fear The Timeloop Demo](#fear-the-timeloop-demo) | 2024 October | 39 minutes |  | #fear-the-timeloop-demo |
 | ![Final Fantasy VII Remake](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1462040/header.jpg) | [Final Fantasy VII Remake](https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/) | 2023 |  |  | https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/ |
-|  | [Final Sentence Demo](#final-sentence-demo) | 2025 October | 65 minutes |  | #final-sentence-demo |
+|  | [Final Sentence Demo](#final-sentence-demo) | 2025 October | 77 minutes |  | #final-sentence-demo |
 | ![Flame Keeper](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1374230/header.jpg) | [Flame Keeper](https://store.steampowered.com/app/1374230/Flame_Keeper/) | 2023 |  |  | https://store.steampowered.com/app/1374230/Flame_Keeper/ |
+|  | [FUNKYHEART](#funkyheart) | 2025 October | 16 minutes |  | #funkyheart |
 | ![Gator Game](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1586800/header.jpg) | [Gator Game](https://store.steampowered.com/app/1586800/Lil_Gator_Game/) | 2023 |  |  | https://store.steampowered.com/app/1586800/Lil_Gator_Game/ |
 |  | [Goblin Cleanup](#goblin-cleanup) | 2024 June | 36 minutes |  | #goblin-cleanup |
 | ![God Eater 3](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/899440/header.jpg) | [God Eater 3](https://store.steampowered.com/app/899440/GOD_EATER_3/) | 2023 |  |  | https://store.steampowered.com/app/899440/GOD_EATER_3/ |
 | ![Grim Guardians Demon Purge](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2081400/header.jpg) | [Grim Guardians Demon Purge](https://store.steampowered.com/app/2081400/Gal_Guardians_Demon_Purge/) | 2023 |  | YES | https://store.steampowered.com/app/2081400/Gal_Guardians_Demon_Purge/ |
-| ![Grimoir Groves](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1830430/header.jpg) | [Grimoir Groves](https://store.steampowered.com/app/1830430/Grimoire_Groves/) | 2023 |  | YES | https://store.steampowered.com/app/1830430/Grimoire_Groves/ |
+| ![Grimoir Groves](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1830430/header.jpg) | [Grimoir Groves](https://store.steampowered.com/app/1830430/Grimoire_Groves/](https://store.steampowered.com/app/1830430/Grimoire_Groves/)) | 2023 |  | YES | https://store.steampowered.com/app/1830430/Grimoire_Groves/](https://store.steampowered.com/app/1830430/Grimoire_Groves/) |
 | ![Gripper](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1336380/header.jpg) | [Gripper](https://store.steampowered.com/app/1336380/Gripper/) | 2023 |  |  | https://store.steampowered.com/app/1336380/Gripper/ |
 |  | [Grunn](#grunn) | 2024 June | 52 minutes |  | #grunn |
 |  | [Hail to the Rainbow Demo](#hail-to-the-rainbow-demo) | 2024 October | 39 minutes |  | #hail-to-the-rainbow-demo |
@@ -90,6 +92,7 @@
 |  | [Harold Halibut Demo](#harold-halibut) | 2024 Feb | 2.1 hours | YES | #harold-halibut |
 | ![Harvestella](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1816300/header.jpg) | [Harvestella](https://store.steampowered.com/app/1816300/HARVESTELLA/) | 2023 |  |  | https://store.steampowered.com/app/1816300/HARVESTELLA/ |
 |  | [Heaven Does Not Respond](#heaven-does-not-respond) | 2025 October | 41 minutes |  | #heaven-does-not-respond |
+|  | [HELLMART Demo](#hellmart-demo) | 2025 October | 21 minutes |  | #hellmart-demo |
 |  | [Hellskate](#hellskate) | 2024 Feb | 25 minutes |  | #hellskate |
 |  | [Hollow Body](#hollow-body) | 2024 Feb | 40 minutes |  | #hollow-body |
 |  | [Homura Hime](#homura-hime) | 2025 October | 37 minutes |  | #homura-hime |
@@ -105,7 +108,7 @@
 |  | [Keep Driving](#keep-driving) | 2024 October | 37 minutes | YES | #keep-driving |
 |  | [Kill Knight](#kill-knight) | 2024 June | 5 minutes |  | #kill-knight |
 |  | [Knights in Tight Spaces Demo](#knights-in-tight-spaces-demo) | 2024 October | 46 minutes |  | #knights-in-tight-spaces-demo |
-| ![Laika](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1796220/header.jpg) | [Laika](https://store.steampowered.com/app/1796220/Laika_Aged_Through_Blood/) | 2023 |  | YES | https://store.steampowered.com/app/1796220/Laika_Aged_Through_Blood/ |
+| ![Laika](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1796220/header.jpg) | [Laika](https://store.steampowered.com/app/1796220/Laika_Aged_Through_Blood/](https://store.steampowered.com/app/1796220/Laika_Aged_Through_Blood/) | 2023 |  | YES | https://store.steampowered.com/app/1796220/Laika_Aged_Through_Blood/](https://store.steampowered.com/app/1796220/Laika_Aged_Through_Blood/ |
 | ![Lies of P](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1627720/header.jpg) | [Lies of P](https://store.steampowered.com/app/1627720/Lies_of_P/) | 2023 |  | YES | https://store.steampowered.com/app/1627720/Lies_of_P/ |
 | ![Live a Live](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2014380/header.jpg) | [Live a Live](https://store.steampowered.com/app/2014380/LIVE_A_LIVE/) | 2023 |  |  | https://store.steampowered.com/app/2014380/LIVE_A_LIVE/ |
 |  | [Lonely Space Demo](#lonely-space) | 2024 Feb | 10 minutes |  | #lonely-space |
@@ -144,7 +147,7 @@
 |  | [Pacific Drive: Demo](#pacific-drive) | 2024 Feb | 2.4 hours |  | #pacific-drive |
 |  | [Painkiller](#painkiller) | 2025 October | 27 minutes |  | #painkiller |
 |  | [Pepper Grinder Demo](#pepper-grinder) | 2024 Feb | 24 minutes |  | #pepper-grinder |
-| ![Planet of Lana](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1608230/header.jpg) | [Planet of Lana](https://store.steampowered.com/app/1608230/Planet_of_Lana/) | 2023 |  | YES | https://store.steampowered.com/app/1608230/Planet_of_Lana/ |
+| ![Planet of Lana](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1608230/header.jpg) | [Planet of Lana](https://store.steampowered.com/app/1608230/Planet_of_Lana/](https://store.steampowered.com/app/1608230/Planet_of_Lana/) | 2023 |  | YES | https://store.steampowered.com/app/1608230/Planet_of_Lana/](https://store.steampowered.com/app/1608230/Planet_of_Lana/ |
 |  | [PLUG IT IN](#plug-it-in) | 2024 October | 9 minutes |  | #plug-it-in |
 |  | [Pools](#pools) | 2024 June | 10 minutes |  | #pools |
 |  | [Primal Echo Demo](#primal-echo-demo) | 2025 October | 26 minutes |  | #primal-echo-demo |
@@ -157,6 +160,7 @@
 | ![Resident Evil 4 (Remake)](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg) | [Resident Evil 4 (Remake)](https://store.steampowered.com/app/2050650/Resident_Evil_4/) | 2023 |  |  | https://store.steampowered.com/app/2050650/Resident_Evil_4/ |
 | ![Reverse Collapse: Codename Bakery](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1127700/header.jpg) | [Reverse Collapse: Codename Bakery](https://store.steampowered.com/app/1127700/Reverse_Collapse_Code_Name_Bakery/) | 2023 |  | YES | https://store.steampowered.com/app/1127700/Reverse_Collapse_Code_Name_Bakery/ |
 |  | [ROGUE FLIGHT](#rogue-flight) | 2024 October | 20 minutes |  | #rogue-flight |
+|  | [ROLLA](#rolla) | 2025 October | 6 minutes |  | #rolla |
 | ![Scarlet Nexus](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/775500/header.jpg) | [Scarlet Nexus](https://store.steampowered.com/app/775500/SCARLET_NEXUS/) | 2023 |  |  | https://store.steampowered.com/app/775500/SCARLET_NEXUS/ |
 |  | [SCHiM](#schim) | 2024 June | 26 minutes |  | #schim |
 | ![Sea of Stars](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1244090/header.jpg) | [Sea of Stars](https://store.steampowered.com/app/1244090/Sea_of_Stars/) | 2023 |  | YES | https://store.steampowered.com/app/1244090/Sea_of_Stars/ |
@@ -174,15 +178,15 @@
 |  | [Spilled](#spilled) | 2025 October | 12 minutes |  | #spilled |
 |  | [Spirit City Lofi](#spirit-city-lofi-sessions) | 2024 Feb | 10 minutes |  | #spirit-city-lofi-sessions |
 |  | [Splintered](#splintered) | 2024 October | 8 minutes |  | #splintered |
-| ![Star Ocean: The Second Story R](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2238900/header.jpg) | [Star Ocean: The Second Story R](https://store.steampowered.com/app/2238900/STAR_OCEAN_THE_SECOND_STORY_R/) | 2023 |  |  | https://store.steampowered.com/app/2238900/STAR_OCEAN_THE_SECOND_STORY_R/ |
+| ![Star Ocean: The Second Story R](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2238900/header.jpg) | [Star Ocean: The Second Story R](https://store.steampowered.com/app/2238900/STAR_OCEAN_THE_SECOND_STORY_R/](https://store.steampowered.com/app/2238900/STAR_OCEAN_THE_SECOND_STORY_R/)) | 2023 |  |  | https://store.steampowered.com/app/2238900/STAR_OCEAN_THE_SECOND_STORY_R/](https://store.steampowered.com/app/2238900/STAR_OCEAN_THE_SECOND_STORY_R/) |
 |  | [Star Trucker Demo](#star-trucker) | 2024 Feb | 39 minutes |  | #star-trucker |
 | ![SteamWorld Build](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2134770/header.jpg) | [SteamWorld Build](https://store.steampowered.com/app/2134770/SteamWorld_Build/) | 2023 |  |  | https://store.steampowered.com/app/2134770/SteamWorld_Build/ |
 |  | [Stellar Blade Demo](#stellar-blade-demo) | 2025 June | 78 minutes |  | #stellar-blade-demo |
-| ![Suffer the Night](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2176850/header.jpg) | [Suffer the Night](https://store.steampowered.com/app/2176850/Suffer_The_Night/) | 2023 |  | YES | https://store.steampowered.com/app/2176850/Suffer_The_Night/ |
+| ![Suffer the Night](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2176850/header.jpg) | [Suffer the Night](https://store.steampowered.com/app/2176850/Suffer_The_Night/](https://store.steampowered.com/app/2176850/Suffer_The_Night/) | 2023 |  | YES | https://store.steampowered.com/app/2176850/Suffer_The_Night/](https://store.steampowered.com/app/2176850/Suffer_The_Night/ |
 |  | [SULFUR](#sulfur) | 2024 June | 43 minutes | YES | #sulfur |
 |  | [SUMMERHOUSE Demo](#summerhouse) | 2024 Feb | 5 minutes |  | #summerhouse |
 |  | [Tactical Breach Wizards](#tactical-breach-wizards) | 2024 June | 81 minutes | YES | #tactical-breach-wizards |
-| ![Talos Principle 2](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/835960/header.jpg) | [Talos Principle 2](https://store.steampowered.com/app/835960/The_Talos_Principle_2/) | 2023 |  | YES | https://store.steampowered.com/app/835960/The_Talos_Principle_2/ |
+| ![Talos Principle 2](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/835960/header.jpg) | [Talos Principle 2](https://store.steampowered.com/app/835960/The_Talos_Principle_2/](https://store.steampowered.com/app/835960/The_Talos_Principle_2/)) | 2023 |  | YES | https://store.steampowered.com/app/835960/The_Talos_Principle_2/](https://store.steampowered.com/app/835960/The_Talos_Principle_2/) |
 |  | [TerraTech Worlds Demo](#terratech-worlds) | 2024 Feb | 19 minutes |  | #terratech-worlds |
 |  | [Thank Goodness You're Here](#thank-goodness-youre-here) | 2024 June | 15 minutes |  | #thank-goodness-youre-here |
 |  | [The Alters](#the-alters) | 2024 June | 108 minutes |  | #the-alters |
@@ -191,7 +195,8 @@
 | ![The Last Case of Benedict Fox](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2023360/header.jpg) | [The Last Case of Benedict Fox](https://store.steampowered.com/app/2023360/The_Last_Case_of_Benedict_Fox/) | 2023 |  | YES | https://store.steampowered.com/app/2023360/The_Last_Case_of_Benedict_Fox/ |
 |  | [The Operator](#the-operator) | 2024 June | 20 minutes |  | #the-operator |
 |  | [The Precinct Demo](#the-precinct-demo) | 2024 October | 37 minutes |  | #the-precinct-demo |
-| ![The Thaumaturge](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1684350/header.jpg) | [The Thaumaturge](https://store.steampowered.com/app/1684350/The_Thaumaturge/) | 2023 |  |  | https://store.steampowered.com/app/1684350/The_Thaumaturge/ |
+|  | [The Sance of Blake Manor Demo](#the-sance-of-blake-manor-demo) | 2025 October | 83 minutes |  | #the-sance-of-blake-manor-demo |
+| ![The Thaumaturge](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1684350/header.jpg) | [The Thaumaturge](https://store.steampowered.com/app/1684350/The_Thaumaturge/](https://store.steampowered.com/app/1684350/The_Thaumaturge/) | 2023 |  |  | https://store.steampowered.com/app/1684350/The_Thaumaturge/](https://store.steampowered.com/app/1684350/The_Thaumaturge/ |
 |  | [Toastercide](#toastercide) | 2024 Feb | 24 minutes | YES | #toastercide |
 |  | [Tokyo Psychodemic Demo](#tokyo-psychodemic) | 2024 Feb | 63 minutes |  | #tokyo-psychodemic |
 | ![Trials of Mana](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/924980/header.jpg) | [Trials of Mana](https://store.steampowered.com/app/924980/Trials_of_Mana/) | 2023 |  |  | https://store.steampowered.com/app/924980/Trials_of_Mana/ |
