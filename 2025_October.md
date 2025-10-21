@@ -25,6 +25,27 @@
 | [Spilled](#spilled)                                       | 12 minutes      |               | cozy                                        |                   |
 | [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
 | [Megabonk](#megabonk)                                     | 10 minutes      |               | survivors                                   |
+| [ROLLA](#rolla)                                           | 6 minutes       |               | horror                                      |
+
+# ROLLA
+
+- **Steam Page**: [ROLLA](https://store.steampowered.com/app/3975830/ROLLA/)
+- **Total Play Time**: 6 minutes
+- **Will Purchase**: 
+- **Type**: horror
+
+> 🕹️ **Description**: 
+> 
+> 👍👎  **Feedback**: 
+
+[![Thumbnail](img/thumbnails/20251020191747_1.jpg)](img/2025_oct/rolla/20251020191747_1.jpg)
+[![Thumbnail](img/thumbnails/20251020191822_1.jpg)](img/2025_oct/rolla/20251020191822_1.jpg)
+[![Thumbnail](img/thumbnails/20251020191833_1.jpg)](img/2025_oct/rolla/20251020191833_1.jpg)
+[![Thumbnail](img/thumbnails/20251020191845_1.jpg)](img/2025_oct/rolla/20251020191845_1.jpg)
+[![Thumbnail](img/thumbnails/20251020191900_1.jpg)](img/2025_oct/rolla/20251020191900_1.jpg)
+[![Thumbnail](img/thumbnails/20251020191909_1.jpg)](img/2025_oct/rolla/20251020191909_1.jpg)
+[![Thumbnail](img/thumbnails/20251020192250_1.jpg)](img/2025_oct/rolla/20251020192250_1.jpg)
+[![Thumbnail](img/thumbnails/20251020192347_1.jpg)](img/2025_oct/rolla/20251020192347_1.jpg)
 
 # Lorns Lure
 
