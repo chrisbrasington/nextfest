@@ -15,6 +15,7 @@
 | [House of Necrosis Demo](#house-of-necrosis-demo)         | 36 minutes      | Yes-leaning   | tactics, horror                             |
 | [Mr Sleepy Man](#mr-sleepy-man)                           | 34 minutes      |               | platformer                                  |
 | [MOTORSLICE](#motorslice)                                 | 33 minutes      | YES           | action                                      |
+| [Exo Rally Championship](#exo-rally-championship)         | 32 minutes      |               | racing                                      |
 | [Neon Divide](#neon-divide)                               | 31 minutes      |               | gacha                                       |
 | [REANIMAL](#reanimal)                                     | 30 minutes      | YES           | horror                                      |
 | [Painkiller](#painkiller)                                 | 27 minutes      |               | fps,multiplayer                             |
@@ -27,6 +28,30 @@
 | [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
 | [Megabonk](#megabonk)                                     | 10 minutes      |               | survivors                                   |
 | [ROLLA](#rolla)                                           | 6 minutes       |               | horror                                      |
+
+# Exo Rally Championship
+
+- **Steam Page**: [Exo Rally Championship](https://store.steampowered.com/app/2262020/Exo_Rally_Championship/)
+- **Total Play Time**: 32 minutes
+- **Will Purchase**: 
+- **Type**: racing
+
+> 🕹️ **Description**: exo-planet racing
+> 
+> 👍  **Feedback**: lol this was pretty dope and difficult
+> 
+> You're a fast-boi mars rover and you can flip and destroy yourself a bit too easily. Two cool things: one, you can use thursters in air to realign yourself to not crash and to point in the direction of momentum. Fail to do that and you're losing wheels, brakes, hull integrity (oxygen) and you can die. Two, like HELLDIVERS-2 you can use the dpad for drones to repair things IF you got the parts.
+> 
+> I sucked at this but it was fun. 
+
+[![Thumbnail](img/thumbnails/20251020195256_1.jpg)](img/2025_oct/exorally/20251020195256_1.jpg)
+[![Thumbnail](img/thumbnails/20251020200221_1.jpg)](img/2025_oct/exorally/20251020200221_1.jpg)
+[![Thumbnail](img/thumbnails/20251020200827_1.jpg)](img/2025_oct/exorally/20251020200827_1.jpg)
+[![Thumbnail](img/thumbnails/20251020201129_1.jpg)](img/2025_oct/exorally/20251020201129_1.jpg)
+[![Thumbnail](img/thumbnails/20251020201848_1.jpg)](img/2025_oct/exorally/20251020201848_1.jpg)
+[![Thumbnail](img/thumbnails/20251020202158_1.jpg)](img/2025_oct/exorally/20251020202158_1.jpg)
+[![Thumbnail](img/thumbnails/20251020202321_1.jpg)](img/2025_oct/exorally/20251020202321_1.jpg)
+[![Thumbnail](img/thumbnails/20251020202328_1.jpg)](img/2025_oct/exorally/20251020202328_1.jpg)
 
 # FUNKYHEART
 
