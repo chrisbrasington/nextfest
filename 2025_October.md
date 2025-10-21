@@ -20,12 +20,35 @@
 | [Painkiller](#painkiller)                                 | 27 minutes      |               | fps,multiplayer                             |
 | [Primal Echo Demo](#primal-echo-demo)                     | 26 minutes      |               | platformer                                  |
 | [Crisol Theater of Idols Demo](#crisol-theater-of-idols-demo)| 19 minutes   |               | fps, horror                                 |
+| [FUNKYHEART](#funkyheart)                                 | 16 minutes      |               | platformer                                  |
 | [Long Drive North: Co-Op RV Simulator Demo](#long-drive-north-co-op-rv-simulator-demo)      | 15 minutes      |               | survival                                    |
 | [Vital Shell Demo Disc](#vital-shell-demo-disc)           | 13 minutes      |               | survivors                                   |
 | [Spilled](#spilled)                                       | 12 minutes      |               | cozy                                        |                   |
 | [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
 | [Megabonk](#megabonk)                                     | 10 minutes      |               | survivors                                   |
 | [ROLLA](#rolla)                                           | 6 minutes       |               | horror                                      |
+
+# FUNKYHEART
+
+- **Steam Page**: [FUNKYHEART](https://store.steampowered.com/app/3457940/FUNKYHEART/)
+- **Total Play Time**: 16 minutes
+- **Will Purchase**: 
+- **Type**: platformer
+
+> 🕹️ **Description**: bunny hopping
+> 
+> 🫳  **Feedback**: You "wake up" in a dream where you're a bunny and you bunnyhop to get keys. It's kinda fun, there's autohop button and you can second jump and it's not bad on the platforming and speed mechanics. I did get a key then maybe die and didn't open a door, so I just sorta quit. Music and characters were fun tho. 
+
+[![Thumbnail](img/thumbnails/20251020193152_1.jpg)](img/2025_oct/bunn/20251020193152_1.jpg)
+[![Thumbnail](img/thumbnails/20251020193233_1.jpg)](img/2025_oct/bunn/20251020193233_1.jpg)
+[![Thumbnail](img/thumbnails/20251020193723_1.jpg)](img/2025_oct/bunn/20251020193723_1.jpg)
+[![Thumbnail](img/thumbnails/20251020193802_1.jpg)](img/2025_oct/bunn/20251020193802_1.jpg)
+[![Thumbnail](img/thumbnails/20251020193831_1.jpg)](img/2025_oct/bunn/20251020193831_1.jpg)
+[![Thumbnail](img/thumbnails/20251020193934_1.jpg)](img/2025_oct/bunn/20251020193934_1.jpg)
+[![Thumbnail](img/thumbnails/20251020194143_1.jpg)](img/2025_oct/bunn/20251020194143_1.jpg)
+[![Thumbnail](img/thumbnails/20251020194226_1.jpg)](img/2025_oct/bunn/20251020194226_1.jpg)
+[![Thumbnail](img/thumbnails/20251020194506_1.jpg)](img/2025_oct/bunn/20251020194506_1.jpg)
+[![Thumbnail](img/thumbnails/20251020194553_1.jpg)](img/2025_oct/bunn/20251020194553_1.jpg)
 
 # ROLLA
 
