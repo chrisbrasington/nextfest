@@ -38,7 +38,6 @@ Runner-up: [Demon Tides](https://github.com/chrisbrasington/nextfest/blob/main/2
 <div class="runner-gallery">
   <a href="https://store.steampowered.com/app/2585890/Demon_Tides/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2585890/header.jpg" alt="Demon Tides"></a></div>
 
-
 ---
 
 ## Biggest 180 Surprise
