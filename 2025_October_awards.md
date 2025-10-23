@@ -66,7 +66,7 @@ Runner-up: [Neon Divide](https://github.com/chrisbrasington/nextfest/blob/main/2
 
 <div class="runner-gallery">
   <a href="https://steamdb.info/app/3887650/history/" target="_blank">
-    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3887650/de1dce4ee5e14ded7316ce6c37b89496c3f26709/header.jpg?t=1761005897 alt="NEON DIVIDE">
+    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3887650/de1dce4ee5e14ded7316ce6c37b89496c3f26709/header.jpg? alt="NEON DIVIDE">
   </a>
 </div>
 
@@ -93,6 +93,18 @@ Runner-up: [Neon Divide](https://github.com/chrisbrasington/nextfest/blob/main/2
 </div>
 
 [Lorn's Lure](https://github.com/chrisbrasington/nextfest/blob/main/2025_October.md#lorns-lure) - innovative because it came out a year before PEAK - even though now there's a lot of climbing games.
+
+## Best backseat gaming
+
+<div class="featured-game">
+  <a href="https://store.steampowered.com/app/1263240/Skate_Story/" target="_blank">
+    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1263240/fcd83e0b0fdddef3f4db4718fcd3a84f184dafe3/header.jpg" alt="Skate Story">
+  </a>
+</div>
+
+<div class="featured-game">
+  <a href="https://store.steampowered.com/app/1395520/The_Sance_of_Blake_Manor/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1395520/09df209c551539dc76679ca24b079b5771c2c281/header.jpg?t=1761138670"></a>
+</div>
 
 ---
 
