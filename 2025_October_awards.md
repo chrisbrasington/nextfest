@@ -6,7 +6,7 @@
   </a>
 </div>
 
-fuck this one was really hard. I think it goes to [Skate Story](https://github.com/chrisbrasington/nextfest/blob/main/2025_October.md#skate-story) just because of how unique the graphics, story, music and gameplay were all in one. It was simply mesmerizing.  
+fuck picking the "best" one was really hard. I think it goes to [Skate Story](https://github.com/chrisbrasington/nextfest/blob/main/2025_October.md#skate-story) just because of how unique the graphics, story, music and gameplay were all in one. It was simply mesmerizing.  
 
 --- 
 
