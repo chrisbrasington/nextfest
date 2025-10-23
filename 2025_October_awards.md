@@ -94,7 +94,7 @@ Runner-up: [Neon Divide](https://github.com/chrisbrasington/nextfest/blob/main/2
 
 [Lorn's Lure](https://github.com/chrisbrasington/nextfest/blob/main/2025_October.md#lorns-lure) - innovative because it came out a year before PEAK - even though now there's a lot of climbing games.
 
-## Best backseat gaming
+## Best Backseat Gaming
 
 <div class="featured-game">
   <a href="https://store.steampowered.com/app/1263240/Skate_Story/" target="_blank">
@@ -107,8 +107,6 @@ Runner-up: [Neon Divide](https://github.com/chrisbrasington/nextfest/blob/main/2
 </div>
 
 ---
-
-
 
 <style>
 /* ===== Featured Game (Large Banner) ===== */
