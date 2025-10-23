@@ -31,7 +31,7 @@ fuck picking the "best" one was really hard. I think it goes to [Skate Story](ht
   </a>
 </div>
 
-[MOTORSLICE](https://github.com/chrisbrasington/nextfest/blob/main/2025_October.md#motorslice) for sure since I had been watching the dev. I really liked his character animations and managing to be an indie dev with some gameplay mechanics not seen in other games such as wallrunning with a chainsaw "infinitely" is really impressive...  
+[MOTORSLICE](https://github.com/chrisbrasington/nextfest/blob/main/2025_October.md#motorslice) for sure since I had been watching the dev. I really liked his character animations and managing to be an indie dev with some gameplay mechanics not seen in other games such as wallrunning with a chainsaw "infintely" is really impressive ESPECIALLY for a 3D platformer/action game. So much of that has been done before.
 
 Runner-up: [Demon Tides](https://github.com/chrisbrasington/nextfest/blob/main/2025_October.md#neon-divide) is so good, I literally had to mention it here. It was most played too.
 
@@ -60,7 +60,7 @@ Runner-up: [Demon Tides](https://github.com/chrisbrasington/nextfest/blob/main/2
   </a>
 </div>
 
-[Painkiller](https://github.com/chrisbrasington/nextfest/blob/main/2025_October.md#painkiller). There were some demos I dropped that weren't for me, and some I had hopes for and wasn't enjoying - but Painkiller was just disappointing...
+[Painkiller](https://github.com/chrisbrasington/nextfest/blob/main/2025_October.md#painkiller). There were some demos I dropped that weren't for me, and there were some I had hopes for and wasn't enjoying - but Painkiller was just disappointing. I want to go back and give the originals a go cause I vaguely remember them - and they're more linear, puzzle-y. Painkiller was a game designed in a fucking board room where people sit around discussing what they think "gamers" want in co-op games. Well it ain't locking rooms for hordes of enemies, that's for sure. It ain't linear design where your team mate hits a switch and you wait (I'm sorry have you even seen the creativity of Split Fiction on doing more than f-ing buttons?)
 
 Runner-up: [Neon Divide](https://github.com/chrisbrasington/nextfest/blob/main/2025_October.md#neon-divide) is <b>DELISTED</b> trash!
 
