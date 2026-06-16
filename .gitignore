@@ -1,2 +1,4 @@
 dev
 queue.txt
+__pycache__/
+*.pyc
