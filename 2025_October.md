@@ -7,18 +7,18 @@
 | [Beyond the Doors](#beyond-the-doors)                     | 89 minutes      | so-so         | horror,mystery                              |
 | [The Sance of Blake Manor Demo](#the-sance-of-blake-manor-demo)| 83 minutes      | YES              | mystery,horror                              |
 | [Final Sentence Demo](#final-sentence-demo)               | 77 minutes      |               | battle-royale,multiplayer,horror            |
-| [Lorns Lure](#lorns-lure)                                 | 51 minutes      |               | climbing                                    |
+| [Lorns Lure](#lorns-lure)                                 | 51 minutes      | Yes           | climbing                                    |
 | [Odd Town](#odd-town)                                     | 48 minutes      | so-so         | simulation                                  |
 | [Skate Story](#skate-story)                               | 48 minutes      | YES           | skateboarding                               |
 | [No Players Online](#no-players-online)                   | 47 minutes      |               | horror                                      |
 | [Heaven Does Not Respond](#heaven-does-not-respond)       | 41 minutes      |               | horror                                      |
-| [Homura Hime](#homura-hime)                               | 37 minutes      | so-so         | action                                      |
+| [Homura Hime](#homura-hime)                               | 37 minutes      | Yes           | action                                      |
 | [House of Necrosis Demo](#house-of-necrosis-demo)         | 36 minutes      | Yes-leaning   | tactics, horror                             |
 | [Mr Sleepy Man](#mr-sleepy-man)                           | 34 minutes      |               | platformer                                  |
 | [MOTORSLICE](#motorslice)                                 | 33 minutes      | YES           | action                                      |
 | [Exo Rally Championship](#exo-rally-championship)         | 32 minutes      |               | racing                                      |
-| [Neon Divide](#neon-divide)                               | 31 minutes      |               | gacha                                       |
-| [REANIMAL](#reanimal)                                     | 30 minutes      | YES           | horror                                      |
+| [Neon Divide](#neon-divide)                               | 31 minutes      | No            | gacha                                       |
+| [REANIMAL](#reanimal)                                     | 30 minutes      | Yes           | horror                                      |
 | [Painkiller](#painkiller)                                 | 27 minutes      |               | fps,multiplayer                             |
 | [Primal Echo Demo](#primal-echo-demo)                     | 26 minutes      |               | platformer                                  |
 | [HELLMART Demo](#hellmart-demo)                           | 21 minutes      |               | horror                                      |
@@ -156,44 +156,44 @@
 [![Thumbnail](img/thumbnails/20251020192250_1.jpg)](img/2025_october/rolla/20251020192250_1.jpg)
 [![Thumbnail](img/thumbnails/20251020192347_1.jpg)](img/2025_october/rolla/20251020192347_1.jpg)
 
-# Lorns Lure
+# **Lorns Lure**
 
 - **Steam Page**: [Lorns Lure](https://store.steampowered.com/app/1417930/Lorns_Lure/)
 - **Total Play Time**: 51 minutes
-- **Will Purchase**: 
+- **Will Purchase**: Yes
 - **Type**: climbing
 
 > 🕹️ **Description**: Climbing the ole' dyson sphere. I think Blame! is my favorite manga.
 > 
-> 👍👍👍  **Feedback**: I knew about this one when PEAK came out. I was worried it would be unforgiving like `Getting Over It with Bennett Foddy` - it's actually even more forgiving than PEAK cause you just reload where you last fell (or restart further back) - and it has hint points to navigate to.
+> 👍  **Feedback**: I knew about this one when PEAK came out. I was worried it would be unforgiving like `Getting Over It with Bennett Foddy` - it's actually even more forgiving than PEAK cause you just reload where you last fell (or restart further back) - and it has hint points to navigate to.
 > 
-> It's still challenging. You have limited stamina on your pickaxes. Some parkour slide, jump, grab is involved. 
+> It's still challenging. You have limited stamina on your pickaxes. Some parkour slide, jump, grab is involved.
 > 
 > The atmosphere (ambient sounds, music, graphics, logs) is impeccable. Something about the graphics of the half-life/morrowind early 2000s on a scale those engines could not do - is just phenomenal if not my favorite area of gaming currently (see `Abiotic Factor` in that graphical old-modern sense).
 > 
 > The sense of scale is awesome. You fall FOREVER.. almost.
 > 
-> This is a must purchase. I'm just glad it turned out to be everything I was hoping it was. 
+> This is a must purchase. I'm just glad it turned out to be everything I was hoping it was.
 
-[![Thumbnail](img/thumbnails/20251019111546_1.jpg)](img/2025_oct/lornslure/20251019111546_1.jpg)
-[![Thumbnail](img/thumbnails/20251019111559_1.jpg)](img/2025_oct/lornslure/20251019111559_1.jpg)
-[![Thumbnail](img/thumbnails/20251019111615_1.jpg)](img/2025_oct/lornslure/20251019111615_1.jpg)
-[![Thumbnail](img/thumbnails/20251019111951_1.jpg)](img/2025_oct/lornslure/20251019111951_1.jpg)
-[![Thumbnail](img/thumbnails/20251019112159_1.jpg)](img/2025_oct/lornslure/20251019112159_1.jpg)
-[![Thumbnail](img/thumbnails/20251019112436_1.jpg)](img/2025_oct/lornslure/20251019112436_1.jpg)
-[![Thumbnail](img/thumbnails/20251019112609_1.jpg)](img/2025_oct/lornslure/20251019112609_1.jpg)
-[![Thumbnail](img/thumbnails/20251019112711_1.jpg)](img/2025_oct/lornslure/20251019112711_1.jpg)
-[![Thumbnail](img/thumbnails/20251019112842_1.jpg)](img/2025_oct/lornslure/20251019112842_1.jpg)
-[![Thumbnail](img/thumbnails/20251019113304_1.jpg)](img/2025_oct/lornslure/20251019113304_1.jpg)
-[![Thumbnail](img/thumbnails/20251019113329_1.jpg)](img/2025_oct/lornslure/20251019113329_1.jpg)
-[![Thumbnail](img/thumbnails/20251019113835_1.jpg)](img/2025_oct/lornslure/20251019113835_1.jpg)
-[![Thumbnail](img/thumbnails/20251019114406_1.jpg)](img/2025_oct/lornslure/20251019114406_1.jpg)
-[![Thumbnail](img/thumbnails/20251019114829_1.jpg)](img/2025_oct/lornslure/20251019114829_1.jpg)
-[![Thumbnail](img/thumbnails/20251019115155_1.jpg)](img/2025_oct/lornslure/20251019115155_1.jpg)
-[![Thumbnail](img/thumbnails/20251019115442_1.jpg)](img/2025_oct/lornslure/20251019115442_1.jpg)
-[![Thumbnail](img/thumbnails/20251019120203_1.jpg)](img/2025_oct/lornslure/20251019120203_1.jpg)
-[![Thumbnail](img/thumbnails/20251019120559_1.jpg)](img/2025_oct/lornslure/20251019120559_1.jpg)
-[![Thumbnail](img/thumbnails/20251019120853_1.jpg)](img/2025_oct/lornslure/20251019120853_1.jpg)
+[![Thumbnail](img/thumbnails/20251019111546_1.jpg)](img/2025_october/lorns_lure/20251019111546_1.jpg)
+[![Thumbnail](img/thumbnails/20251019111559_1.jpg)](img/2025_october/lorns_lure/20251019111559_1.jpg)
+[![Thumbnail](img/thumbnails/20251019111615_1.jpg)](img/2025_october/lorns_lure/20251019111615_1.jpg)
+[![Thumbnail](img/thumbnails/20251019111951_1.jpg)](img/2025_october/lorns_lure/20251019111951_1.jpg)
+[![Thumbnail](img/thumbnails/20251019112159_1.jpg)](img/2025_october/lorns_lure/20251019112159_1.jpg)
+[![Thumbnail](img/thumbnails/20251019112436_1.jpg)](img/2025_october/lorns_lure/20251019112436_1.jpg)
+[![Thumbnail](img/thumbnails/20251019112609_1.jpg)](img/2025_october/lorns_lure/20251019112609_1.jpg)
+[![Thumbnail](img/thumbnails/20251019112711_1.jpg)](img/2025_october/lorns_lure/20251019112711_1.jpg)
+[![Thumbnail](img/thumbnails/20251019112842_1.jpg)](img/2025_october/lorns_lure/20251019112842_1.jpg)
+[![Thumbnail](img/thumbnails/20251019113304_1.jpg)](img/2025_october/lorns_lure/20251019113304_1.jpg)
+[![Thumbnail](img/thumbnails/20251019113329_1.jpg)](img/2025_october/lorns_lure/20251019113329_1.jpg)
+[![Thumbnail](img/thumbnails/20251019113835_1.jpg)](img/2025_october/lorns_lure/20251019113835_1.jpg)
+[![Thumbnail](img/thumbnails/20251019114406_1.jpg)](img/2025_october/lorns_lure/20251019114406_1.jpg)
+[![Thumbnail](img/thumbnails/20251019114829_1.jpg)](img/2025_october/lorns_lure/20251019114829_1.jpg)
+[![Thumbnail](img/thumbnails/20251019115155_1.jpg)](img/2025_october/lorns_lure/20251019115155_1.jpg)
+[![Thumbnail](img/thumbnails/20251019115442_1.jpg)](img/2025_october/lorns_lure/20251019115442_1.jpg)
+[![Thumbnail](img/thumbnails/20251019120203_1.jpg)](img/2025_october/lorns_lure/20251019120203_1.jpg)
+[![Thumbnail](img/thumbnails/20251019120559_1.jpg)](img/2025_october/lorns_lure/20251019120559_1.jpg)
+[![Thumbnail](img/thumbnails/20251019120853_1.jpg)](img/2025_october/lorns_lure/20251019120853_1.jpg)
 
 # Primal Echo Demo
 
@@ -420,11 +420,11 @@
 [![Thumbnail](img/thumbnails/d.jpg)](img/2025_oct/finalsentence/d.jpg)
 [![Thumbnail](img/thumbnails/e.jpg)](img/2025_oct/finalsentence/e.jpg)
 
-# Neon Divide
+# **Neon Divide**
 
 - **Steam Page**: [Neon Divide](https://store.steampowered.com/app/3887650/Neon_Divide/)
 - **Total Play Time**: 31 minutes
-- **Will Purchase**: 
+- **Will Purchase**: No
 - **Type**: gacha
 
 > 🕹️ **Description**: Gacha - as in, ha gacha to play this stupid game
@@ -435,58 +435,56 @@
 > 
 > It's the type of game that has currency associated to "play next level". Utter trash
 > 
-> I wish it had the gameplay of the last game [Homura Hime](#homura-hime) cause the space/future setting was neat. 
+> I wish it had the gameplay of the last game [Homura Hime](#homura-hime) cause the space/future setting was neat.
 
-[![Thumbnail](img/thumbnails/20251015215558_1.jpg)](img/2025_oct/neondivide/20251015215558_1.jpg)
-[![Thumbnail](img/thumbnails/20251015220312_1.jpg)](img/2025_oct/neondivide/20251015220312_1.jpg)
-[![Thumbnail](img/thumbnails/20251015220646_1.jpg)](img/2025_oct/neondivide/20251015220646_1.jpg)
-[![Thumbnail](img/thumbnails/20251015220741_1.jpg)](img/2025_oct/neondivide/20251015220741_1.jpg)
-[![Thumbnail](img/thumbnails/20251015220746_1.jpg)](img/2025_oct/neondivide/20251015220746_1.jpg)
-[![Thumbnail](img/thumbnails/20251015220821_1.jpg)](img/2025_oct/neondivide/20251015220821_1.jpg)
-[![Thumbnail](img/thumbnails/20251015221020_1.jpg)](img/2025_oct/neondivide/20251015221020_1.jpg)
-[![Thumbnail](img/thumbnails/20251015221229_1.jpg)](img/2025_oct/neondivide/20251015221229_1.jpg)
-[![Thumbnail](img/thumbnails/20251015221243_1.jpg)](img/2025_oct/neondivide/20251015221243_1.jpg)
-[![Thumbnail](img/thumbnails/20251015221249_1.jpg)](img/2025_oct/neondivide/20251015221249_1.jpg)
-[![Thumbnail](img/thumbnails/20251015221251_1.jpg)](img/2025_oct/neondivide/20251015221251_1.jpg)
-[![Thumbnail](img/thumbnails/20251015221326_1.jpg)](img/2025_oct/neondivide/20251015221326_1.jpg)
-[![Thumbnail](img/thumbnails/20251015221546_1.jpg)](img/2025_oct/neondivide/20251015221546_1.jpg)
-[![Thumbnail](img/thumbnails/20251015221623_1.jpg)](img/2025_oct/neondivide/20251015221623_1.jpg)
-[![Thumbnail](img/thumbnails/20251015221832_1.jpg)](img/2025_oct/neondivide/20251015221832_1.jpg)
-[![Thumbnail](img/thumbnails/20251015222008_1.jpg)](img/2025_oct/neondivide/20251015222008_1.jpg)
-[![Thumbnail](img/thumbnails/20251015222221_1.jpg)](img/2025_oct/neondivide/20251015222221_1.jpg)
+[![Thumbnail](img/thumbnails/20251015215558_1.jpg)](img/2025_october/neon_divide/20251015215558_1.jpg)
+[![Thumbnail](img/thumbnails/20251015220312_1.jpg)](img/2025_october/neon_divide/20251015220312_1.jpg)
+[![Thumbnail](img/thumbnails/20251015220646_1.jpg)](img/2025_october/neon_divide/20251015220646_1.jpg)
+[![Thumbnail](img/thumbnails/20251015220741_1.jpg)](img/2025_october/neon_divide/20251015220741_1.jpg)
+[![Thumbnail](img/thumbnails/20251015220746_1.jpg)](img/2025_october/neon_divide/20251015220746_1.jpg)
+[![Thumbnail](img/thumbnails/20251015220821_1.jpg)](img/2025_october/neon_divide/20251015220821_1.jpg)
+[![Thumbnail](img/thumbnails/20251015221020_1.jpg)](img/2025_october/neon_divide/20251015221020_1.jpg)
+[![Thumbnail](img/thumbnails/20251015221229_1.jpg)](img/2025_october/neon_divide/20251015221229_1.jpg)
+[![Thumbnail](img/thumbnails/20251015221243_1.jpg)](img/2025_october/neon_divide/20251015221243_1.jpg)
+[![Thumbnail](img/thumbnails/20251015221249_1.jpg)](img/2025_october/neon_divide/20251015221249_1.jpg)
+[![Thumbnail](img/thumbnails/20251015221251_1.jpg)](img/2025_october/neon_divide/20251015221251_1.jpg)
+[![Thumbnail](img/thumbnails/20251015221326_1.jpg)](img/2025_october/neon_divide/20251015221326_1.jpg)
+[![Thumbnail](img/thumbnails/20251015221546_1.jpg)](img/2025_october/neon_divide/20251015221546_1.jpg)
+[![Thumbnail](img/thumbnails/20251015221623_1.jpg)](img/2025_october/neon_divide/20251015221623_1.jpg)
+[![Thumbnail](img/thumbnails/20251015221832_1.jpg)](img/2025_october/neon_divide/20251015221832_1.jpg)
+[![Thumbnail](img/thumbnails/20251015222008_1.jpg)](img/2025_october/neon_divide/20251015222008_1.jpg)
+[![Thumbnail](img/thumbnails/20251015222221_1.jpg)](img/2025_october/neon_divide/20251015222221_1.jpg)
 
-# Homura Hime
+# **Homura Hime**
 
 - **Steam Page**: [Homura Hime](https://store.steampowered.com/app/3201470)
 - **Total Play Time**: 37 minutes
-- **Will Purchase**: Maaaaybe
+- **Will Purchase**: Yes
 - **Type**: action
 
 > 🕹️ **Description**: Anime nier-adjacent
 > 
-> 🫳  **Feedback**: 
+> 🫱  **Feedback**: Pros: Nier-style gameplay, fun boss fights. Good move-set and parry system. I liked a special that let me ninja zoom across the arena to a boss fight. Nier should add the naruto run
 > 
-> Pros: Nier-style gameplay, fun boss fights. Good move-set and parry system. I liked a special that let me ninja zoom across the arena to a boss fight. Nier should add the naruto run
-> 
-> Cons: If you took out the cool world design of Nier, you'd have an.. "ok" game. The story is basic. "Demons take over humans sometimes". The levels were linear yet I had a guide I didn't need. I could span the parry button without consequence, so timing mattered less than it should. 
+> Cons: If you took out the cool world design of Nier, you'd have an.. "ok" game. The story is basic. "Demons take over humans sometimes". The levels were linear yet I had a guide I didn't need. I could span the parry button without consequence, so timing mattered less than it should.
 > 
 > But it was fun enough that I did the boss fight multiple times.
 
-[![Thumbnail](img/thumbnails/20251015210534_1.jpg)](img/2025_oct/homurahine/20251015210534_1.jpg)
-[![Thumbnail](img/thumbnails/20251015210652_1.jpg)](img/2025_oct/homurahine/20251015210652_1.jpg)
-[![Thumbnail](img/thumbnails/20251015210914_1.jpg)](img/2025_oct/homurahine/20251015210914_1.jpg)
-[![Thumbnail](img/thumbnails/20251015211952_1.jpg)](img/2025_oct/homurahine/20251015211952_1.jpg)
-[![Thumbnail](img/thumbnails/20251015212220_1.jpg)](img/2025_oct/homurahine/20251015212220_1.jpg)
-[![Thumbnail](img/thumbnails/20251015212431_1.jpg)](img/2025_oct/homurahine/20251015212431_1.jpg)
-[![Thumbnail](img/thumbnails/20251015212445_1.jpg)](img/2025_oct/homurahine/20251015212445_1.jpg)
-[![Thumbnail](img/thumbnails/20251015212731_1.jpg)](img/2025_oct/homurahine/20251015212731_1.jpg)
-[![Thumbnail](img/thumbnails/20251015213029_1.jpg)](img/2025_oct/homurahine/20251015213029_1.jpg)
-[![Thumbnail](img/thumbnails/20251015213143_1.jpg)](img/2025_oct/homurahine/20251015213143_1.jpg)
-[![Thumbnail](img/thumbnails/20251015213203_1.jpg)](img/2025_oct/homurahine/20251015213203_1.jpg)
-[![Thumbnail](img/thumbnails/20251015213232_1.jpg)](img/2025_oct/homurahine/20251015213232_1.jpg)
-[![Thumbnail](img/thumbnails/20251015213645_1.jpg)](img/2025_oct/homurahine/20251015213645_1.jpg)
-[![Thumbnail](img/thumbnails/20251015213823_1.jpg)](img/2025_oct/homurahine/20251015213823_1.jpg)
-[![Thumbnail](img/thumbnails/20251015214100_1.jpg)](img/2025_oct/homurahine/20251015214100_1.jpg)
+[![Thumbnail](img/thumbnails/20251015210534_1.jpg)](img/2025_october/homura_hime/20251015210534_1.jpg)
+[![Thumbnail](img/thumbnails/20251015210652_1.jpg)](img/2025_october/homura_hime/20251015210652_1.jpg)
+[![Thumbnail](img/thumbnails/20251015210914_1.jpg)](img/2025_october/homura_hime/20251015210914_1.jpg)
+[![Thumbnail](img/thumbnails/20251015211952_1.jpg)](img/2025_october/homura_hime/20251015211952_1.jpg)
+[![Thumbnail](img/thumbnails/20251015212220_1.jpg)](img/2025_october/homura_hime/20251015212220_1.jpg)
+[![Thumbnail](img/thumbnails/20251015212431_1.jpg)](img/2025_october/homura_hime/20251015212431_1.jpg)
+[![Thumbnail](img/thumbnails/20251015212445_1.jpg)](img/2025_october/homura_hime/20251015212445_1.jpg)
+[![Thumbnail](img/thumbnails/20251015212731_1.jpg)](img/2025_october/homura_hime/20251015212731_1.jpg)
+[![Thumbnail](img/thumbnails/20251015213029_1.jpg)](img/2025_october/homura_hime/20251015213029_1.jpg)
+[![Thumbnail](img/thumbnails/20251015213143_1.jpg)](img/2025_october/homura_hime/20251015213143_1.jpg)
+[![Thumbnail](img/thumbnails/20251015213203_1.jpg)](img/2025_october/homura_hime/20251015213203_1.jpg)
+[![Thumbnail](img/thumbnails/20251015213232_1.jpg)](img/2025_october/homura_hime/20251015213232_1.jpg)
+[![Thumbnail](img/thumbnails/20251015213645_1.jpg)](img/2025_october/homura_hime/20251015213645_1.jpg)
+[![Thumbnail](img/thumbnails/20251015213823_1.jpg)](img/2025_october/homura_hime/20251015213823_1.jpg)
+[![Thumbnail](img/thumbnails/20251015214100_1.jpg)](img/2025_october/homura_hime/20251015214100_1.jpg)
 
 # House of Necrosis Demo
 
@@ -720,25 +718,25 @@
 [![Thumbnail](img/thumbnails/20251013211628_1.jpg)](img/spilled/2025_oct/20251013211628_1.jpg)
 [![Thumbnail](img/thumbnails/20251013212033_1.jpg)](img/spilled/2025_oct/20251013212033_1.jpg)
 
-# REANIMAL
+# **REANIMAL**
 
 - **Steam Page**: [REANIMAL](https://store.steampowered.com/app/2129530/REANIMAL/)
 - **Total Play Time**: 30 minutes
-- **Will Purchase**: 
+- **Will Purchase**: Yes
 - **Type**: horror
 
-> 🕹️ **Description**: Little nightmares ++> 
+> 🕹️ **Description**: Little nightmares ++>
 > 
-> 👍  **Feedback**: GREAT
-> When the "escort mission" companion is running faster than you, you're in trouble.
+> 👍  **Feedback**: GREAT When the "escort mission" companion is running faster than you, you're in trouble.
 > 
 > Donnie: Why do you wear that stupid bunny suit? Frankie: Why do you wear that stupid human suit? - Donnie Darko
 
-[![Thumbnail](img/thumbnails/20251013202347_1.jpg)](img/2025_oct/reanimal/20251013202347_1.jpg)
-[![Thumbnail](img/thumbnails/20251013202734_1.jpg)](img/2025_oct/reanimal/20251013202734_1.jpg)
-[![Thumbnail](img/thumbnails/20251013202817_1.jpg)](img/2025_oct/reanimal/20251013202817_1.jpg)
-[![Thumbnail](img/thumbnails/20251013203109_1.jpg)](img/2025_oct/reanimal/20251013203109_1.jpg)
-[![Thumbnail](img/thumbnails/20251013203828_1.jpg)](img/2025_oct/reanimal/20251013203828_1.jpg)
-[![Thumbnail](img/thumbnails/20251013204450_1.jpg)](img/2025_oct/reanimal/20251013204450_1.jpg)
-[![Thumbnail](img/thumbnails/20251013204651_1.jpg)](img/2025_oct/reanimal/20251013204651_1.jpg)
-[![Thumbnail](img/thumbnails/20251013205036_1.jpg)](img/2025_oct/reanimal/20251013205036_1.jpg)
+[![Thumbnail](img/thumbnails/20251013202347_1.jpg)](img/2025_october/reanimal/20251013202347_1.jpg)
+[![Thumbnail](img/thumbnails/20251013202734_1.jpg)](img/2025_october/reanimal/20251013202734_1.jpg)
+[![Thumbnail](img/thumbnails/20251013202817_1.jpg)](img/2025_october/reanimal/20251013202817_1.jpg)
+[![Thumbnail](img/thumbnails/20251013203109_1.jpg)](img/2025_october/reanimal/20251013203109_1.jpg)
+[![Thumbnail](img/thumbnails/20251013203828_1.jpg)](img/2025_october/reanimal/20251013203828_1.jpg)
+[![Thumbnail](img/thumbnails/20251013204450_1.jpg)](img/2025_october/reanimal/20251013204450_1.jpg)
+[![Thumbnail](img/thumbnails/20251013204651_1.jpg)](img/2025_october/reanimal/20251013204651_1.jpg)
+[![Thumbnail](img/thumbnails/20251013205036_1.jpg)](img/2025_october/reanimal/20251013205036_1.jpg)
+

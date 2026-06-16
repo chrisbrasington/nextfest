@@ -265,6 +265,24 @@ class App(tk.Tk):
             lambda e: self.canvas.configure(scrollregion=self.canvas.bbox("all")),
         )
         self.canvas.bind("<Configure>", self._on_canvas_resize)
+        self._bind_wheel(self.canvas)
+        self._bind_wheel(self.grid_frame)
+
+    # ---- mouse-wheel scrolling -------------------------------------------
+    _WHEEL_SEQS = ("<MouseWheel>", "<Button-4>", "<Button-5>")
+
+    def _bind_wheel(self, widget):
+        for seq in self._WHEEL_SEQS:
+            widget.bind(seq, self._on_mousewheel)
+
+    def _on_mousewheel(self, event):
+        if event.num == 4:                       # X11 / XWayland wheel up
+            self.canvas.yview_scroll(-1, "units")
+        elif event.num == 5:                     # X11 / XWayland wheel down
+            self.canvas.yview_scroll(1, "units")
+        else:                                    # <MouseWheel> (delta-based)
+            self.canvas.yview_scroll(-1 if event.delta > 0 else 1, "units")
+        return "break"
 
     # ---- month handling ---------------------------------------------------
     def _reload_month(self):
@@ -430,6 +448,7 @@ class App(tk.Tk):
 
     def _render_grid(self, source_paths, preselect):
         self._clear_grid()
+        self.canvas.yview_moveto(0)        # new game -> back to top
         self.selected = set(preselect)
         for path in source_paths:
             fn = os.path.basename(path)
@@ -454,6 +473,8 @@ class App(tk.Tk):
             lbl.bind("<Enter>", lambda e, b=fn: self._show_preview(e, b))
             lbl.bind("<Motion>", lambda e, b=fn: self._move_preview(e))
             lbl.bind("<Leave>", lambda e: self._hide_preview())
+            self._bind_wheel(tile)
+            self._bind_wheel(lbl)
             self._paint_tile(fn)
         if not self.grid_sources:
             ttk.Label(self.grid_frame,
