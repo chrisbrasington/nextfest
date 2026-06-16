@@ -22,8 +22,8 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from core import config, markdown as md, screenshots, steam_api, steam_vdf, discord
 from core.models import GameEntry
 
-GRID_COLUMNS = 4
-THUMB_DISPLAY = (200, 120)
+THUMB_DISPLAY = (200, 120)   # max tile image size; columns reflow to window width
+TILE_PAD = 3
 
 # modern dark palette
 BG = "#1e1f2b"          # window background
@@ -77,6 +77,9 @@ class App(tk.Tk):
         self.thumb_refs = {}              # basename -> PhotoImage (keep alive!)
         self.selected = set()             # selected screenshot basenames
         self.tiles = {}                   # basename -> tile frame (for highlight)
+        self.grid_order = []              # basenames in display order (for reflow)
+        self.preview_win = None           # hover-preview Toplevel
+        self.preview_cache = {}           # basename -> large PhotoImage
         self.purchase_var = tk.StringVar()
         self.verdict_var = tk.StringVar()
 
@@ -247,11 +250,12 @@ class App(tk.Tk):
         sb.pack(side=tk.RIGHT, fill=tk.Y)
         self.canvas.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
         self.grid_frame = ttk.Frame(self.canvas)
-        self.canvas.create_window((0, 0), window=self.grid_frame, anchor="nw")
+        self.grid_window = self.canvas.create_window((0, 0), window=self.grid_frame, anchor="nw")
         self.grid_frame.bind(
             "<Configure>",
             lambda e: self.canvas.configure(scrollregion=self.canvas.bbox("all")),
         )
+        self.canvas.bind("<Configure>", self._on_canvas_resize)
 
     # ---- month handling ---------------------------------------------------
     def _reload_month(self):
@@ -344,7 +348,7 @@ class App(tk.Tk):
         self.vars["title"].set(title)
         self.vars["store_url"].set(info.store_url)
         self.vars["playtime"].set(md.format_time_played(str(g.playtime_min)))
-        self._load_grid(g.appid, preselect=[])
+        self._grid_for_new(g.appid)
         self.status.config(text=f"Loaded {title or g.appid} (playtime is cumulative — edit it)")
 
     # ---- prior entry editing ---------------------------------------------
@@ -368,30 +372,41 @@ class App(tk.Tk):
         self.desc_var.set(entry.description)
         self.feedback_text.delete("1.0", tk.END)
         self.feedback_text.insert("1.0", entry.feedback)
-        if appid:
-            self._load_grid(appid, preselect=entry.screenshots)
-        else:
-            self._clear_grid()
-            # still remember existing screenshots so saving keeps them
-            self.selected = set(entry.screenshots)
+        self._grid_for_entry(entry, appid)
         self.status.config(text=f"Editing: {entry.title}")
 
     # ---- screenshot grid --------------------------------------------------
     def _clear_grid(self):
+        self._hide_preview()
         for w in self.grid_frame.winfo_children():
             w.destroy()
         self.thumb_refs.clear()
         self.grid_sources.clear()
         self.tiles.clear()
+        self.grid_order = []
+        self.preview_cache.clear()
         self.selected = set()
 
-    def _load_grid(self, appid, preselect):
+    def _grid_for_new(self, appid):
+        """Fresh game just picked from Steam: show that appid's screenshots."""
+        self._render_grid(screenshots.list_for_appid(appid), preselect=[])
+
+    def _grid_for_entry(self, entry, appid):
+        """Existing entry: show its already-saved repo shots (preselected) plus
+        any Steam shots for the appid (the store appid often has none — that's
+        fine, the saved ones still appear)."""
+        paths = screenshots.list_in_repo(entry, self.ctx)
+        if appid:
+            paths = paths + screenshots.list_for_appid(appid)
+        self._render_grid(paths, preselect=list(entry.screenshots))
+
+    def _render_grid(self, source_paths, preselect):
         self._clear_grid()
         self.selected = set(preselect)
-        paths = screenshots.list_for_appid(appid)
-        # include any already-in-repo screenshots that may not be in the steam dir
-        for i, path in enumerate(paths):
+        for path in source_paths:
             fn = os.path.basename(path)
+            if fn in self.grid_sources:        # dedup (repo + steam overlap)
+                continue
             self.grid_sources[fn] = path
             try:
                 src = screenshots.steam_thumb_for(path) or path
@@ -405,13 +420,88 @@ class App(tk.Tk):
                             highlightthickness=3, highlightbackground=BORDER)
             lbl = tk.Label(tile, image=photo, bg=SURFACE, bd=0)
             lbl.pack(padx=2, pady=2)
-            tile.grid(row=i // GRID_COLUMNS, column=i % GRID_COLUMNS, padx=4, pady=4)
             self.tiles[fn] = tile
+            self.grid_order.append(fn)
             lbl.bind("<Button-1>", lambda e, b=fn: self._toggle(b))
+            lbl.bind("<Enter>", lambda e, b=fn: self._show_preview(e, b))
+            lbl.bind("<Motion>", lambda e, b=fn: self._move_preview(e))
+            lbl.bind("<Leave>", lambda e: self._hide_preview())
             self._paint_tile(fn)
-        if not paths:
+        if not self.grid_sources:
             ttk.Label(self.grid_frame,
-                      text="(no Steam screenshots found for this appid)").grid(row=0, column=0)
+                      text="(no screenshots found — any already saved are still kept)").grid(row=0, column=0)
+        self._reflow()
+
+    # ---- responsive layout ------------------------------------------------
+    def _current_cols(self, width=None):
+        if width is None:
+            width = self.canvas.winfo_width()
+        if width <= 1:
+            width = 900
+        tile_w = THUMB_DISPLAY[0] + 2 * TILE_PAD + 10
+        return max(1, width // tile_w)
+
+    def _on_canvas_resize(self, event):
+        self.canvas.itemconfigure(self.grid_window, width=event.width)
+        self._reflow(event.width)
+
+    def _reflow(self, width=None):
+        if not self.grid_order:
+            return
+        cols = self._current_cols(width)
+        for i, fn in enumerate(self.grid_order):
+            tile = self.tiles.get(fn)
+            if tile:
+                tile.grid_configure(row=i // cols, column=i % cols,
+                                    padx=TILE_PAD, pady=TILE_PAD, sticky="nw")
+        total = self.grid_frame.grid_size()[0]
+        for c in range(total):
+            self.grid_frame.columnconfigure(c, weight=0)
+
+    # ---- hover preview ----------------------------------------------------
+    def _show_preview(self, event, basename):
+        path = self.grid_sources.get(basename)
+        if not path:
+            return
+        photo = self.preview_cache.get(basename)
+        if photo is None:
+            try:
+                img = Image.open(path)
+                sw, sh = self.winfo_screenwidth(), self.winfo_screenheight()
+                img.thumbnail((min(900, sw - 80), min(620, sh - 120)))
+                photo = ImageTk.PhotoImage(img)
+            except Exception:
+                return
+            self.preview_cache[basename] = photo
+        if self.preview_win is None or not tk.Toplevel.winfo_exists(self.preview_win):
+            self.preview_win = tk.Toplevel(self)
+            self.preview_win.overrideredirect(True)
+            self.preview_win.configure(bg=ACCENT)
+            self._preview_label = tk.Label(self.preview_win, bd=0, bg=BG)
+            self._preview_label.pack(padx=2, pady=2)
+        self._preview_label.configure(image=photo)
+        self._preview_label.image = photo
+        self.preview_win.deiconify()
+        self._move_preview(event)
+
+    def _move_preview(self, event):
+        win = self.preview_win
+        if win is None or not tk.Toplevel.winfo_exists(win):
+            return
+        win.update_idletasks()
+        w, h = win.winfo_width(), win.winfo_height()
+        sw, sh = self.winfo_screenwidth(), self.winfo_screenheight()
+        x = event.x_root + 24
+        y = event.y_root + 24
+        if x + w > sw:
+            x = event.x_root - w - 24
+        if y + h > sh:
+            y = sh - h - 20
+        win.geometry(f"+{max(0, x)}+{max(0, y)}")
+
+    def _hide_preview(self):
+        if self.preview_win is not None and tk.Toplevel.winfo_exists(self.preview_win):
+            self.preview_win.withdraw()
 
     def _toggle(self, basename):
         if basename in self.selected:

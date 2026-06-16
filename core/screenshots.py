@@ -20,6 +20,16 @@ def list_for_appid(appid):
     return [os.path.join(d, f) for f in sorted(files)]
 
 
+def list_in_repo(entry, ctx):
+    """Full-size screenshots already copied into the repo for this entry."""
+    d = os.path.join(ctx.img_dir, entry.slug)
+    if not os.path.isdir(d):
+        return []
+    files = [f for f in os.listdir(d)
+             if f.lower().endswith((".png", ".jpg", ".jpeg", ".gif"))]
+    return [os.path.join(d, f) for f in sorted(files)]
+
+
 def steam_thumb_for(full_path):
     """Steam's own small thumbnail for a screenshot, if present (fast grid render)."""
     d = os.path.dirname(full_path)
