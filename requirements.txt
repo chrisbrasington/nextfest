@@ -1,3 +1,4 @@
 pillow
 requests
 vdf
+tkinterdnd2  # optional: enables drag-drop of screenshots onto the grid; Add button works without it

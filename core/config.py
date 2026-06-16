@@ -115,6 +115,57 @@ def discover_month_files():
     return out
 
 
+# --- README index ----------------------------------------------------------
+
+# token (full name or 3-letter abbrev, lowercased) -> (month_number, full_name)
+_MONTH_LOOKUP = {}
+for _i, _name in enumerate(_MONTHS, start=1):
+    _MONTH_LOOKUP[_name.lower()] = (_i, _name)
+    _MONTH_LOOKUP[_name[:3].lower()] = (_i, _name)
+
+
+def _parse_month_file(name):
+    """'2025_October.md' -> (2025, 10, 'October 2025'); '2023.md' -> (2023, 0, '2023')."""
+    stem = name[:-3] if name.endswith(".md") else name
+    parts = stem.split("_")
+    year = int(parts[0])
+    if len(parts) == 1:                       # whole-year file, no month
+        return year, 0, str(year)
+    num, full = _MONTH_LOOKUP.get(parts[1].lower(), (0, parts[1]))
+    return year, num, f"{full} {year}"
+
+
+def render_readme():
+    """Build the README index from the month files on disk: years descending,
+    months descending within each year."""
+    by_year = {}
+    for f in discover_month_files():
+        year, month, label = _parse_month_file(os.path.basename(f))
+        by_year.setdefault(year, []).append((month, label, os.path.basename(f)))
+    blocks = []
+    for year in sorted(by_year, reverse=True):
+        blocks.append(f"# {year}")
+        for _m, label, name in sorted(by_year[year], reverse=True):
+            blocks.append(f"## [{label}]({name})")
+    return "\n\n".join(blocks) + "\n"
+
+
+def reconcile_readme():
+    """Rewrite README.md to match the month files on disk (no-op if unchanged).
+    Returns True if it wrote a change."""
+    path = os.path.join(REPO_ROOT, "README.md")
+    new = render_readme()
+    old = ""
+    if os.path.isfile(path):
+        with open(path, encoding="utf-8") as f:
+            old = f.read()
+    if old != new:
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(new)
+        return True
+    return False
+
+
 def img_slug_for_filename(md_filename):
     """img slug from a month filename: '2026_June.md' -> '2026_june'."""
     return md_filename.replace(".md", "").lower()

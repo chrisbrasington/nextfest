@@ -10,7 +10,7 @@ import subprocess
 
 def render(entry):
     """Plain text suitable for pasting into Discord."""
-    lines = [f"**{entry.title}**"]
+    lines = [f"# **{entry.title}**"]
     if entry.store_url:
         lines.append(entry.store_url)
 

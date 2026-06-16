@@ -82,9 +82,16 @@ class App(tk.Tk):
         self.preview_cache = {}           # basename -> large PhotoImage
         self.purchase_var = tk.StringVar()
         self.verdict_var = tk.StringVar()
+        self._dirty = False        # unsaved edits pending?
+        self._loading = False      # suppress dirty-marking while populating the form
 
         self._apply_theme()
         self._build_ui()
+        self._enable_dnd()
+        self._wire_dirty_tracking()
+        self.protocol("WM_DELETE_WINDOW", self._on_close)
+        self.bind_all("<Control-s>", lambda _e: (self.save(), "break")[1])
+        config.reconcile_readme()      # pick up any month files missing from README
         self._reload_month()
         self.refresh_last_played()
 
@@ -190,8 +197,9 @@ class App(tk.Tk):
         actions.pack(side=tk.BOTTOM, fill=tk.X)
         ttk.Button(actions, text="💾  Save to markdown", style="Accent.TButton", command=self.save).pack(side=tk.LEFT)
         ttk.Button(actions, text="📋  Copy for Discord", command=self.copy_discord).pack(side=tk.LEFT, padx=6)
-        ttk.Button(actions, text="📂  Open screenshot folder", command=self.open_folder).pack(side=tk.LEFT)
-        ttk.Button(actions, text="🆕  Clear form", command=self.clear_form).pack(side=tk.LEFT, padx=6)
+        ttk.Button(actions, text="⬆️  Add screenshots", command=self.upload_screenshots).pack(side=tk.LEFT)
+        ttk.Button(actions, text="📂  Open screenshot folder", command=self.open_folder).pack(side=tk.LEFT, padx=6)
+        ttk.Button(actions, text="🆕  Clear form", command=self.clear_form).pack(side=tk.LEFT)
 
     def _build_form(self, parent):
         form = ttk.Frame(parent)
@@ -328,6 +336,8 @@ class App(tk.Tk):
         sel = self.played_list.curselection()
         if not sel:
             return
+        if not self._ok_to_leave():
+            return
         g = self._played[sel[0]]
         self.status.config(text="Looking up game…")
         threading.Thread(target=self._load_played, args=(g,), daemon=True).start()
@@ -345,12 +355,14 @@ class App(tk.Tk):
             self._load_entry(existing, appid=g.appid)
             self.status.config(text=f"Editing existing entry: {title}")
             return
+        self._begin_load()
         self.clear_form()
         self.appid = g.appid
         self.vars["title"].set(title)
         self.vars["store_url"].set(info.store_url)
         self.vars["playtime"].set(md.format_time_played(str(g.playtime_min)))
         self._grid_for_new(g.appid)
+        self._end_load()
         self.status.config(text=f"Loaded {title or g.appid} (playtime is cumulative — edit it)")
 
     # ---- prior entry editing ---------------------------------------------
@@ -358,11 +370,14 @@ class App(tk.Tk):
         sel = self.prior_list.curselection()
         if not sel:
             return
+        if not self._ok_to_leave():
+            return
         entry = self._prior_entries[sel[0]]
         appid = entry.appid
         self._load_entry(entry, appid=appid)
 
     def _load_entry(self, entry, appid=None):
+        self._begin_load()
         self.clear_form()
         self.appid = appid
         self.vars["title"].set(entry.title)
@@ -375,6 +390,7 @@ class App(tk.Tk):
         self.feedback_text.delete("1.0", tk.END)
         self.feedback_text.insert("1.0", entry.feedback)
         self._grid_for_entry(entry, appid)
+        self._end_load()
         self.status.config(text=f"Editing: {entry.title}")
 
     # ---- screenshot grid --------------------------------------------------
@@ -516,6 +532,71 @@ class App(tk.Tk):
         if self.preview_win is not None and tk.Toplevel.winfo_exists(self.preview_win):
             self.preview_win.withdraw()
 
+    # ---- adding screenshots (upload button + drag-drop) -------------------
+    IMG_EXTS = (".png", ".jpg", ".jpeg", ".gif")
+
+    def upload_screenshots(self):
+        self._add_uploads(self._pick_files())
+
+    def _pick_files(self):
+        """Native multi-select file picker. KDE's kdialog first (matches your
+        Plasma theme, lets you type a path), then zenity, then Tk's dialog as a
+        last resort. Returns a list of absolute paths ([] if cancelled)."""
+        import shutil
+        import subprocess
+
+        home = os.path.expanduser("~")
+        if shutil.which("kdialog"):
+            r = subprocess.run(
+                ["kdialog", "--getopenfilename", home,
+                 "*.png *.jpg *.jpeg *.gif|Images", "--multiple", "--separate-output"],
+                capture_output=True, text=True)
+            return [l for l in r.stdout.splitlines() if l.strip()] if r.returncode == 0 else []
+        if shutil.which("zenity"):
+            r = subprocess.run(
+                ["zenity", "--file-selection", "--multiple", "--separator=\n",
+                 "--title=Add screenshots",
+                 "--file-filter=Images | *.png *.jpg *.jpeg *.gif"],
+                capture_output=True, text=True)
+            return [l for l in r.stdout.splitlines() if l.strip()] if r.returncode == 0 else []
+        from tkinter import filedialog
+        return list(filedialog.askopenfilenames(
+            title="Add screenshots",
+            filetypes=[("Images", "*.png *.jpg *.jpeg *.gif"), ("All files", "*.*")]))
+
+    def _add_uploads(self, paths):
+        """Fold external image files into the grid: appended, selected, ready to
+        save. copy_selected() copies them into the repo on Save."""
+        imgs = [p for p in paths
+                if os.path.isfile(p) and p.lower().endswith(self.IMG_EXTS)]
+        if not imgs:
+            return
+        current = list(self.grid_sources.values())   # preserve display order
+        new = [p for p in imgs if os.path.basename(p) not in self.grid_sources]
+        self.selected |= {os.path.basename(p) for p in new}
+        self._render_grid(current + new, preselect=list(self.selected))
+        self._mark_dirty()
+        self.status.config(text=f"Added {len(new)} screenshot(s) — Save to keep them")
+
+    def _enable_dnd(self):
+        """Best-effort OS file drag-drop onto the grid (needs tkinterdnd2)."""
+        self._dnd_on = False
+        try:
+            from tkinterdnd2 import DND_FILES, TkinterDnD
+            TkinterDnD._require(self)
+            self.canvas.drop_target_register(DND_FILES)
+            self.canvas.dnd_bind("<<Drop>>", self._on_drop)
+            self._dnd_on = True
+        except Exception:
+            pass  # button-based upload still works
+
+    def _on_drop(self, event):
+        try:
+            paths = list(self.tk.splitlist(event.data))   # handles {braced paths}
+        except Exception:
+            paths = event.data.split()
+        self._add_uploads(paths)
+
     def _toggle(self, basename):
         if basename in self.selected:
             self.selected.discard(basename)
@@ -523,12 +604,15 @@ class App(tk.Tk):
             self.selected.add(basename)
         self._paint_tile(basename)
         self._update_grid_header()
+        self._mark_dirty()
 
     def _update_grid_header(self):
         total = len(self.grid_sources) + len([b for b in self.selected
                                               if b not in self.grid_sources])
         sel = len(self.selected)
-        self.grid_header.config(text=f"Screenshots — {total} found · {sel} selected")
+        hint = "drag images here or use Add screenshots" if getattr(self, "_dnd_on", False) \
+            else "use Add screenshots ⬆️"
+        self.grid_header.config(text=f"Screenshots — {total} found · {sel} selected  ({hint})")
 
     def _paint_tile(self, basename):
         tile = self.tiles.get(basename)
@@ -536,6 +620,58 @@ class App(tk.Tk):
             on = basename in self.selected
             tile.configure(highlightbackground=SELECT if on else BORDER,
                            bg=SELECT if on else BORDER)
+
+    # ---- unsaved-changes tracking ----------------------------------------
+    def _wire_dirty_tracking(self):
+        for var in list(self.vars.values()) + [self.desc_var, self.purchase_var,
+                                               self.verdict_var]:
+            var.trace_add("write", self._mark_dirty)
+        self.feedback_text.bind("<<Modified>>", self._on_text_modified)
+
+    def _on_text_modified(self, _evt):
+        if not self.feedback_text.edit_modified():
+            return
+        self.feedback_text.edit_modified(False)   # reset so the next edit fires
+        self._mark_dirty()
+
+    def _mark_dirty(self, *_):
+        if self._loading or self._dirty:
+            return
+        self._set_dirty(True)
+
+    def _begin_load(self):
+        self._loading = True
+
+    def _end_load(self):
+        # Populating fires var traces and a queued Text <<Modified>> event. Stay
+        # in loading mode until the event queue drains, THEN clear dirty — else
+        # the late <<Modified>> marks an untouched game as edited.
+        def done():
+            self._loading = False
+            self._set_dirty(False)
+        self.after_idle(done)
+
+    def _set_dirty(self, val):
+        self._dirty = val
+        self.title("Next Fest Logger" + ("  *  (unsaved)" if val else ""))
+
+    def _ok_to_leave(self):
+        """Gate any action that abandons the current form (close, switch games).
+        Returns True if it's safe to proceed, False to abort."""
+        if not self._dirty:
+            return True
+        ans = messagebox.askyesnocancel(
+            "Unsaved changes", "Save your changes first?")
+        if ans is None:            # Cancel -> abort
+            return False
+        if ans:                    # Yes -> save; block if it didn't take
+            self.save()
+            return not self._dirty  # save bailed (e.g. missing title)
+        return True                # No -> discard
+
+    def _on_close(self):
+        if self._ok_to_leave():
+            self.destroy()
 
     # ---- build entry from form -------------------------------------------
     def _form_entry(self):
@@ -576,8 +712,10 @@ class App(tk.Tk):
         content = md.upsert(content, entry, self.ctx)
         with open(self.ctx.md_path, "w", encoding="utf-8") as f:
             f.write(content)
+        config.reconcile_readme()      # a brand-new month file now exists -> index it
         self._reload_month()
         self.month_var.set(self.ctx.md_filename)
+        self._set_dirty(False)
         self.status.config(text=f"Saved {entry.title} -> {self.ctx.md_filename}")
 
     def copy_discord(self):
@@ -600,6 +738,8 @@ class App(tk.Tk):
         self.feedback_text.delete("1.0", tk.END)
         self._clear_grid()
         self.appid = None
+        if not self._loading:   # standalone "Clear form" -> clean slate, not dirty
+            self._set_dirty(False)
 
 
 def main():
