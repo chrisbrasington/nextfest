@@ -29,7 +29,7 @@
 | [Spilled](#spilled)                                       | 12 minutes      |               | cozy                                        |                   |
 | [Carnival Hunt](#carnival-hunt)                           | 11 minutes      |               | horror, multiplayer                         |
 | [Megabonk](#megabonk)                                     | 10 minutes      |               | survivors                                   |
-| [ROLLA](#rolla)                                           | 6 minutes       |               | horror                                      |
+| [ROLLA](#rolla)                                           | 6 minutes       | No            | horror                                      |
 
 # The Sance of Blake Manor Demo
 
@@ -136,25 +136,25 @@
 [![Thumbnail](img/thumbnails/20251020194506_1.jpg)](img/2025_oct/bunn/20251020194506_1.jpg)
 [![Thumbnail](img/thumbnails/20251020194553_1.jpg)](img/2025_oct/bunn/20251020194553_1.jpg)
 
-# ROLLA
+# **ROLLA**
 
 - **Steam Page**: [ROLLA](https://store.steampowered.com/app/3975830/ROLLA/)
 - **Total Play Time**: 6 minutes
-- **Will Purchase**: 
+- **Will Purchase**: No
 - **Type**: horror
 
-> 🕹️ **Description**: 
+> 🕹️ **Description**: horror katamari damacy?
 > 
-> 👍👎  **Feedback**: 
+> 👎  **Feedback**: Feedback: What makes Katamari Damacy fun is you start the size of a thumbnail and then devour cities. But mostly the music is fun and the stuff you grab sticks to you. Nothing here sticks to you and I played this game twice in 6 minutes. It was meh.
 
-[![Thumbnail](img/thumbnails/20251020191747_1.jpg)](img/2025_oct/rolla/20251020191747_1.jpg)
-[![Thumbnail](img/thumbnails/20251020191822_1.jpg)](img/2025_oct/rolla/20251020191822_1.jpg)
-[![Thumbnail](img/thumbnails/20251020191833_1.jpg)](img/2025_oct/rolla/20251020191833_1.jpg)
-[![Thumbnail](img/thumbnails/20251020191845_1.jpg)](img/2025_oct/rolla/20251020191845_1.jpg)
-[![Thumbnail](img/thumbnails/20251020191900_1.jpg)](img/2025_oct/rolla/20251020191900_1.jpg)
-[![Thumbnail](img/thumbnails/20251020191909_1.jpg)](img/2025_oct/rolla/20251020191909_1.jpg)
-[![Thumbnail](img/thumbnails/20251020192250_1.jpg)](img/2025_oct/rolla/20251020192250_1.jpg)
-[![Thumbnail](img/thumbnails/20251020192347_1.jpg)](img/2025_oct/rolla/20251020192347_1.jpg)
+[![Thumbnail](img/thumbnails/20251020191747_1.jpg)](img/2025_october/rolla/20251020191747_1.jpg)
+[![Thumbnail](img/thumbnails/20251020191822_1.jpg)](img/2025_october/rolla/20251020191822_1.jpg)
+[![Thumbnail](img/thumbnails/20251020191833_1.jpg)](img/2025_october/rolla/20251020191833_1.jpg)
+[![Thumbnail](img/thumbnails/20251020191845_1.jpg)](img/2025_october/rolla/20251020191845_1.jpg)
+[![Thumbnail](img/thumbnails/20251020191900_1.jpg)](img/2025_october/rolla/20251020191900_1.jpg)
+[![Thumbnail](img/thumbnails/20251020191909_1.jpg)](img/2025_october/rolla/20251020191909_1.jpg)
+[![Thumbnail](img/thumbnails/20251020192250_1.jpg)](img/2025_october/rolla/20251020192250_1.jpg)
+[![Thumbnail](img/thumbnails/20251020192347_1.jpg)](img/2025_october/rolla/20251020192347_1.jpg)
 
 # Lorns Lure
 

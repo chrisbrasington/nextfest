@@ -21,6 +21,7 @@ class GameEntry:
     feedback: str = ""                # 👍👎 Feedback body
     feedback_emoji: str = DEFAULT_FEEDBACK_EMOJI
     screenshots: list = field(default_factory=list)  # full-size filenames (basenames)
+    screenshot_paths: list = field(default_factory=list)  # repo-relative paths as written in the gallery
     appid: int = None                  # the played (demo) appid, for screenshots
 
     @property

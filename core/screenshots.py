@@ -30,6 +30,40 @@ def list_in_repo(entry, ctx):
     return [os.path.join(d, f) for f in sorted(files)]
 
 
+def list_in_repo_any(slug):
+    """Repo screenshots for a slug across EVERY month's img folder.
+
+    Old games logged in a prior month keep their shots under that month's
+    img/<month>/<slug>/ dir, not the current one. Deduped by basename,
+    earliest month first.
+    """
+    out, seen = [], set()
+    if not os.path.isdir(config.IMG_ROOT):
+        return out
+    for month in sorted(os.listdir(config.IMG_ROOT)):
+        d = os.path.join(config.IMG_ROOT, month, slug)
+        if not os.path.isdir(d):
+            continue
+        for f in sorted(os.listdir(d)):
+            if f.lower().endswith((".png", ".jpg", ".jpeg", ".gif")) and f not in seen:
+                seen.add(f)
+                out.append(os.path.join(d, f))
+    return out
+
+
+def list_from_entry_paths(entry):
+    """Resolve the gallery's own repo-relative paths to existing files.
+
+    Authoritative: these are exactly what the markdown links to, regardless of
+    any folder-naming drift the slug guesser would miss."""
+    out = []
+    for rel in getattr(entry, "screenshot_paths", None) or []:
+        p = os.path.join(config.REPO_ROOT, rel)
+        if os.path.isfile(p):
+            out.append(p)
+    return out
+
+
 def steam_thumb_for(full_path):
     """Steam's own small thumbnail for a screenshot, if present (fast grid render)."""
     d = os.path.dirname(full_path)

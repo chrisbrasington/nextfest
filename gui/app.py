@@ -241,7 +241,8 @@ class App(tk.Tk):
         self.feedback_text.pack(fill=tk.X, pady=(2, 0))
 
     def _build_grid(self, parent):
-        ttk.Label(parent, text="Screenshots (click to select)", style="Header.TLabel").pack(anchor=tk.W, pady=(10, 2))
+        self.grid_header = ttk.Label(parent, text="Screenshots", style="Header.TLabel")
+        self.grid_header.pack(anchor=tk.W, pady=(10, 2))
         wrap = ttk.Frame(parent)
         wrap.pack(fill=tk.BOTH, expand=True)
         self.canvas = tk.Canvas(wrap, highlightthickness=0, bg=BG)
@@ -289,6 +290,7 @@ class App(tk.Tk):
         if os.path.exists(self.ctx.md_path):
             with open(self.ctx.md_path, encoding="utf-8") as f:
                 self._prior_entries = md.parse_entries(f.read())
+            self._prior_entries.reverse()   # newest (last-appended) at top
         for e in self._prior_entries:
             self.prior_list.insert(tk.END, e.title)
 
@@ -386,18 +388,28 @@ class App(tk.Tk):
         self.grid_order = []
         self.preview_cache.clear()
         self.selected = set()
+        if hasattr(self, "grid_header"):
+            self._update_grid_header()
 
     def _grid_for_new(self, appid):
-        """Fresh game just picked from Steam: show that appid's screenshots."""
-        self._render_grid(screenshots.list_for_appid(appid), preselect=[])
+        """Fresh game just picked from Steam: Steam shots first (priority), then
+        any shots already saved in the repo for this title (old games whose
+        Steam screenshots are gone still show their saved ones)."""
+        paths = screenshots.list_for_appid(appid)
+        title = self.vars["title"].get().strip()
+        if title:
+            paths = paths + screenshots.list_in_repo_any(config.game_slug(title))
+        self._render_grid(paths, preselect=[])
 
     def _grid_for_entry(self, entry, appid):
-        """Existing entry: show its already-saved repo shots (preselected) plus
-        any Steam shots for the appid (the store appid often has none — that's
-        fine, the saved ones still appear)."""
-        paths = screenshots.list_in_repo(entry, self.ctx)
+        """Existing entry: Steam shots for the appid take priority, then the
+        already-saved repo shots (across any month) — preselected. The store
+        appid often has no Steam shots; the saved ones still appear."""
+        paths = []
         if appid:
-            paths = paths + screenshots.list_for_appid(appid)
+            paths += screenshots.list_for_appid(appid)
+        paths += screenshots.list_from_entry_paths(entry)   # exact gallery paths
+        paths += screenshots.list_in_repo_any(entry.slug)   # slug-derived fallback
         self._render_grid(paths, preselect=list(entry.screenshots))
 
     def _render_grid(self, source_paths, preselect):
@@ -430,6 +442,7 @@ class App(tk.Tk):
         if not self.grid_sources:
             ttk.Label(self.grid_frame,
                       text="(no screenshots found — any already saved are still kept)").grid(row=0, column=0)
+        self._update_grid_header()
         self._reflow()
 
     # ---- responsive layout ------------------------------------------------
@@ -509,6 +522,13 @@ class App(tk.Tk):
         else:
             self.selected.add(basename)
         self._paint_tile(basename)
+        self._update_grid_header()
+
+    def _update_grid_header(self):
+        total = len(self.grid_sources) + len([b for b in self.selected
+                                              if b not in self.grid_sources])
+        sel = len(self.selected)
+        self.grid_header.config(text=f"Screenshots — {total} found · {sel} selected")
 
     def _paint_tile(self, basename):
         tile = self.tiles.get(basename)

@@ -87,7 +87,7 @@ def render_detail(entry, ctx):
     desc = entry.description.strip()
     fb = _render_feedback_body(entry.feedback)
     section = (
-        f"# {entry.title}\n\n"
+        f"# **{entry.title}**\n\n"
         f"- **Steam Page**: [{entry.title}]({entry.store_url})\n"
         f"- **Total Play Time**: {entry.playtime}\n"
         f"- **Will Purchase**: {entry.will_purchase}\n"
@@ -107,6 +107,17 @@ def render_detail(entry, ctx):
 _SECTION_RE = re.compile(r"^# (.+)$", re.MULTILINE)
 
 
+def _clean_heading(text):
+    """Strip a bold wrapper from a heading: '**Title**' -> 'Title'.
+
+    New entries render '# **Title**'; older files use '# Title'. Both parse the
+    same so anchors/dedup keep matching."""
+    t = text.strip()
+    if t.startswith("**") and t.endswith("**") and len(t) > 4:
+        t = t[2:-2].strip()
+    return t
+
+
 def _split_sections(content):
     """Yield (title, body_text, start, end) for every '# ' heading block.
 
@@ -116,7 +127,7 @@ def _split_sections(content):
     for i, m in enumerate(matches):
         start = m.start()
         end = matches[i + 1].start() if i + 1 < len(matches) else len(content)
-        yield m.group(1).strip(), content[start:end], start, end
+        yield _clean_heading(m.group(1)), content[start:end], start, end
 
 
 def parse_entry(body, title):
@@ -167,7 +178,11 @@ def parse_entry(body, title):
             paras.append(" ".join(cur).strip())
         entry.feedback = "\n\n".join(p for p in paras if p)
 
-    entry.screenshots = re.findall(r"\]\(img/[^)]+/([^/)]+)\)\s*$", body, re.MULTILINE)
+    # Keep the FULL repo path the gallery actually points at (folder naming has
+    # drifted over the years — img/2025_oct/exorally vs img/2025_october/<slug>),
+    # plus the basenames for dedup/selection.
+    entry.screenshot_paths = re.findall(r"\]\((img/[^)]+)\)\s*$", body, re.MULTILINE)
+    entry.screenshots = [p.rsplit("/", 1)[-1] for p in entry.screenshot_paths]
     return entry
 
 
